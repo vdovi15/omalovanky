@@ -534,14 +534,28 @@ main {
   padding: 8px 10px;
 }
 
+.coloring-card-body p {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .category-card-body h2,
 .coloring-card-body h3 {
   margin: 0;
   font-family: Georgia, "Palatino Linotype", serif;
 }
 
+.coloring-card {
+  display: flex;
+  flex-direction: column;
+}
+
 .coloring-card-link {
-  display: block;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
 
 .category-card-body p,
@@ -603,10 +617,10 @@ main {
 .theme-princesses { background: white; }
 .theme-flowers   { background: white; }
 
-.theme-cars .category-card-body      { background: rgba(255, 143, 90, 0.10); }
-.theme-animals .category-card-body   { background: rgba(94, 184, 164, 0.10); }
-.theme-princesses .category-card-body { background: rgba(243, 176, 185, 0.12); }
-.theme-flowers .category-card-body   { background: rgba(244, 201, 93, 0.12); }
+.theme-cars .category-card-body, .theme-cars .coloring-card-body, .theme-cars .coloring-card-actions           { background: rgba(255, 143, 90, 0.10); }
+.theme-animals .category-card-body, .theme-animals .coloring-card-body, .theme-animals .coloring-card-actions     { background: rgba(94, 184, 164, 0.10); }
+.theme-princesses .category-card-body, .theme-princesses .coloring-card-body, .theme-princesses .coloring-card-actions { background: rgba(243, 176, 185, 0.12); }
+.theme-flowers .category-card-body, .theme-flowers .coloring-card-body, .theme-flowers .coloring-card-actions     { background: rgba(244, 201, 93, 0.12); }
 
 .theme-space     { background: white; }
 .theme-dinosaurs { background: white; }
@@ -615,12 +629,12 @@ main {
 .theme-food      { background: white; }
 .theme-sports    { background: white; }
 
-.theme-space .category-card-body      { background: rgba(123, 107, 200, 0.08); }
-.theme-dinosaurs .category-card-body  { background: rgba(106, 170, 106, 0.08); }
-.theme-ocean .category-card-body      { background: rgba(77, 184, 216, 0.08); }
-.theme-fairytales .category-card-body { background: rgba(200, 107, 154, 0.08); }
-.theme-food .category-card-body       { background: rgba(240, 160, 48, 0.08); }
-.theme-sports .category-card-body     { background: rgba(224, 88, 88, 0.08); }
+.theme-space .category-card-body,      .theme-space .coloring-card-body,      .theme-space .coloring-card-actions      { background: rgba(123, 107, 200, 0.08); }
+.theme-dinosaurs .category-card-body,  .theme-dinosaurs .coloring-card-body,  .theme-dinosaurs .coloring-card-actions  { background: rgba(106, 170, 106, 0.08); }
+.theme-ocean .category-card-body,      .theme-ocean .coloring-card-body,      .theme-ocean .coloring-card-actions      { background: rgba(77, 184, 216, 0.08); }
+.theme-fairytales .category-card-body, .theme-fairytales .coloring-card-body, .theme-fairytales .coloring-card-actions { background: rgba(200, 107, 154, 0.08); }
+.theme-food .category-card-body,       .theme-food .coloring-card-body,       .theme-food .coloring-card-actions       { background: rgba(240, 160, 48, 0.08); }
+.theme-sports .category-card-body,     .theme-sports .coloring-card-body,     .theme-sports .coloring-card-actions     { background: rgba(224, 88, 88, 0.08); }
 
 /* Age group badge colours */
 .badge-age-4-7 { background: rgba(94, 184, 164, 0.22); color: #2e7a6a; }
@@ -644,9 +658,9 @@ main {
 .theme-clothes   { background: white; }
 .theme-jobs      { background: white; }
 
-.theme-buildings .category-card-body  { background: rgba(212, 149, 106, 0.08); }
-.theme-clothes .category-card-body    { background: rgba(196, 154, 200, 0.08); }
-.theme-jobs .category-card-body       { background: rgba(91, 168, 212, 0.08); }
+.theme-buildings .category-card-body, .theme-buildings .coloring-card-body, .theme-buildings .coloring-card-actions { background: rgba(212, 149, 106, 0.08); }
+.theme-clothes .category-card-body,   .theme-clothes .coloring-card-body,   .theme-clothes .coloring-card-actions   { background: rgba(196, 154, 200, 0.08); }
+.theme-jobs .category-card-body,      .theme-jobs .coloring-card-body,      .theme-jobs .coloring-card-actions      { background: rgba(91, 168, 212, 0.08); }
 
 .accent-buildings { background: rgba(212, 149, 106, 0.22); }
 .accent-clothes   { background: rgba(196, 154, 200, 0.22); }
@@ -741,7 +755,7 @@ main {
 .coloring-card-actions {
   display: flex;
   justify-content: center;
-  padding: 0 10px 10px;
+  padding: 6px 10px 10px;
 }
 
 .artwork-actions {
