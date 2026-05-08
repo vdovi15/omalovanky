@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "cars",
+    "title": "Auta",
+    "description": "Rychlá, přátelská a zábavná vozidla pro děti k vybarvování.",
+    "coverImage": "/category-covers/cars.png"
+  },
+  {
+    "slug": "animals",
+    "title": "Zvířata",
+    "description": "Roztomilá a hravá zvířata s jednoduchými obrysy.",
+    "coverImage": "/category-covers/animals.png"
+  },
+  {
+    "slug": "princesses",
+    "title": "Princezny",
+    "description": "Kouzelné omalovánky princezen s korunami, šaty a zámky.",
+    "coverImage": "/category-covers/princesses.png"
+  },
+  {
+    "slug": "flowers",
+    "title": "Květiny",
+    "description": "Barevné a veselé omalovánky květin pro příjemné vybarvování.",
+    "coverImage": "/category-covers/flowers.png"
+  },
+  {
+    "slug": "space",
+    "title": "Vesmír",
+    "description": "Rakety, planety, astronauti a hvězdy čekají na vybarvení.",
+    "coverImage": "/category-covers/space.png"
+  },
+  {
+    "slug": "dinosaurs",
+    "title": "Dinosauři",
+    "description": "T-Rex, triceratops a další pravěká zvířata k vybarvování.",
+    "coverImage": "/category-covers/dinosaurs.png"
+  },
+  {
+    "slug": "ocean",
+    "title": "Moře",
+    "description": "Ryby, chobotnice, žraloci a mořský svět pod vodou.",
+    "coverImage": "/category-covers/ocean.png"
+  },
+  {
+    "slug": "fairytales",
+    "title": "Pohádky",
+    "description": "Draci, rytíři, čarodějové a pohádkové bytosti.",
+    "coverImage": "/category-covers/fairytales.png"
+  },
+  {
+    "slug": "food",
+    "title": "Jídlo",
+    "description": "Ovoce, zelenina, zmrzlina a další chutné obrázky.",
+    "coverImage": "/category-covers/food.png"
+  },
+  {
+    "slug": "sports",
+    "title": "Sport",
+    "description": "Fotbal, kolo, plavání a další sporty pro aktivní děti.",
+    "coverImage": "/category-covers/sports.png"
+  },
+  {
+    "slug": "buildings",
+    "title": "Budovy",
+    "description": "Domy, zámky, věže a fascinující stavby pro malé architekty.",
+    "coverImage": "/category-covers/buildings.png"
+  },
+  {
+    "slug": "clothes",
+    "title": "Oblečení",
+    "description": "Šaty, boty, klobouky a módní kousky k vybarvování.",
+    "coverImage": "/category-covers/clothes.png"
+  },
+  {
+    "slug": "jobs",
+    "title": "Povolání",
+    "description": "Hasiči, doktoři, piloti a další povolání pro zvídavé děti.",
+    "coverImage": "/category-covers/jobs.png"
+  }
+]

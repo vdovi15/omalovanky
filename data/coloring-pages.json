@@ -1,0 +1,1608 @@
+[
+  {
+    "slug": "lion-01",
+    "title": "Veselý lev",
+    "description": "Roztomilý lvíček sedí a usmívá se.",
+    "category": "animals",
+    "image": "/coloring-pages/animals/lion-01.png",
+    "prompt": "A kids coloring book page of a happy smiling lion cub, sitting, facing forward. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": true,
+    "ageGroup": "4-7",
+    "tags": [
+      "zvířata",
+      "lev",
+      "džungle",
+      "lehké vybarvování"
+    ]
+  },
+  {
+    "slug": "elephant-01",
+    "title": "Sloník",
+    "description": "Malý slon s velkýma ušima a zahnutým chobotem.",
+    "category": "animals",
+    "image": "/coloring-pages/animals/elephant-01.png",
+    "prompt": "A kids coloring book page of a cute baby elephant with big ears and a curled trunk, standing and smiling. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "zvířata",
+      "slon",
+      "džungle",
+      "lehké vybarvování"
+    ]
+  },
+  {
+    "slug": "cat-01",
+    "title": "Roztomilá kočka",
+    "description": "Kočička s culíkem kolem noh a velkýma očima.",
+    "category": "animals",
+    "image": "/coloring-pages/animals/cat-01.png",
+    "prompt": "A kids coloring book page of a cute sitting cat with pointy ears, big eyes and a fluffy tail curled around its feet, smiling. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "zvířata",
+      "kočka",
+      "koťátko",
+      "lehké vybarvování"
+    ]
+  },
+  {
+    "slug": "rabbit-01",
+    "title": "Zajíček",
+    "description": "Zajíček s dlouhýma ušima a kulatým ocáskem.",
+    "category": "animals",
+    "image": "/coloring-pages/animals/rabbit-01.png",
+    "prompt": "A kids coloring book page of an adorable bunny rabbit sitting upright with very tall ears, a fluffy round tail and a big smile. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "zvířata",
+      "zajíc",
+      "zajíček",
+      "lehké vybarvování"
+    ]
+  },
+  {
+    "slug": "race-car-01",
+    "title": "Závodní auto",
+    "description": "Závodní auto s číslem jedna a vlajkami.",
+    "category": "cars",
+    "image": "/coloring-pages/cars/race-car-01.png",
+    "prompt": "A kids coloring book page of a cute smiling race car with a big number on the side, racing flags in the background. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": true,
+    "ageGroup": "4-7",
+    "tags": [
+      "auta",
+      "závodní auto",
+      "doprava",
+      "lehké vybarvování"
+    ]
+  },
+  {
+    "slug": "fire-truck-01",
+    "title": "Hasičské auto",
+    "description": "Velké hasičské auto s žebříkem a hadicí.",
+    "category": "cars",
+    "image": "/coloring-pages/cars/fire-truck-01.png",
+    "prompt": "A kids coloring book page of a big friendly fire truck with a ladder on top and a hose, viewed from the side. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "auta",
+      "hasičské auto",
+      "doprava",
+      "lehké vybarvování"
+    ]
+  },
+  {
+    "slug": "school-bus-01",
+    "title": "Školní autobus",
+    "description": "Veselý školní autobus s velkými okny a koly.",
+    "category": "cars",
+    "image": "/coloring-pages/cars/school-bus-01.png",
+    "prompt": "A kids coloring book page of a cheerful school bus with big windows and round wheels, viewed from the side. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "auta",
+      "autobus",
+      "školní autobus",
+      "doprava",
+      "lehké vybarvování"
+    ]
+  },
+  {
+    "slug": "tractor-01",
+    "title": "Traktor",
+    "description": "Farmářský traktor s velkými koly a kabinou.",
+    "category": "cars",
+    "image": "/coloring-pages/cars/tractor-01.png",
+    "prompt": "A kids coloring book page of a friendly farm tractor with big rear wheels and a smiling driver cab, viewed from the side. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "auta",
+      "traktor",
+      "farma",
+      "doprava",
+      "lehké vybarvování"
+    ]
+  },
+  {
+    "slug": "princess-01",
+    "title": "Princezna",
+    "description": "Princezna s korunou, šaty a kouzelnou hůlkou.",
+    "category": "princesses",
+    "image": "/coloring-pages/princesses/princess-01.png",
+    "prompt": "A kids coloring book page of a smiling princess wearing a crown and a big puffy ball gown dress, holding a magic wand with a star. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": true,
+    "ageGroup": "5-8",
+    "tags": [
+      "princezny",
+      "koruna",
+      "šaty",
+      "pohádka"
+    ]
+  },
+  {
+    "slug": "princess-castle-01",
+    "title": "Princezna a zámek",
+    "description": "Princezna stojí před pohádkovým zámkem s věžemi.",
+    "category": "princesses",
+    "image": "/coloring-pages/princesses/princess-castle-01.png",
+    "prompt": "A kids coloring book page of a smiling princess standing in front of a tall fairytale castle with towers and flags. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "princezny",
+      "zámek",
+      "pohádka"
+    ]
+  },
+  {
+    "slug": "fairy-01",
+    "title": "Víla",
+    "description": "Víla s motýlími křídly a kouzelnou hůlkou.",
+    "category": "princesses",
+    "image": "/coloring-pages/princesses/fairy-01.png",
+    "prompt": "A kids coloring book page of a sweet little fairy with big butterfly wings, wearing a flower dress and holding a wand, hovering in the air. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "princezny",
+      "víla",
+      "křídla",
+      "kouzelné"
+    ]
+  },
+  {
+    "slug": "mermaid-01",
+    "title": "Mořská panna",
+    "description": "Mořská panna sedí na skále u moře.",
+    "category": "princesses",
+    "image": "/coloring-pages/princesses/mermaid-01.png",
+    "prompt": "A kids coloring book page of a smiling mermaid with long flowing hair, a fish tail with scales, sitting on a rock with a starfish nearby. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "princezny",
+      "mořská panna",
+      "moře",
+      "pohádka"
+    ]
+  },
+  {
+    "slug": "sunflower-01",
+    "title": "Slunečnice",
+    "description": "Velká slunečnice s listy na dlouhém stonku.",
+    "category": "flowers",
+    "image": "/coloring-pages/flowers/sunflower-01.png",
+    "prompt": "A kids coloring book page of a large cheerful sunflower. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": true,
+    "ageGroup": "4-7",
+    "tags": [
+      "květiny",
+      "slunečnice",
+      "zahrada",
+      "příroda"
+    ]
+  },
+  {
+    "slug": "rose-01",
+    "title": "Růže",
+    "description": "Krásná růže s okvětními lístky, listy a trny.",
+    "category": "flowers",
+    "image": "/coloring-pages/flowers/rose-01.png",
+    "prompt": "A kids coloring book page of a single beautiful rose with petals, leaves and a stem with two small thorns. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "květiny",
+      "růže",
+      "zahrada",
+      "příroda"
+    ]
+  },
+  {
+    "slug": "tulip-01",
+    "title": "Tulipán",
+    "description": "Tři tulipány s listy rostoucí ze země.",
+    "category": "flowers",
+    "image": "/coloring-pages/flowers/tulip-01.png",
+    "prompt": "A kids coloring book page of three cheerful tulips with stems and leaves growing from the ground. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "květiny",
+      "tulipán",
+      "zahrada",
+      "příroda"
+    ]
+  },
+  {
+    "slug": "daisy-01",
+    "title": "Sedmikráska",
+    "description": "Velká sedmikráska s mnoha okvětními lístky.",
+    "category": "flowers",
+    "image": "/coloring-pages/flowers/daisy-01.png",
+    "prompt": "A kids coloring book page of a big happy daisy flower with many petals, a round center, and two leaves on the stem. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "květiny",
+      "sedmikráska",
+      "zahrada",
+      "příroda"
+    ]
+  },
+  {
+    "slug": "rocket-01",
+    "title": "Raketa ve vesmíru",
+    "description": "Raketa letí vesmírem mezi hvězdami a planetami.",
+    "category": "space",
+    "image": "/coloring-pages/space/rocket-01.png",
+    "prompt": "A kids coloring book page of a cute rocket flying through space with smiling stars and a big planet with rings nearby. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": true,
+    "ageGroup": "5-8",
+    "tags": [
+      "vesmír",
+      "raketa",
+      "hvězdy",
+      "planety"
+    ]
+  },
+  {
+    "slug": "trex-01",
+    "title": "T-Rex",
+    "description": "Přátelský T-Rex stojí a usmívá se.",
+    "category": "dinosaurs",
+    "image": "/coloring-pages/dinosaurs/trex-01.png",
+    "prompt": "A kids coloring book page of a friendly smiling T-Rex dinosaur standing upright with tiny arms and big feet. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": true,
+    "ageGroup": "4-7",
+    "tags": [
+      "dinosauři",
+      "T-Rex",
+      "pravěk",
+      "lehké vybarvování"
+    ]
+  },
+  {
+    "slug": "dolphin-01",
+    "title": "Delfín",
+    "description": "Veselý delfín skáče nad mořskými vlnami.",
+    "category": "ocean",
+    "image": "/coloring-pages/ocean/dolphin-01.png",
+    "prompt": "A kids coloring book page of a happy dolphin jumping over ocean waves with a starfish and small fish nearby. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": true,
+    "ageGroup": "4-7",
+    "tags": [
+      "moře",
+      "delfín",
+      "oceán",
+      "lehké vybarvování"
+    ]
+  },
+  {
+    "slug": "dragon-01",
+    "title": "Drak",
+    "description": "Přátelský drak sedí u pohádkového hradu.",
+    "category": "fairytales",
+    "image": "/coloring-pages/fairytales/dragon-01.png",
+    "prompt": "A kids coloring book page of a friendly smiling dragon sitting next to a fairytale castle tower, with small clouds around. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": true,
+    "ageGroup": "5-8",
+    "tags": [
+      "pohádky",
+      "drak",
+      "hrad",
+      "fantasy"
+    ]
+  },
+  {
+    "slug": "icecream-01",
+    "title": "Zmrzlina",
+    "description": "Velký zmrzlinový pohár s kopečky a ovocem.",
+    "category": "food",
+    "image": "/coloring-pages/food/icecream-01.png",
+    "prompt": "A kids coloring book page of a big ice cream cone with three scoops and a smiling strawberry and banana beside it. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": true,
+    "ageGroup": "4-7",
+    "tags": [
+      "jídlo",
+      "zmrzlina",
+      "ovoce",
+      "lehké vybarvování"
+    ]
+  },
+  {
+    "slug": "football-01",
+    "title": "Fotbal",
+    "description": "Dítě kope fotbalový míč na hřišti.",
+    "category": "sports",
+    "image": "/coloring-pages/sports/football-01.png",
+    "prompt": "A kids coloring book page of a cheerful child kicking a football with a big smile, wearing a sports kit, with a goal post in the background. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": true,
+    "ageGroup": "5-8",
+    "tags": [
+      "sport",
+      "fotbal",
+      "míč",
+      "pohyb"
+    ]
+  },
+  {
+    "slug": "astronaut-01",
+    "title": "Astronaut",
+    "description": "Astronaut ve skafandru pluje vesmírem.",
+    "category": "space",
+    "image": "/coloring-pages/space/astronaut-01.png",
+    "prompt": "A kids coloring book page of a cute astronaut in a spacesuit floating in space with stars around. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vesmír",
+      "astronaut",
+      "skafandr",
+      "hvězdy"
+    ]
+  },
+  {
+    "slug": "planet-01",
+    "title": "Saturn",
+    "description": "Planeta Saturn s prstenci a mesíci.",
+    "category": "space",
+    "image": "/coloring-pages/space/planet-01.png",
+    "prompt": "A kids coloring book page of planet Saturn with big rings and two small moons nearby, surrounded by stars. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vesmír",
+      "planeta",
+      "Saturn",
+      "hvězdy"
+    ]
+  },
+  {
+    "slug": "alien-01",
+    "title": "Mimozemstan",
+    "description": "Pratelský mimozemstan priletl v létajícím talíri.",
+    "category": "space",
+    "image": "/coloring-pages/space/alien-01.png",
+    "prompt": "A kids coloring book page of a friendly smiling alien with big eyes waving from a UFO flying saucer. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vesmír",
+      "UFO",
+      "létající talír"
+    ]
+  },
+  {
+    "slug": "triceratops-01",
+    "title": "Triceratops",
+    "description": "Triceratops se tremi rohy se vesele prochází.",
+    "category": "dinosaurs",
+    "image": "/coloring-pages/dinosaurs/triceratops-01.png",
+    "prompt": "A kids coloring book page of a friendly triceratops dinosaur with three big horns and a frill, standing and smiling. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "dinosauri",
+      "triceratops",
+      "pravek",
+      "rohy"
+    ]
+  },
+  {
+    "slug": "brachiosaurus-01",
+    "title": "Brachiosaurus",
+    "description": "Brachiosaurus s dlouhým krkem okusuje listí ze stromu.",
+    "category": "dinosaurs",
+    "image": "/coloring-pages/dinosaurs/brachiosaurus-01.png",
+    "prompt": "A kids coloring book page of a cute brachiosaurus dinosaur with a very long neck eating leaves from a tall tree. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "dinosauri",
+      "brachiosaurus",
+      "pravek",
+      "dlouhý krk"
+    ]
+  },
+  {
+    "slug": "pterodactyl-01",
+    "title": "Pterodaktyl",
+    "description": "Pterodaktyl letí vysoko na obloze.",
+    "category": "dinosaurs",
+    "image": "/coloring-pages/dinosaurs/pterodactyl-01.png",
+    "prompt": "A kids coloring book page of a friendly pterodactyl dinosaur flying through the sky with wings spread wide and a big smile. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "dinosauri",
+      "pterodaktyl",
+      "pravek",
+      "létání"
+    ]
+  },
+  {
+    "slug": "octopus-01",
+    "title": "Chobotnice",
+    "description": "Chobotnice s osmi chapadly se usmívá pod vodou.",
+    "category": "ocean",
+    "image": "/coloring-pages/ocean/octopus-01.png",
+    "prompt": "A kids coloring book page of a happy smiling octopus with eight curling tentacles underwater with bubbles and a small fish. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "more",
+      "chobotnice",
+      "oceán",
+      "chapadla"
+    ]
+  },
+  {
+    "slug": "shark-01",
+    "title": "Žralok",
+    "description": "Pratelský žralok plave s rybkami kolem sebe.",
+    "category": "ocean",
+    "image": "/coloring-pages/ocean/shark-01.png",
+    "prompt": "A kids coloring book page of a friendly smiling shark swimming with small fish and seaweed around it. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "more",
+      "žralok",
+      "oceán",
+      "ryby"
+    ]
+  },
+  {
+    "slug": "seahorse-01",
+    "title": "Morský koník",
+    "description": "Morský koník se vine mezi chaluhami.",
+    "category": "ocean",
+    "image": "/coloring-pages/ocean/seahorse-01.png",
+    "prompt": "A kids coloring book page of a cute seahorse with a curled tail swimming among seaweed and small bubbles. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "more",
+      "morský koník",
+      "oceán",
+      "chaluhy"
+    ]
+  },
+  {
+    "slug": "knight-01",
+    "title": "Rytír",
+    "description": "Rytír v brnení jede na bílém koni.",
+    "category": "fairytales",
+    "image": "/coloring-pages/fairytales/knight-01.png",
+    "prompt": "A kids coloring book page of a brave knight in armor riding a white horse with a shield and sword. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "pohádky",
+      "rytír",
+      "kun",
+      "brnení"
+    ]
+  },
+  {
+    "slug": "wizard-01",
+    "title": "Carodej",
+    "description": "Carodej s kouzelnickým kloboukem a hulkou.",
+    "category": "fairytales",
+    "image": "/coloring-pages/fairytales/wizard-01.png",
+    "prompt": "A kids coloring book page of a friendly wizard wearing a tall pointy hat and long robe, holding a magic wand with stars sparkling around him. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "pohádky",
+      "carodej",
+      "magie",
+      "kouzla"
+    ]
+  },
+  {
+    "slug": "unicorn-01",
+    "title": "Jednorozec",
+    "description": "Jednorozec s hrivou a rohem na cele.",
+    "category": "fairytales",
+    "image": "/coloring-pages/fairytales/unicorn-01.png",
+    "prompt": "A kids coloring book page of a magical unicorn with a flowing mane and a horn on its forehead, standing in a meadow with small flowers. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "pohádky",
+      "jednorozec",
+      "kouzelné",
+      "hriva"
+    ]
+  },
+  {
+    "slug": "pizza-01",
+    "title": "Pizza",
+    "description": "Velká pizza s oblíbenými prisadami.",
+    "category": "food",
+    "image": "/coloring-pages/food/pizza-01.png",
+    "prompt": "A kids coloring book page of a big round pizza with slices, showing mushrooms, peppers and olives as toppings. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "jídlo",
+      "pizza",
+      "italské jídlo"
+    ]
+  },
+  {
+    "slug": "fruit-01",
+    "title": "Mísa s ovocem",
+    "description": "Mísa plná ovoce s jablkem, banánem a jahodami.",
+    "category": "food",
+    "image": "/coloring-pages/food/fruit-01.png",
+    "prompt": "A kids coloring book page of a bowl full of fruit with a smiling apple, banana, strawberry and grapes piled up. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "jídlo",
+      "ovoce",
+      "mísa"
+    ]
+  },
+  {
+    "slug": "cake-01",
+    "title": "Narozeninový dort",
+    "description": "Dort se svíckami a hvezdickou na vrchu.",
+    "category": "food",
+    "image": "/coloring-pages/food/cake-01.png",
+    "prompt": "A kids coloring book page of a big birthday cake with three layers, candles on top, stars and a bow decoration. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 4.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "jídlo",
+      "dort",
+      "narozeniny",
+      "svícky"
+    ]
+  },
+  {
+    "slug": "bicycle-01",
+    "title": "Kolo",
+    "description": "Díte jede na kole s prilbou na hlave.",
+    "category": "sports",
+    "image": "/coloring-pages/sports/bicycle-01.png",
+    "prompt": "A kids coloring book page of a happy child riding a bicycle wearing a helmet, with trees in the background. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "sport",
+      "kolo",
+      "jízda",
+      "prilba"
+    ]
+  },
+  {
+    "slug": "swimming-01",
+    "title": "Plavání",
+    "description": "Díte plave v bazénu a striká vodu.",
+    "category": "sports",
+    "image": "/coloring-pages/sports/swimming-01.png",
+    "prompt": "A kids coloring book page of a happy child swimming in a pool with goggles on, splashing water with a big smile. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "sport",
+      "plavání",
+      "bazén",
+      "voda"
+    ]
+  },
+  {
+    "slug": "tennis-01",
+    "title": "Tenis",
+    "description": "Díte hraje tenis s raketou a míckem.",
+    "category": "sports",
+    "image": "/coloring-pages/sports/tennis-01.png",
+    "prompt": "A kids coloring book page of a cheerful child playing tennis holding a big racket ready to hit a ball over a net. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "sport",
+      "tenis",
+      "raketa",
+      "mícek"
+    ]
+  },
+  {
+    "slug": "panda-01",
+    "title": "Panda",
+    "description": "Roztomilá panda jí bambus.",
+    "category": "animals",
+    "image": "/coloring-pages/animals/panda-01.png",
+    "prompt": "A kids coloring book page of a cute giant panda sitting and eating bamboo with a big smile. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "zvířata",
+      "panda",
+      "bambus"
+    ]
+  },
+  {
+    "slug": "giraffe-01",
+    "title": "Žirafa",
+    "description": "Žirafa s dlouhým krkem okusuje listy.",
+    "category": "animals",
+    "image": "/coloring-pages/animals/giraffe-01.png",
+    "prompt": "A kids coloring book page of a friendly giraffe with a very long neck eating leaves from a tree. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "zvířata",
+      "žirafa",
+      "Afrika"
+    ]
+  },
+  {
+    "slug": "penguin-01",
+    "title": "Tučňák",
+    "description": "Veselý tučňák stojí na ledu.",
+    "category": "animals",
+    "image": "/coloring-pages/animals/penguin-01.png",
+    "prompt": "A kids coloring book page of a happy penguin standing on ice with a scarf and a small fish nearby. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "zvířata",
+      "tučňák",
+      "led"
+    ]
+  },
+  {
+    "slug": "frog-01",
+    "title": "Žabka",
+    "description": "Žabka sedí na leknínovém listu.",
+    "category": "animals",
+    "image": "/coloring-pages/animals/frog-01.png",
+    "prompt": "A kids coloring book page of a smiling frog sitting on a lily pad in a pond with dragonfly nearby. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "zvířata",
+      "žába",
+      "rybník"
+    ]
+  },
+  {
+    "slug": "police-car-01",
+    "title": "Policejní auto",
+    "description": "Policejní auto se světly a sirénou.",
+    "category": "cars",
+    "image": "/coloring-pages/cars/police-car-01.png",
+    "prompt": "A kids coloring book page of a police car with lights on the roof and a big star badge on the side. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "auta",
+      "policejní auto",
+      "doprava"
+    ]
+  },
+  {
+    "slug": "monster-truck-01",
+    "title": "Monster Truck",
+    "description": "Monster truck s obrovskými koly.",
+    "category": "cars",
+    "image": "/coloring-pages/cars/monster-truck-01.png",
+    "prompt": "A kids coloring book page of a big monster truck with huge wheels jumping over a ramp with a smiling face. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "auta",
+      "monster truck",
+      "velká kola"
+    ]
+  },
+  {
+    "slug": "helicopter-01",
+    "title": "Vrtulník",
+    "description": "Vrtulník letí nad mraky.",
+    "category": "cars",
+    "image": "/coloring-pages/cars/helicopter-01.png",
+    "prompt": "A kids coloring book page of a cute helicopter with a big rotor flying above fluffy clouds. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "auta",
+      "vrtulník",
+      "létání"
+    ]
+  },
+  {
+    "slug": "sailboat-01",
+    "title": "Plachetnice",
+    "description": "Plachetnice pluje po moři s vlajkou.",
+    "category": "cars",
+    "image": "/coloring-pages/cars/sailboat-01.png",
+    "prompt": "A kids coloring book page of a cheerful sailboat with big sails and a flag sailing on gentle waves. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "auta",
+      "plachetnice",
+      "more"
+    ]
+  },
+  {
+    "slug": "ballerina-01",
+    "title": "Baletka",
+    "description": "Baletka tancuje v sukni z tylu.",
+    "category": "princesses",
+    "image": "/coloring-pages/princesses/ballerina-01.png",
+    "prompt": "A kids coloring book page of a graceful ballerina dancing in a tutu dress with arms raised and a tiara. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "princezny",
+      "balet",
+      "tanec"
+    ]
+  },
+  {
+    "slug": "queen-01",
+    "title": "Královna",
+    "description": "Královna na trunu s korunou a žezlem.",
+    "category": "princesses",
+    "image": "/coloring-pages/princesses/queen-01.png",
+    "prompt": "A kids coloring book page of a smiling queen sitting on a throne wearing a big crown and holding a scepter. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "princezny",
+      "královna",
+      "trun"
+    ]
+  },
+  {
+    "slug": "witch-01",
+    "title": "Hodná čarodejnice",
+    "description": "Hodná čarodejnice letí na košteti.",
+    "category": "princesses",
+    "image": "/coloring-pages/princesses/witch-01.png",
+    "prompt": "A kids coloring book page of a friendly smiling witch flying on a broomstick with a pointy hat and a cute black cat. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "princezny",
+      "čarodejnice",
+      "koste"
+    ]
+  },
+  {
+    "slug": "princess-horse-01",
+    "title": "Princezna na koni",
+    "description": "Princezna jede na bílém koni.",
+    "category": "princesses",
+    "image": "/coloring-pages/princesses/princess-horse-01.png",
+    "prompt": "A kids coloring book page of a smiling princess in a long dress riding a white horse through a meadow with flowers. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "princezny",
+      "kun",
+      "jezdeni"
+    ]
+  },
+  {
+    "slug": "cactus-01",
+    "title": "Kaktus",
+    "description": "Kaktus s kytičkou v květináči.",
+    "category": "flowers",
+    "image": "/coloring-pages/flowers/cactus-01.png",
+    "prompt": "A kids coloring book page of a cute cactus in a pot with a small flower blooming on top and a smiling face. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "květiny",
+      "kaktus",
+      "květináč"
+    ]
+  },
+  {
+    "slug": "lily-01",
+    "title": "Lilie",
+    "description": "Krásná lilie s okvětními lístky.",
+    "category": "flowers",
+    "image": "/coloring-pages/flowers/lily-01.png",
+    "prompt": "A kids coloring book page of a beautiful lily flower with large petals, leaves and a tall stem. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "květiny",
+      "lilie",
+      "zahrada"
+    ]
+  },
+  {
+    "slug": "lavender-01",
+    "title": "Levandule",
+    "description": "Levandulové stvoly s vůní léta.",
+    "category": "flowers",
+    "image": "/coloring-pages/flowers/lavender-01.png",
+    "prompt": "A kids coloring book page of three lavender stalks with small flowers and two butterflies hovering above. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "květiny",
+      "levandule",
+      "zahrada"
+    ]
+  },
+  {
+    "slug": "mushroom-01",
+    "title": "Muchomůrka",
+    "description": "Červená muchomůrka s puntíky v trávě.",
+    "category": "flowers",
+    "image": "/coloring-pages/flowers/mushroom-01.png",
+    "prompt": "A kids coloring book page of a big friendly mushroom with a spotted cap sitting in grass with small flowers around it. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "květiny",
+      "houba",
+      "les"
+    ]
+  },
+  {
+    "slug": "moon-01",
+    "title": "Mesíc",
+    "description": "Mesíc s krátery a hvezdami.",
+    "category": "space",
+    "image": "/coloring-pages/space/moon-01.png",
+    "prompt": "A kids coloring book page of a big smiling moon with craters on its surface surrounded by stars and a small rocket flying past. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vesmír",
+      "mesíc",
+      "hvezdy"
+    ]
+  },
+  {
+    "slug": "telescope-01",
+    "title": "Dalekohled",
+    "description": "Díte se dívá do dalekohledu na hvezdy.",
+    "category": "space",
+    "image": "/coloring-pages/space/telescope-01.png",
+    "prompt": "A kids coloring book page of a happy child looking through a big telescope at night with stars and a moon visible. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vesmír",
+      "dalekohled",
+      "hvezdy"
+    ]
+  },
+  {
+    "slug": "comet-01",
+    "title": "Kometa",
+    "description": "Zárící kometa prolétá vesmírem.",
+    "category": "space",
+    "image": "/coloring-pages/space/comet-01.png",
+    "prompt": "A kids coloring book page of a bright comet with a long tail flying through space past planets and stars. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vesmír",
+      "kometa",
+      "planety"
+    ]
+  },
+  {
+    "slug": "space-station-01",
+    "title": "Vesmírná stanice",
+    "description": "Vesmírná stanice obíhá kolem Zeme.",
+    "category": "space",
+    "image": "/coloring-pages/space/space-station-01.png",
+    "prompt": "A kids coloring book page of a space station with solar panels orbiting Earth with stars in the background. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vesmír",
+      "stanice",
+      "orbita"
+    ]
+  },
+  {
+    "slug": "stegosaurus-01",
+    "title": "Stegosaurus",
+    "description": "Stegosaurus s deskami na hrbetu.",
+    "category": "dinosaurs",
+    "image": "/coloring-pages/dinosaurs/stegosaurus-01.png",
+    "prompt": "A kids coloring book page of a friendly stegosaurus dinosaur with large plates on its back walking through ferns. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "dinosauri",
+      "stegosaurus",
+      "pravek"
+    ]
+  },
+  {
+    "slug": "ankylosaur-01",
+    "title": "Ankylosaur",
+    "description": "Ankylosaur s pancírem a kyjem na ocasu.",
+    "category": "dinosaurs",
+    "image": "/coloring-pages/dinosaurs/ankylosaur-01.png",
+    "prompt": "A kids coloring book page of a cute ankylosaur dinosaur with armored body and club tail, smiling. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "dinosauri",
+      "ankylosaur",
+      "pravek"
+    ]
+  },
+  {
+    "slug": "raptor-01",
+    "title": "Velociraptor",
+    "description": "Velociraptor bežící s otevrením chastí.",
+    "category": "dinosaurs",
+    "image": "/coloring-pages/dinosaurs/raptor-01.png",
+    "prompt": "A kids coloring book page of a friendly velociraptor dinosaur running with a big smile and small arms. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "dinosauri",
+      "velociraptor",
+      "pravek"
+    ]
+  },
+  {
+    "slug": "diplodocus-01",
+    "title": "Diplodocus",
+    "description": "Diplodocus s nejdelším krkem ze všech.",
+    "category": "dinosaurs",
+    "image": "/coloring-pages/dinosaurs/diplodocus-01.png",
+    "prompt": "A kids coloring book page of a gentle diplodocus dinosaur with an extremely long neck reaching up to eat leaves. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "dinosauri",
+      "diplodocus",
+      "pravek"
+    ]
+  },
+  {
+    "slug": "turtle-01",
+    "title": "Morská želva",
+    "description": "Morská želva plave mezi koráli.",
+    "category": "ocean",
+    "image": "/coloring-pages/ocean/turtle-01.png",
+    "prompt": "A kids coloring book page of a friendly sea turtle swimming among colorful coral and small fish. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "more",
+      "želva",
+      "koráli"
+    ]
+  },
+  {
+    "slug": "crab-01",
+    "title": "Krab",
+    "description": "Krab chodí po morském dne s klepety.",
+    "category": "ocean",
+    "image": "/coloring-pages/ocean/crab-01.png",
+    "prompt": "A kids coloring book page of a happy crab with big claws walking on the sandy ocean floor with shells around. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "more",
+      "krab",
+      "písek"
+    ]
+  },
+  {
+    "slug": "whale-01",
+    "title": "Velryba",
+    "description": "Velryba skáče nad morom a striká vodu.",
+    "category": "ocean",
+    "image": "/coloring-pages/ocean/whale-01.png",
+    "prompt": "A kids coloring book page of a big friendly whale jumping out of the ocean splashing water with a big smile. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "more",
+      "velryba",
+      "oceán"
+    ]
+  },
+  {
+    "slug": "jellyfish-01",
+    "title": "Medúza",
+    "description": "Medúza s chapadly plave v hlubinách.",
+    "category": "ocean",
+    "image": "/coloring-pages/ocean/jellyfish-01.png",
+    "prompt": "A kids coloring book page of a cute jellyfish with long flowing tentacles and a smiling face floating in the ocean. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "more",
+      "medúza",
+      "oceán"
+    ]
+  },
+  {
+    "slug": "castle-01",
+    "title": "Pohádkový hrad",
+    "description": "Pohádkový hrad s vetami a mostem.",
+    "category": "fairytales",
+    "image": "/coloring-pages/fairytales/castle-01.png",
+    "prompt": "A kids coloring book page of a big fairytale castle with tall towers, flags, a drawbridge and clouds around. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "pohádky",
+      "hrad",
+      "vetě"
+    ]
+  },
+  {
+    "slug": "elf-01",
+    "title": "Elf",
+    "description": "Veselý elf s kulatýma ušima a cepicí.",
+    "category": "fairytales",
+    "image": "/coloring-pages/fairytales/elf-01.png",
+    "prompt": "A kids coloring book page of a happy elf with pointy ears and a tall hat holding a small lantern in a forest. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "pohádky",
+      "elf",
+      "les"
+    ]
+  },
+  {
+    "slug": "treasure-01",
+    "title": "Poklad",
+    "description": "Truhla plná pokladu a zlatých mincí.",
+    "category": "fairytales",
+    "image": "/coloring-pages/fairytales/treasure-01.png",
+    "prompt": "A kids coloring book page of an open treasure chest overflowing with gold coins, gems and a crown. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "pohádky",
+      "poklad",
+      "zlato"
+    ]
+  },
+  {
+    "slug": "gnome-01",
+    "title": "Trpaslík",
+    "description": "Trpaslík s cepicí a lopatou kopá zlato.",
+    "category": "fairytales",
+    "image": "/coloring-pages/fairytales/gnome-01.png",
+    "prompt": "A kids coloring book page of a friendly dwarf with a big hat and beard holding a pickaxe next to a pile of gems. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "pohádky",
+      "trpaslík",
+      "doly"
+    ]
+  },
+  {
+    "slug": "burger-01",
+    "title": "Hamburger",
+    "description": "Velký hamburger s salátkem a sýrem.",
+    "category": "food",
+    "image": "/coloring-pages/food/burger-01.png",
+    "prompt": "A kids coloring book page of a big hamburger with a smiling face, bun, lettuce, cheese and tomato. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "jídlo",
+      "hamburger",
+      "fast food"
+    ]
+  },
+  {
+    "slug": "cupcake-01",
+    "title": "Košícek",
+    "description": "Košícek s kremem a posypkou na vrchu.",
+    "category": "food",
+    "image": "/coloring-pages/food/cupcake-01.png",
+    "prompt": "A kids coloring book page of a cute cupcake with swirly frosting on top, sprinkles and a cherry. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "jídlo",
+      "košícek",
+      "sladkosti"
+    ]
+  },
+  {
+    "slug": "watermelon-01",
+    "title": "Meloun",
+    "description": "Plátky melounu s jádry a smajlíkem.",
+    "category": "food",
+    "image": "/coloring-pages/food/watermelon-01.png",
+    "prompt": "A kids coloring book page of a big watermelon slice with seeds and a smiling face, with smaller pieces around it. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "jídlo",
+      "meloun",
+      "ovoce"
+    ]
+  },
+  {
+    "slug": "donut-01",
+    "title": "Donut",
+    "description": "Donut s polevou a barevnou posypkou.",
+    "category": "food",
+    "image": "/coloring-pages/food/donut-01.png",
+    "prompt": "A kids coloring book page of a big round donut with icing and sprinkles on top and a smiling face. Suitable for age 4. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "jídlo",
+      "donut",
+      "sladkosti"
+    ]
+  },
+  {
+    "slug": "basketball-01",
+    "title": "Basketbal",
+    "description": "Díte strílí basketbal do kose.",
+    "category": "sports",
+    "image": "/coloring-pages/sports/basketball-01.png",
+    "prompt": "A kids coloring book page of a happy child shooting a basketball toward a hoop with a big smile. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "sport",
+      "basketbal",
+      "mícek"
+    ]
+  },
+  {
+    "slug": "gymnastics-01",
+    "title": "Gymnastika",
+    "description": "Gymnasticka stojí na kladine.",
+    "category": "sports",
+    "image": "/coloring-pages/sports/gymnastics-01.png",
+    "prompt": "A kids coloring book page of a cheerful gymnast balancing on a balance beam with arms stretched out. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "sport",
+      "gymnastika",
+      "kladina"
+    ]
+  },
+  {
+    "slug": "skiing-01",
+    "title": "Lyžování",
+    "description": "Díte lyžuje dolú ze zasneženého kopce.",
+    "category": "sports",
+    "image": "/coloring-pages/sports/skiing-01.png",
+    "prompt": "A kids coloring book page of a happy child skiing down a snowy slope wearing a helmet and ski goggles. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "sport",
+      "lyžování",
+      "sníh"
+    ]
+  },
+  {
+    "slug": "karate-01",
+    "title": "Karate",
+    "description": "Díte v kimonu cvicí karate.",
+    "category": "sports",
+    "image": "/coloring-pages/sports/karate-01.png",
+    "prompt": "A kids coloring book page of a determined child in a karate gi doing a kick pose with a belt tied around waist. Suitable for age 5. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "sport",
+      "karate",
+      "bojové umení"
+    ]
+  },
+  {
+    "slug": "lion-mane-01",
+    "title": "Lev s hrivou",
+    "description": "Detailní lev s bohatou hrivou a výraznou tváří.",
+    "category": "animals",
+    "image": "/coloring-pages/animals/lion-mane-01.png",
+    "prompt": "A detailed coloring book page of a majestic lion with a large flowing mane, sitting proudly, with detailed fur texture lines on the mane and face. Multiple decorative elements. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "zvířata",
+      "lev",
+      "detailní",
+      "hriva"
+    ]
+  },
+  {
+    "slug": "owl-01",
+    "title": "Sova na větvi",
+    "description": "Sova s detailním peřím sedí na dubové větvi.",
+    "category": "animals",
+    "image": "/coloring-pages/animals/owl-01.png",
+    "prompt": "A detailed coloring book page of a wise owl perched on a branch with intricately detailed feathers, large round eyes and leaves around. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "zvířata",
+      "sova",
+      "detailní",
+      "peří"
+    ]
+  },
+  {
+    "slug": "race-driver-01",
+    "title": "Závodník v kokpitu",
+    "description": "Závodní pilot v přilbě sedí v detailním kokpitu.",
+    "category": "cars",
+    "image": "/coloring-pages/cars/race-driver-01.png",
+    "prompt": "A detailed coloring book page of a racing driver wearing a helmet sitting in a race car cockpit with steering wheel, dials and safety harness visible. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "auta",
+      "závodník",
+      "kokpit",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "construction-01",
+    "title": "Staveniště",
+    "description": "Jeřáb a bagr pracují na stavbě výškové budovy.",
+    "category": "cars",
+    "image": "/coloring-pages/cars/construction-01.png",
+    "prompt": "A detailed coloring book page of a construction site with a tall crane lifting beams and an excavator digging, with a building under construction in the background. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "auta",
+      "staveniště",
+      "jeřáb",
+      "bagr"
+    ]
+  },
+  {
+    "slug": "ball-scene-01",
+    "title": "Ples v paláci",
+    "description": "Princezna tancuje na plese v nádherném sále.",
+    "category": "princesses",
+    "image": "/coloring-pages/princesses/ball-scene-01.png",
+    "prompt": "A detailed coloring book page of a princess dancing at a royal ball in an ornate palace ballroom with chandeliers, columns and decorative floor patterns. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "princezny",
+      "ples",
+      "palác",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "castle-room-01",
+    "title": "Pohádkový pokoj",
+    "description": "Detailní pohádkový pokoj s trůnem a vitráží.",
+    "category": "princesses",
+    "image": "/coloring-pages/princesses/castle-room-01.png",
+    "prompt": "A detailed coloring book page of a fairytale throne room with an ornate throne, stained glass windows with patterns, curtains and decorative pillars. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "princezny",
+      "zámek",
+      "detailní",
+      "pokoj"
+    ]
+  },
+  {
+    "slug": "flower-bouquet-01",
+    "title": "Kytice květin",
+    "description": "Bohatá kytice různých květin ve váze s detaily.",
+    "category": "flowers",
+    "image": "/coloring-pages/flowers/flower-bouquet-01.png",
+    "prompt": "A detailed coloring book page of a rich bouquet of mixed flowers in a decorated vase including roses, daisies and lilies with intricate petal details and leaves. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "květiny",
+      "kytice",
+      "váza",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "garden-scene-01",
+    "title": "Zahradní záhon",
+    "description": "Detailní zahrada s různými květinami a motýly.",
+    "category": "flowers",
+    "image": "/coloring-pages/flowers/garden-scene-01.png",
+    "prompt": "A detailed coloring book page of a garden scene with many different flowers in bloom, a butterfly, a bee, a watering can and a garden path with stones. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "květiny",
+      "zahrada",
+      "motýl",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "solar-system-01",
+    "title": "Sluneční soustava",
+    "description": "Detailní sluneční soustava se všemi planetami.",
+    "category": "space",
+    "image": "/coloring-pages/space/solar-system-01.png",
+    "prompt": "A detailed coloring book page of the solar system showing the sun in the center with all eight planets orbiting, each with distinctive features like rings on Saturn and spots on Jupiter. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "vesmír",
+      "planety",
+      "sluneční soustava",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "moonlanding-01",
+    "title": "Přistání na Měsíci",
+    "description": "Astronaut vychází z lunárního modulu na Měsíci.",
+    "category": "space",
+    "image": "/coloring-pages/space/moonlanding-01.png",
+    "prompt": "A detailed coloring book page of an astronaut stepping out of a lunar lander module onto the moon surface with craters, Earth visible in the background and a planted flag. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "vesmír",
+      "mesíc",
+      "astronaut",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "dino-jungle-01",
+    "title": "Dinosauři v džungli",
+    "description": "T-Rex a triceratops v detailní pravěké džungli.",
+    "category": "dinosaurs",
+    "image": "/coloring-pages/dinosaurs/dino-jungle-01.png",
+    "prompt": "A detailed coloring book page of two dinosaurs T-Rex and triceratops facing each other in a prehistoric jungle with large ferns, tall trees and a volcano in the background. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "dinosauri",
+      "džungle",
+      "pravek",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "dino-herd-01",
+    "title": "Stádo dinosaurů",
+    "description": "Stádo diplodocú prochází krajinou u reky.",
+    "category": "dinosaurs",
+    "image": "/coloring-pages/dinosaurs/dino-herd-01.png",
+    "prompt": "A detailed coloring book page of a herd of diplodocus dinosaurs walking beside a river in a prehistoric landscape with palm trees and flying pterodactyls in the sky. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "dinosauri",
+      "stádo",
+      "krajina",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "coral-reef-01",
+    "title": "Korálový útes",
+    "description": "Detailní korálový útes s rybami a mořským životem.",
+    "category": "ocean",
+    "image": "/coloring-pages/ocean/coral-reef-01.png",
+    "prompt": "A detailed coloring book page of a coral reef scene with many different fish, sea anemones, starfish, crabs and intricate coral formations. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "more",
+      "korálový útes",
+      "ryby",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "underwater-01",
+    "title": "Pod vodou",
+    "description": "Podmořský svět s potapěčem a pokladem.",
+    "category": "ocean",
+    "image": "/coloring-pages/ocean/underwater-01.png",
+    "prompt": "A detailed coloring book page of an underwater scene with a scuba diver exploring a sunken ship treasure chest surrounded by colorful fish, octopus and seaweed. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "more",
+      "potapěč",
+      "poklad",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "fairy-village-01",
+    "title": "Pohádková vesnice",
+    "description": "Kouzelná vesnice s houbovými domky a vílami.",
+    "category": "fairytales",
+    "image": "/coloring-pages/fairytales/fairy-village-01.png",
+    "prompt": "A detailed coloring book page of a magical fairy village with mushroom houses, tiny bridges, lanterns, fairies flying around and flower gardens. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "pohádky",
+      "vesnice",
+      "víly",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "dragon-battle-01",
+    "title": "Drak a rytíř",
+    "description": "Rytíř na koni čelí velkému drakovi u hradu.",
+    "category": "fairytales",
+    "image": "/coloring-pages/fairytales/dragon-battle-01.png",
+    "prompt": "A detailed coloring book page of a brave knight on horseback facing a large friendly dragon in front of a castle with towers and banners. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "pohádky",
+      "drak",
+      "rytíř",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "bakery-01",
+    "title": "Pekárna",
+    "description": "Detailní pekárna plná chleba, rohlíku a kolácu.",
+    "category": "food",
+    "image": "/coloring-pages/food/bakery-01.png",
+    "prompt": "A detailed coloring book page of a bakery scene with shelves full of bread loaves, croissants, cakes and pastries, a baker in an apron holding a tray. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "jídlo",
+      "pekárna",
+      "chleba",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "market-01",
+    "title": "Tržiště s ovocem",
+    "description": "Barevné tržiště s košíky ovoce a zeleniny.",
+    "category": "food",
+    "image": "/coloring-pages/food/market-01.png",
+    "prompt": "A detailed coloring book page of a fruit and vegetable market stall with baskets overflowing with apples, grapes, tomatoes and carrots, with a friendly vendor. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "jídlo",
+      "tržiště",
+      "ovoce",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "stadium-01",
+    "title": "Fotbalový stadión",
+    "description": "Fotbalové hriště s hráci a tribunami plnými divákú.",
+    "category": "sports",
+    "image": "/coloring-pages/sports/stadium-01.png",
+    "prompt": "A detailed coloring book page of a football stadium scene with players on the pitch, goals, and stadium stands with crowd details in the background. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "sport",
+      "fotbal",
+      "stadión",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "olympics-01",
+    "title": "Olympijské hry",
+    "description": "Sportovci ze tí sportu soutěží na olympiáde.",
+    "category": "sports",
+    "image": "/coloring-pages/sports/olympics-01.png",
+    "prompt": "A detailed coloring book page of three young athletes at the Olympics podium with medals, holding a torch and waving flags with decorative Olympic rings banner behind. Suitable for age 6-8. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Detailed bold outlines with intricate patterns suitable for older children.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "sport",
+      "olympiáda",
+      "medaile",
+      "detailní"
+    ]
+  },
+  {
+    "slug": "house-01",
+    "title": "Rodinný dům",
+    "description": "Roztomilý rodinný dům se zahradou a plotem.",
+    "category": "buildings",
+    "image": "/coloring-pages/buildings/house-01.png",
+    "prompt": "A kids coloring book page of a charming family house with a pitched roof, windows with shutters, a front door, a garden with flowers and a white picket fence. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5-7.",
+    "featured": true,
+    "ageGroup": "5-7",
+    "tags": [
+      "budovy",
+      "dům",
+      "zahrada",
+      "architektura"
+    ]
+  },
+  {
+    "slug": "outfit-01",
+    "title": "Módní oblečení",
+    "description": "Šaty, tričko, kalhoty a boty na výběr.",
+    "category": "clothes",
+    "image": "/coloring-pages/clothes/outfit-01.png",
+    "prompt": "A kids coloring book page of a cute dress, a t-shirt, trousers, sneakers and a bow tie arranged together like a flat-lay fashion spread. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5-7.",
+    "featured": true,
+    "ageGroup": "5-7",
+    "tags": [
+      "oblecení",
+      "šaty",
+      "moda",
+      "boty"
+    ]
+  },
+  {
+    "slug": "doctor-01",
+    "title": "Doktor",
+    "description": "Přátelský doktor s lékařskou taškou a stetoskopem.",
+    "category": "jobs",
+    "image": "/coloring-pages/jobs/doctor-01.png",
+    "prompt": "A kids coloring book page of a friendly smiling doctor in a white coat holding a medical bag and wearing a stethoscope around their neck. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only. Suitable for age 5-7.",
+    "featured": true,
+    "ageGroup": "5-7",
+    "tags": [
+      "povolani",
+      "doktor",
+      "zdravotnictví",
+      "nemocnice"
+    ]
+  }
+]
