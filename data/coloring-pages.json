@@ -1604,5 +1604,149 @@
       "zdravotnictví",
       "nemocnice"
     ]
+  },
+  {
+    "slug": "castle-building-01",
+    "title": "Pohádkový zámek",
+    "description": "Velký pohádkový zámek s věžemi a vlajkami.",
+    "category": "buildings",
+    "image": "/coloring-pages/buildings/castle-building-01.png",
+    "prompt": "A kids coloring book page of a big fairytale castle with tall towers, flags, arched windows and a drawbridge. Suitable for age 5-7. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-7",
+    "tags": [
+      "budovy",
+      "zámek",
+      "pohádka",
+      "věže"
+    ]
+  },
+  {
+    "slug": "lighthouse-01",
+    "title": "Maják",
+    "description": "Vysoký maják u moře s vlnami kolem.",
+    "category": "buildings",
+    "image": "/coloring-pages/buildings/lighthouse-01.png",
+    "prompt": "A kids coloring book page of a tall lighthouse on a rocky coast with waves and a small boat nearby. Suitable for age 5-7. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-7",
+    "tags": [
+      "budovy",
+      "maják",
+      "moře",
+      "pobřeží"
+    ]
+  },
+  {
+    "slug": "treehouse-01",
+    "title": "Domeček na stromě",
+    "description": "Roztomilý domeček na stromě se žebříkem.",
+    "category": "buildings",
+    "image": "/coloring-pages/buildings/treehouse-01.png",
+    "prompt": "A kids coloring book page of a cute treehouse built in a big tree with a ladder, windows and a small balcony. Suitable for age 5-7. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-7",
+    "tags": [
+      "budovy",
+      "domeček",
+      "strom",
+      "příroda"
+    ]
+  },
+  {
+    "slug": "winter-clothes-01",
+    "title": "Zimní oblečení",
+    "description": "Zimní kabát, čepice, šála a rukavice.",
+    "category": "clothes",
+    "image": "/coloring-pages/clothes/winter-clothes-01.png",
+    "prompt": "A kids coloring book page of a winter coat, woolly hat, scarf, mittens and boots arranged together. Suitable for age 5-7. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-7",
+    "tags": [
+      "oblečení",
+      "zima",
+      "kabát",
+      "čepice"
+    ]
+  },
+  {
+    "slug": "princess-dress-01",
+    "title": "Princeznovské šaty",
+    "description": "Nádherné princeznovské šaty s korunou.",
+    "category": "clothes",
+    "image": "/coloring-pages/clothes/princess-dress-01.png",
+    "prompt": "A kids coloring book page of a beautiful princess ball gown dress with a crown, tiara and magic wand displayed together. Suitable for age 5-7. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-7",
+    "tags": [
+      "oblečení",
+      "šaty",
+      "princezna",
+      "moda"
+    ]
+  },
+  {
+    "slug": "sports-kit-01",
+    "title": "Sportovní výbava",
+    "description": "Fotbalový dres, kopačky a míč.",
+    "category": "clothes",
+    "image": "/coloring-pages/clothes/sports-kit-01.png",
+    "prompt": "A kids coloring book page of a football jersey, shorts, football boots and a ball laid out flat. Suitable for age 5-7. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-7",
+    "tags": [
+      "oblečení",
+      "sport",
+      "fotbal",
+      "dres"
+    ]
+  },
+  {
+    "slug": "firefighter-01",
+    "title": "Hasič",
+    "description": "Statečný hasič v uniformě s hadicí.",
+    "category": "jobs",
+    "image": "/coloring-pages/jobs/firefighter-01.png",
+    "prompt": "A kids coloring book page of a brave firefighter in uniform holding a hose with a helmet and boots. Suitable for age 5-7. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-7",
+    "tags": [
+      "povolání",
+      "hasič",
+      "záchranář",
+      "uniforma"
+    ]
+  },
+  {
+    "slug": "pilot-01",
+    "title": "Pilot",
+    "description": "Pilot v kokpitu letadla s přilbou.",
+    "category": "jobs",
+    "image": "/coloring-pages/jobs/pilot-01.png",
+    "prompt": "A kids coloring book page of a smiling pilot in a cockpit wearing a uniform and cap with an airplane visible through the window. Suitable for age 5-7. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-7",
+    "tags": [
+      "povolání",
+      "pilot",
+      "letadlo",
+      "uniforma"
+    ]
+  },
+  {
+    "slug": "chef-01",
+    "title": "Kuchař",
+    "description": "Veselý kuchař vaří polévku v kuchyni.",
+    "category": "jobs",
+    "image": "/coloring-pages/jobs/chef-01.png",
+    "prompt": "A kids coloring book page of a happy chef wearing a tall hat and apron stirring a big pot with a ladle and vegetables around. Suitable for age 5-7. Black outline drawing only on a pure white background. Every shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading, no cross-hatching. Simple bold outlines only.",
+    "featured": false,
+    "ageGroup": "5-7",
+    "tags": [
+      "povolání",
+      "kuchař",
+      "vaření",
+      "kuchyně"
+    ]
   }
 ]
