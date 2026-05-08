@@ -1,18 +1,23 @@
 # Next Steps
 
-## 1. Git repo + CI/CD pipeline
-- Initialise git repo (`git init`)
-- Create GitHub repository
-- Set up GitHub Actions workflow
-  - Run `npm run build` on every push
-  - Deploy to hosting (Vercel / Netlify / GitHub Pages — to decide)
-  - Store `OPENAI_API_KEY` as a GitHub Actions secret
-- Add branch protection on `main`
+## Done ✅
+- Frontend (Czech language, search, filters, multi-select download/print)
+- 13 categories, 100+ AI-generated coloring pages
+- SEO (sitemap, robots.txt, OG tags, JSON-LD, keywords)
+- Git repository (github.com/vdovi15/omalovanky)
+- Deployed on Vercel (omalovanky-mu.vercel.app)
 
-## 2. Frontend
-- Review and improve overall design / layout
-- Category cover images — consider replacing B&W thumbnails with colorful ones
-- Coloring page detail page — improve layout, add better print UX
-- Mobile responsiveness check
-- Consider adding: search, age filter, difficulty filter
-- Consider adding: "related pages" suggestions on detail page
+## Todo
+
+### Content
+- Add more coloring pages for Buildings, Clothes, Jobs (only 1 each so far)
+- Use `/generate-coloring` skill to add new pages anytime
+
+### SEO
+- Register on Google Search Console
+- Submit sitemap: https://omalovanky-mu.vercel.app/sitemap.xml
+- Set NEXT_PUBLIC_SITE_URL env var on Vercel and redeploy
+
+### Optional
+- Buy custom domain (omalovanky.cz ~$10/year)
+- Connect domain in Vercel Settings → Domains
