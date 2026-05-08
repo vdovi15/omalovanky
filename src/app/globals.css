@@ -1,6 +1,6 @@
 :root {
-  --bg: #fdf6e8;
-  --bg-soft: #fffaf0;
+  --bg: #d4edf7;
+  --bg-soft: #e0f3fb;
   --ink: #193042;
   --ink-soft: #536471;
   --line: rgba(25, 48, 66, 0.12);
@@ -34,10 +34,7 @@ body {
   margin: 0;
   min-width: 320px;
   color: var(--ink);
-  background:
-    radial-gradient(circle at top left, rgba(255, 143, 90, 0.18), transparent 25%),
-    radial-gradient(circle at top right, rgba(94, 184, 164, 0.18), transparent 22%),
-    linear-gradient(180deg, #fff8eb 0%, #fdf4e1 100%);
+  background: linear-gradient(180deg, #d4edf7 0%, #cce8f4 100%);
   font-family: "Trebuchet MS", "Avenir Next", "Segoe UI", sans-serif;
 }
 
