@@ -1,6 +1,6 @@
 :root {
-  --bg: #d4edf7;
-  --bg-soft: #e0f3fb;
+  --bg: #e8f5fb;
+  --bg-soft: #f0f9fd;
   --ink: #193042;
   --ink-soft: #536471;
   --line: rgba(25, 48, 66, 0.12);
@@ -34,7 +34,7 @@ body {
   margin: 0;
   min-width: 320px;
   color: var(--ink);
-  background: linear-gradient(180deg, #d4edf7 0%, #cce8f4 100%);
+  background: linear-gradient(180deg, #e8f5fb 0%, #dff0f8 100%);
   font-family: "Trebuchet MS", "Avenir Next", "Segoe UI", sans-serif;
 }
 
