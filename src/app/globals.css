@@ -867,8 +867,28 @@ main {
 
   .site-header {
     position: static;
-    grid-template-columns: auto 1fr auto;
-    border-radius: 26px;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    border-radius: 22px;
+    gap: 10px;
+  }
+
+  .site-header .brand {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .header-dropdowns {
+    grid-column: 2;
+    grid-row: 1;
+    justify-self: end;
+  }
+
+  .search-wrap {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    max-width: 100%;
+    margin: 0;
   }
 
   .hero {
