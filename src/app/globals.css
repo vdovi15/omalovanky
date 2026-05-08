@@ -739,9 +739,9 @@ main {
 }
 
 .selection-bar .button-primary {
-  background: white;
-  color: var(--ink);
-  border-color: white;
+  background: rgba(255,255,255,0.15);
+  color: white;
+  border-color: rgba(255,255,255,0.3);
 }
 
 .coloring-image {
@@ -785,9 +785,9 @@ main {
 }
 
 .icon-button-primary {
-  background: var(--ink);
-  color: white;
-  border-color: var(--ink);
+  background: white;
+  color: var(--ink);
+  border-color: var(--line);
 }
 
 
