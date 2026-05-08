@@ -143,11 +143,14 @@ main {
   font: inherit;
   font-size: 0.9rem;
   color: var(--ink);
+  -webkit-text-fill-color: var(--ink);
   outline: none;
+  min-width: 0;
 }
 
 .search-input::placeholder {
   color: var(--ink-soft);
+  -webkit-text-fill-color: var(--ink-soft);
 }
 
 .search-submit {
@@ -156,10 +159,10 @@ main {
   justify-content: center;
   width: 34px;
   height: 34px;
-  border: none;
+  border: 1px solid var(--line);
   border-radius: 999px;
-  background: var(--ink);
-  color: white;
+  background: white;
+  color: var(--ink);
   cursor: pointer;
   flex-shrink: 0;
 }

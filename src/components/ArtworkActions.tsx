@@ -9,38 +9,6 @@ type ArtworkActionsProps = {
   compact?: boolean;
 };
 
-function buildPrintDocument(imageUrl: string, title: string) {
-  return `<!doctype html>
-<html>
-  <head>
-    <title>${title}</title>
-    <style>
-      @page { margin: 12mm; }
-      body {
-        margin: 0;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        min-height: 100vh;
-        background: white;
-      }
-      img {
-        max-width: 100%;
-        max-height: 100vh;
-        object-fit: contain;
-      }
-    </style>
-  </head>
-  <body>
-    <img src="${imageUrl}" alt="${title}" />
-    <script>
-      window.addEventListener("load", function () {
-        window.print();
-      });
-    </script>
-  </body>
-</html>`;
-}
 
 const IconEye = () => (
   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -77,7 +45,7 @@ export function ArtworkActions({
       : `${window.location.origin}${imageUrl}`;
 
     const style = document.createElement("style");
-    style.innerHTML = `@media print { @page { margin: 10mm; } html, body { margin: 0 !important; padding: 0 !important; } body * { visibility: hidden !important; } #__pf__ { visibility: visible !important; position: fixed !important; inset: 0 !important; display: flex !important; align-items: center !important; justify-content: center !important; background: white !important; z-index: 99999 !important; } #__pf__ img { visibility: visible !important; max-width: 100% !important; max-height: 100vh !important; object-fit: contain !important; } }`;
+    style.innerHTML = `@media print { @page { margin: 10mm; } body > *:not(#__pf__) { display: none !important; } html, body { height: auto !important; overflow: hidden !important; margin: 0 !important; padding: 0 !important; } #__pf__ { display: flex !important; align-items: center !important; justify-content: center !important; width: 100% !important; } #__pf__ img { max-width: 100% !important; height: auto !important; } }`;
     document.head.appendChild(style);
 
     const el = document.createElement("div");
