@@ -72,6 +72,10 @@ export function ArtworkActions({
   compact = false
 }: ArtworkActionsProps) {
   function handlePrint() {
+    const absoluteUrl = imageUrl.startsWith("http")
+      ? imageUrl
+      : `${window.location.origin}${imageUrl}`;
+
     const printWindow = window.open("", "_blank", "noopener,noreferrer");
 
     if (!printWindow) {
@@ -80,8 +84,10 @@ export function ArtworkActions({
     }
 
     printWindow.document.open();
-    printWindow.document.write(buildPrintDocument(imageUrl, title));
+    printWindow.document.write(buildPrintDocument(absoluteUrl, title));
     printWindow.document.close();
+    printWindow.focus();
+    setTimeout(() => printWindow.print(), 500);
   }
 
   return (
