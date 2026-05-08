@@ -76,21 +76,33 @@ export function ArtworkActions({
       ? imageUrl
       : `${window.location.origin}${imageUrl}`;
 
-    const el = document.createElement("div");
-    el.id = "__print_frame__";
-    el.style.cssText = "display:none";
-    el.innerHTML = `<img src="${absoluteUrl}" alt="${title}" style="max-width:100%;height:auto" />`;
-    document.body.appendChild(el);
-
     const style = document.createElement("style");
-    style.id = "__print_style__";
-    style.innerHTML = `@media print { body > *:not(#__print_frame__) { display: none !important; } #__print_frame__ { display: block !important; } @page { margin: 10mm; } }`;
+    style.innerHTML = `@media print { body > *:not(#__pf__) { display: none !important; } #__pf__ { display: flex !important; align-items: center; justify-content: center; } #__pf__ img { max-width: 100%; max-height: 100vh; object-fit: contain; } @page { margin: 10mm; } }`;
     document.head.appendChild(style);
 
-    window.print();
+    const el = document.createElement("div");
+    el.id = "__pf__";
+    el.style.cssText = "display:none";
+    document.body.appendChild(el);
 
-    document.body.removeChild(el);
-    document.head.removeChild(style);
+    const img = new Image();
+    img.style.cssText = "max-width:100%;max-height:100vh;object-fit:contain";
+    img.alt = title;
+
+    function cleanup() {
+      document.body.removeChild(el);
+      document.head.removeChild(style);
+      window.removeEventListener("afterprint", cleanup);
+    }
+
+    img.onload = () => {
+      el.appendChild(img);
+      window.addEventListener("afterprint", cleanup);
+      window.print();
+    };
+
+    img.onerror = cleanup;
+    img.src = absoluteUrl;
   }
 
   return (
