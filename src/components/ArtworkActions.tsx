@@ -77,7 +77,7 @@ export function ArtworkActions({
       : `${window.location.origin}${imageUrl}`;
 
     const style = document.createElement("style");
-    style.innerHTML = `@media print { body > *:not(#__pf__) { display: none !important; } #__pf__ { display: flex !important; align-items: center; justify-content: center; } #__pf__ img { max-width: 100%; max-height: 100vh; object-fit: contain; } @page { margin: 10mm; } }`;
+    style.innerHTML = `@media print { @page { margin: 10mm; } html, body { margin: 0 !important; padding: 0 !important; } body * { visibility: hidden !important; } #__pf__ { visibility: visible !important; position: fixed !important; inset: 0 !important; display: flex !important; align-items: center !important; justify-content: center !important; background: white !important; z-index: 99999 !important; } #__pf__ img { visibility: visible !important; max-width: 100% !important; max-height: 100vh !important; object-fit: contain !important; } }`;
     document.head.appendChild(style);
 
     const el = document.createElement("div");
