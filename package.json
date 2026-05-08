@@ -8,6 +8,7 @@
     "generate:cover": "node scripts/generate-category-cover.mjs"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest"

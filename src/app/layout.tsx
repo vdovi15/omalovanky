@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SelectionProvider } from "@/components/SelectionContext";
 import { SelectionBar } from "@/components/SelectionBar";
@@ -64,6 +65,7 @@ export default function RootLayout({
           </div>
           <SelectionBar />
         </SelectionProvider>
+        <Analytics />
       </body>
     </html>
   );
