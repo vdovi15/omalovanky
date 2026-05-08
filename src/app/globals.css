@@ -598,48 +598,29 @@ main {
   background: rgba(244, 201, 93, 0.3);
 }
 
-.theme-cars {
-  background:
-    linear-gradient(180deg, rgba(255, 143, 90, 0.12), rgba(255, 255, 255, 0.82)),
-    rgba(255, 255, 255, 0.82);
-}
+.theme-cars      { background: white; }
+.theme-animals   { background: white; }
+.theme-princesses { background: white; }
+.theme-flowers   { background: white; }
 
-.theme-animals {
-  background:
-    linear-gradient(180deg, rgba(94, 184, 164, 0.12), rgba(255, 255, 255, 0.82)),
-    rgba(255, 255, 255, 0.82);
-}
+.theme-cars .category-card-body      { background: rgba(255, 143, 90, 0.18); }
+.theme-animals .category-card-body   { background: rgba(94, 184, 164, 0.18); }
+.theme-princesses .category-card-body { background: rgba(243, 176, 185, 0.22); }
+.theme-flowers .category-card-body   { background: rgba(244, 201, 93, 0.22); }
 
-.theme-princesses {
-  background:
-    linear-gradient(180deg, rgba(243, 176, 185, 0.12), rgba(255, 255, 255, 0.82)),
-    rgba(255, 255, 255, 0.82);
-}
+.theme-space     { background: white; }
+.theme-dinosaurs { background: white; }
+.theme-ocean     { background: white; }
+.theme-fairytales { background: white; }
+.theme-food      { background: white; }
+.theme-sports    { background: white; }
 
-.theme-flowers {
-  background:
-    linear-gradient(180deg, rgba(244, 201, 93, 0.14), rgba(255, 255, 255, 0.82)),
-    rgba(255, 255, 255, 0.82);
-}
-
-.theme-space {
-  background: linear-gradient(180deg, rgba(123, 107, 200, 0.12), rgba(255, 255, 255, 0.82)), rgba(255, 255, 255, 0.82);
-}
-.theme-dinosaurs {
-  background: linear-gradient(180deg, rgba(106, 170, 106, 0.12), rgba(255, 255, 255, 0.82)), rgba(255, 255, 255, 0.82);
-}
-.theme-ocean {
-  background: linear-gradient(180deg, rgba(77, 184, 216, 0.12), rgba(255, 255, 255, 0.82)), rgba(255, 255, 255, 0.82);
-}
-.theme-fairytales {
-  background: linear-gradient(180deg, rgba(200, 107, 154, 0.12), rgba(255, 255, 255, 0.82)), rgba(255, 255, 255, 0.82);
-}
-.theme-food {
-  background: linear-gradient(180deg, rgba(240, 160, 48, 0.12), rgba(255, 255, 255, 0.82)), rgba(255, 255, 255, 0.82);
-}
-.theme-sports {
-  background: linear-gradient(180deg, rgba(224, 88, 88, 0.12), rgba(255, 255, 255, 0.82)), rgba(255, 255, 255, 0.82);
-}
+.theme-space .category-card-body      { background: rgba(123, 107, 200, 0.15); }
+.theme-dinosaurs .category-card-body  { background: rgba(106, 170, 106, 0.15); }
+.theme-ocean .category-card-body      { background: rgba(77, 184, 216, 0.15); }
+.theme-fairytales .category-card-body { background: rgba(200, 107, 154, 0.15); }
+.theme-food .category-card-body       { background: rgba(240, 160, 48, 0.15); }
+.theme-sports .category-card-body     { background: rgba(224, 88, 88, 0.15); }
 
 /* Age group badge colours */
 .badge-age-4-7 { background: rgba(94, 184, 164, 0.22); color: #2e7a6a; }
@@ -659,9 +640,13 @@ main {
 .accent-food     { background: rgba(240, 160, 48, 0.25); }
 .accent-sports   { background: rgba(224, 88, 88, 0.2); }
 
-.theme-buildings { background: linear-gradient(180deg, rgba(212, 149, 106, 0.12), rgba(255,255,255,0.82)), rgba(255,255,255,0.82); }
-.theme-clothes   { background: linear-gradient(180deg, rgba(196, 154, 200, 0.12), rgba(255,255,255,0.82)), rgba(255,255,255,0.82); }
-.theme-jobs      { background: linear-gradient(180deg, rgba(91, 168, 212, 0.12), rgba(255,255,255,0.82)), rgba(255,255,255,0.82); }
+.theme-buildings { background: white; }
+.theme-clothes   { background: white; }
+.theme-jobs      { background: white; }
+
+.theme-buildings .category-card-body  { background: rgba(212, 149, 106, 0.15); }
+.theme-clothes .category-card-body    { background: rgba(196, 154, 200, 0.15); }
+.theme-jobs .category-card-body       { background: rgba(91, 168, 212, 0.15); }
 
 .accent-buildings { background: rgba(212, 149, 106, 0.22); }
 .accent-clothes   { background: rgba(196, 154, 200, 0.22); }
