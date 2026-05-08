@@ -154,8 +154,8 @@ main {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 30px;
-  height: 30px;
+  width: 34px;
+  height: 34px;
   border: none;
   border-radius: 999px;
   background: var(--ink);
@@ -867,6 +867,8 @@ main {
     grid-template-rows: auto auto;
     border-radius: 22px;
     gap: 10px;
+    overflow: hidden;
+    padding: 12px 14px;
   }
 
   .site-header .brand {
