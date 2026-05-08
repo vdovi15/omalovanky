@@ -76,18 +76,25 @@ export function ArtworkActions({
       ? imageUrl
       : `${window.location.origin}${imageUrl}`;
 
-    const printWindow = window.open("", "_blank", "noopener,noreferrer");
+    const win = window.open("", "_blank");
+    if (!win) return;
 
-    if (!printWindow) {
-      window.print();
-      return;
-    }
-
-    printWindow.document.open();
-    printWindow.document.write(buildPrintDocument(absoluteUrl, title));
-    printWindow.document.close();
-    printWindow.focus();
-    setTimeout(() => printWindow.print(), 500);
+    win.document.write(`<!doctype html>
+<html>
+  <head>
+    <title>${title}</title>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      @page { margin: 10mm; }
+      body { display: flex; align-items: center; justify-content: center; min-height: 100vh; background: white; }
+      img { max-width: 100%; max-height: 100vh; object-fit: contain; }
+    </style>
+  </head>
+  <body>
+    <img src="${absoluteUrl}" alt="${title}" onload="window.print()" />
+  </body>
+</html>`);
+    win.document.close();
   }
 
   return (

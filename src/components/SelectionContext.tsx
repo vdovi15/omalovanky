@@ -48,12 +48,13 @@ export function SelectionProvider({ children }: { children: ReactNode }) {
   }
 
   function printAll() {
-    const images = items.map(i => `
-      <div class="page">
-        <img src="${i.imageUrl}" alt="${i.title}" />
-      </div>`).join("");
+    const origin = window.location.origin;
+    const images = items.map(i => {
+      const url = i.imageUrl.startsWith("http") ? i.imageUrl : `${origin}${i.imageUrl}`;
+      return `<div class="page"><img src="${url}" alt="${i.title}" /></div>`;
+    }).join("");
 
-    const win = window.open("", "_blank", "noopener,noreferrer");
+    const win = window.open("", "_blank");
     if (!win) return;
     win.document.write(`<!doctype html>
 <html>
