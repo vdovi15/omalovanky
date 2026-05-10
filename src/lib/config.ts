@@ -12,6 +12,7 @@ export const LOCALE_DOMAINS: Record<Locale, string> = {
   sk: "https://moje-omalovanky.cz",
   en: "https://ENGLISH_DOMAIN_PLACEHOLDER",  // e.g. https://tiny-palette.com
   de: "https://GERMAN_DOMAIN_PLACEHOLDER",   // e.g. https://malvorlagen-kids.de
+  pl: "https://POLISH_DOMAIN_PLACEHOLDER",   // e.g. https://kolorowanki-dzieci.pl
 };
 
 export function getLocaleOrigin(lang: Locale): string {

@@ -1,10 +1,10 @@
-export const locales = ['cs', 'en', 'sk', 'de'] as const;
+export const locales = ['cs', 'en', 'sk', 'de', 'pl'] as const;
 export type Locale = typeof locales[number];
 export const defaultLocale: Locale = 'cs';
 
 export const localePaths = {
-  browseAll: { cs: 'vse', en: 'all', sk: 'vsetky', de: 'alle' },
-  search: { cs: 'hledat', en: 'search', sk: 'hladat', de: 'suchen' },
+  browseAll: { cs: 'vse', en: 'all', sk: 'vsetky', de: 'alle', pl: 'wszystkie' },
+  search:    { cs: 'hledat', en: 'search', sk: 'hladat', de: 'suchen', pl: 'szukaj' },
 } satisfies Record<string, Record<Locale, string>>;
 
 export function isValidLocale(lang: string): lang is Locale {
@@ -22,6 +22,7 @@ export function pluralizeColoring(count: number, lang: Locale): string {
     case 'en': return count === 1 ? 'coloring page' : 'coloring pages';
     case 'sk': return count === 1 ? 'omaľovanka' : count < 5 ? 'omaľovanky' : 'omaľovaniek';
     case 'de': return count === 1 ? 'Malbild' : 'Malbilder';
+    case 'pl': return count === 1 ? 'kolorowanka' : count < 5 ? 'kolorowanki' : 'kolorowanek';
     default:   return count === 1 ? 'omalovánka' : count < 5 ? 'omalovánky' : 'omalovánek';
   }
 }
@@ -31,5 +32,6 @@ export function detectLocale(acceptLanguage: string): Locale {
   if (lang === 'sk') return 'sk';
   if (lang === 'de') return 'de';
   if (lang === 'en') return 'en';
+  if (lang === 'pl') return 'pl';
   return 'cs';
 }

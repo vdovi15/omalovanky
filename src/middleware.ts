@@ -20,6 +20,10 @@ const DOMAIN_LOCALE: Record<string, Locale> = {
   "GERMAN_DOMAIN_PLACEHOLDER":     "de",
   "www.GERMAN_DOMAIN_PLACEHOLDER": "de",
 
+  // Polish — replace with the purchased domain
+  "POLISH_DOMAIN_PLACEHOLDER":     "pl",
+  "www.POLISH_DOMAIN_PLACEHOLDER": "pl",
+
   // Local development — Czech by default
   "localhost": "cs",
 };
