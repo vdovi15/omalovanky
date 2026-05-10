@@ -47,8 +47,8 @@ src/
     CategoryCard         # links to /category/:slug, shows cover image
     ColoringCard         # links to /coloring/:slug, shows preview + actions
     ColoringGrid         # wraps ColoringCard list
-    ArtworkActions       # Print + Download + View buttons (client component)
-    Hero, SiteHeader
+    ArtworkActions       # Print + Download + View buttons (client component); print uses window.open+onload on desktop, @media print CSS on mobile
+    Hero, SiteHeader     # SiteHeader includes a search button (full-width second row on mobile)
   lib/
     content.ts           # data loaders (getCategories, getFeaturedColoringPages, etc.)
     categories.ts        # categoryThemes — badge label, CSS class names per category
@@ -107,7 +107,7 @@ docs/
 **Adding a new category requires changes in three places:**
 1. `data/categories.json` — add the entry
 2. `src/types/coloring.ts` — extend `CategorySlug`
-3. `src/lib/categories.ts` — add theme (badge, cardClassName, accentClassName)
+3. `src/lib/categories.ts` — add theme (badge, cardClassName, accentClassName); category colors apply to both the card body area and the detail page actions area
 
 ## Two types of images
 
@@ -144,6 +144,22 @@ The script updates `data/coloring-pages.json` image paths automatically after sa
 
 Use `/generate-coloring` in any Claude Code session to add and generate a new coloring page interactively. It handles prompt writing, JSON entry, and script execution.
 
+## Deployment
+
+- **Hosting:** Vercel (static export, auto-deploy on push to `master`)
+- **Domain:** `moje-omalovanky.cz` — registered at Wedos, DNS pointed to Vercel
+- **Analytics:** Vercel Analytics (`@vercel/analytics`) imported in `src/app/layout.tsx`
+- **Env var:** `NEXT_PUBLIC_SITE_URL=https://moje-omalovanky.cz` — set in Vercel project settings, read by `src/lib/config.ts` for metadata canonical URL and OG tags
+
+## SEO
+
+Site metadata lives in `src/app/layout.tsx` and uses `src/lib/config.ts` for `SITE_URL`, `SITE_NAME`, `SITE_DESCRIPTION`.
+
+- Language: Czech (`lang="cs"`, OG locale `cs_CZ`)
+- Czech keywords array covering all category types
+- OpenGraph and Twitter card tags
+- Canonical URL set via `metadataBase`
+
 ## Key conventions
 
 - No comments in code unless the why is non-obvious
@@ -151,6 +167,9 @@ Use `/generate-coloring` in any Claude Code session to add and generate a new co
 - All CSS in `globals.css`, BEM-ish flat naming (`.coloring-card`, `.coloring-card-body`)
 - `ArtworkActions` is the only client component (`"use client"`) — needs browser APIs for print
 - `next.config.ts` has `images.unoptimized: true` — Image component used for layout, not CDN
+- All icon buttons (print, download, view) use white background for consistent look
+- Page background is light blue; header is white to match the hero section
+- Favicon is the flower coloring page icon (`public/favicon.ico` / `public/icon.png`)
 - No test suite
 
 ## Why this structure works
@@ -162,6 +181,7 @@ Use `/generate-coloring` in any Claude Code session to add and generate a new co
 
 ## Future additions (likely)
 
+- **Internationalisation (i18n):** English + Slovak versions alongside Czech; plan is `app/[lang]/` routes with next-intl (static export compatible) and locale-keyed JSON data
 - Search across coloring pages
 - Difficulty / complexity filters
 - Printable PDF downloads

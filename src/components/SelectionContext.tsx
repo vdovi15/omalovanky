@@ -1,6 +1,7 @@
 "use client";
 
 import { createContext, useContext, useState, ReactNode } from "react";
+import type { Dict } from "@/lib/dict";
 
 const MAX = 10;
 
@@ -18,7 +19,14 @@ type SelectionCtx = {
 
 const Ctx = createContext<SelectionCtx | null>(null);
 
-export function SelectionProvider({ children }: { children: ReactNode }) {
+type ProviderProps = {
+  children: ReactNode;
+  dict?: { printTitle: string };
+};
+
+const DEFAULT_DICT = { printTitle: "Omalovánky" };
+
+export function SelectionProvider({ children, dict = DEFAULT_DICT }: ProviderProps) {
   const [items, setItems] = useState<Item[]>([]);
 
   function toggle(item: Item) {
@@ -59,7 +67,7 @@ export function SelectionProvider({ children }: { children: ReactNode }) {
     win.document.write(`<!doctype html>
 <html>
   <head>
-    <title>Omalovánky</title>
+    <title>${dict.printTitle}</title>
     <style>
       * { margin: 0; padding: 0; box-sizing: border-box; }
       @page { margin: 10mm; }

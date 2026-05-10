@@ -2,9 +2,16 @@
 
 import { useRouter, useSearchParams } from "next/navigation";
 import { useState, useRef, useEffect } from "react";
+import { getSearchPath, type Locale } from "@/lib/i18n";
 import type { Category } from "@/types/coloring";
 
-export function CategoryDropdown({ categories }: { categories: Category[] }) {
+type Props = {
+  categories: Category[];
+  lang: Locale;
+  categoryLabel: string;
+};
+
+export function CategoryDropdown({ categories, lang, categoryLabel }: Props) {
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
   const router = useRouter();
@@ -28,12 +35,12 @@ export function CategoryDropdown({ categories }: { categories: Category[] }) {
     if (updated.length) next.set("cat", updated.join(","));
     else next.delete("cat");
     next.delete("q");
-    router.push(`/hledat?${next.toString()}`);
+    router.push(`${getSearchPath(lang)}?${next.toString()}`);
   }
 
-  const label = active.length === 0 ? "Kategorie"
+  const label = active.length === 0 ? categoryLabel
     : active.length === 1 ? (categories.find(c => c.slug === active[0])?.title ?? active[0])
-    : `Kategorie (${active.length})`;
+    : `${categoryLabel} (${active.length})`;
 
   return (
     <div className="cat-dropdown" ref={ref}>

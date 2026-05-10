@@ -33,6 +33,7 @@ export async function generateMetadata({
 
   const category = getCategoryBySlug(page.category);
   return {
+    robots: { index: false },
     title: `Omalovánka ${page.title} zdarma k tisku`,
     description: `${page.description} Zdarma tisknutelná omalovánka pro děti ve věku ${page.ageGroup} let. Stáhni a tiskni bez registrace.`,
     keywords: [`omalovánka ${page.title.toLowerCase()}`, "omalovánky zdarma", "omalovánky k tisku", ...(page.tags)],

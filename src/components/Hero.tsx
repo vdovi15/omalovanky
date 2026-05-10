@@ -1,9 +1,13 @@
-export function Hero() {
+import type { Dict } from "@/lib/dict";
+
+type HeroDict = Dict["hero"];
+
+export function Hero({ dict }: { dict: HeroDict }) {
   return (
     <section className="hero">
-      <p className="eyebrow">Přes 100 omalovánek zdarma pro děti ve věku 4–8 let</p>
-      <h1>Najdi svou oblíbenou omalovánku.</h1>
-      <p className="hero-text">Zvířata, dinosauři, vesmír, povolání a 13 dalších kategorií. Stahuj a tiskni zdarma, bez registrace.</p>
+      <p className="eyebrow">{dict.eyebrow}</p>
+      <h1>{dict.heading}</h1>
+      <p className="hero-text">{dict.text}</p>
     </section>
   );
 }

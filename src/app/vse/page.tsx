@@ -3,6 +3,7 @@ import { ColoringGrid } from "@/components/ColoringGrid";
 import { getColoringPages } from "@/lib/content";
 
 export const metadata: Metadata = {
+  robots: { index: false },
   title: "Všechny omalovánky zdarma k tisku",
   description: "Procházejte všechny omalovánky zdarma ke stažení a tisku. Zvířata, auta, dinosauři, vesmír a dalších 10 kategorií pro děti.",
 };
@@ -19,7 +20,7 @@ export default function VsePage() {
       </section>
 
       <section className="section">
-        <ColoringGrid pages={pages} />
+        <ColoringGrid pages={pages} lang="cs" />
       </section>
     </div>
   );

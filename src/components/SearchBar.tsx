@@ -2,12 +2,16 @@
 
 import { useRouter } from "next/navigation";
 import { useState, useRef, useEffect } from "react";
+import { getSearchPath, type Locale } from "@/lib/i18n";
 
 type Props = {
   suggestions: string[];
+  lang: Locale;
+  placeholder: string;
+  ariaLabel: string;
 };
 
-export function SearchBar({ suggestions }: Props) {
+export function SearchBar({ suggestions, lang, placeholder, ariaLabel }: Props) {
   const [query, setQuery] = useState("");
   const [open, setOpen] = useState(false);
   const router = useRouter();
@@ -20,7 +24,7 @@ export function SearchBar({ suggestions }: Props) {
   function navigate(q: string) {
     setOpen(false);
     setQuery("");
-    router.push(`/hledat?q=${encodeURIComponent(q)}`);
+    router.push(`${getSearchPath(lang)}?q=${encodeURIComponent(q)}`);
   }
 
   function handleSubmit(e: React.FormEvent) {
@@ -48,14 +52,14 @@ export function SearchBar({ suggestions }: Props) {
         <input
           className="search-input"
           type="search"
-          placeholder="Hledat omalovánky..."
+          placeholder={placeholder}
           value={query}
           onChange={e => { setQuery(e.target.value); setOpen(true); }}
           onFocus={() => setOpen(true)}
           onKeyDown={handleKeyDown}
           autoComplete="off"
         />
-        <button className="search-submit" type="submit" aria-label="Hledat">
+        <button className="search-submit" type="submit" aria-label={ariaLabel}>
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
             <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
           </svg>
@@ -66,9 +70,7 @@ export function SearchBar({ suggestions }: Props) {
         <ul className="search-suggestions">
           {matches.map(s => (
             <li key={s}>
-              <button type="button" onClick={() => navigate(s)}>
-                {s}
-              </button>
+              <button type="button" onClick={() => navigate(s)}>{s}</button>
             </li>
           ))}
         </ul>

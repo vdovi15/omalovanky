@@ -1,6 +1,8 @@
 # Tiny Palette
 
-Tiny Palette is a simple Next.js website for kids coloring pages.
+Tiny Palette is a kids' coloring pages website (Czech: omalovánky) built with Next.js.
+
+**Live site:** [moje-omalovanky.cz](https://moje-omalovanky.cz) — deployed on Vercel, domain registered at Wedos.
 
 The live website is made from:
 - `src/` for pages and components
@@ -68,6 +70,20 @@ Build for production:
 
 ```powershell
 npm.cmd run build
+```
+
+## Deployment
+
+The site deploys automatically to Vercel on every push to `master`.
+
+- **Hosting:** Vercel (static export)
+- **Domain:** moje-omalovanky.cz — registered at [Wedos](https://wedos.cz), DNS pointed to Vercel
+- **Analytics:** Vercel Analytics (`@vercel/analytics`) — enabled in `src/app/layout.tsx`
+
+Required environment variable in Vercel project settings:
+
+```
+NEXT_PUBLIC_SITE_URL=https://moje-omalovanky.cz
 ```
 
 ## AI cover generation

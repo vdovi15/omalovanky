@@ -4,10 +4,12 @@ import { ArtworkActions } from "@/components/ArtworkActions";
 import { SelectionToggle } from "@/components/SelectionToggle";
 import { categoryThemes } from "@/lib/categories";
 import { getCategoryBySlug } from "@/lib/content";
+import { getColoringPath, getCategoryPath, type Locale } from "@/lib/i18n";
 import type { ColoringPage } from "@/types/coloring";
 
 type ColoringCardProps = {
   page: ColoringPage;
+  lang: Locale;
 };
 
 const ageClass: Record<string, string> = {
@@ -16,19 +18,19 @@ const ageClass: Record<string, string> = {
   "6-8": "badge-age-6-8",
 };
 
-export function ColoringCard({ page }: ColoringCardProps) {
+export function ColoringCard({ page, lang }: ColoringCardProps) {
   const theme = categoryThemes[page.category];
   const category = getCategoryBySlug(page.category);
 
   return (
     <article className={`coloring-card ${theme.cardClassName}`}>
-      <Link className="coloring-card-link" href={`/coloring/${page.slug}`}>
+      <Link className="coloring-card-link" href={getColoringPath(lang, page.slug)}>
         <div className="coloring-image-wrap">
           <SelectionToggle slug={page.slug} imageUrl={page.image} title={page.title} />
           <Image
             className="coloring-image"
             src={page.image}
-            alt={`Omalovánka ${page.title} zdarma k tisku`}
+            alt={page.title}
             width={1024}
             height={1536}
             sizes="(max-width: 720px) 100vw, (max-width: 960px) 33vw, 20vw"
@@ -46,7 +48,7 @@ export function ColoringCard({ page }: ColoringCardProps) {
       <div className="coloring-card-actions">
         <ArtworkActions
           compact
-          detailHref={`/coloring/${page.slug}`}
+          detailHref={getColoringPath(lang, page.slug)}
           imageUrl={page.image}
           title={page.title}
         />

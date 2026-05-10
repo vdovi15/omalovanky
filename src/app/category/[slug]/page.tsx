@@ -33,6 +33,7 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
 
   const pages = getColoringPagesByCategory(category.slug as any);
   return {
+    robots: { index: false },
     title: `Omalovánky ${category.title} zdarma k tisku`,
     description: `${category.description} ${pages.length} omalovánek zdarma ke stažení a tisku. Bez registrace.`,
     keywords: [`omalovánky ${category.title.toLowerCase()}`, "omalovánky zdarma", "omalovánky k tisku", "tisknutelné omalovánky"],
@@ -71,7 +72,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
           <p className="eyebrow">Všechny stránky</p>
           <h2>Klikni na omalovánku pro tisk nebo stažení</h2>
         </div>
-        <ColoringGrid pages={pages} />
+        <ColoringGrid pages={pages} lang="cs" />
       </section>
     </div>
   );

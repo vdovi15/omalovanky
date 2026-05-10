@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    { "source": "/vse", "destination": "/cs/vse", "permanent": true },
+    { "source": "/hledat", "destination": "/cs/hledat", "permanent": true },
+    { "source": "/category/:slug", "destination": "/cs/category/:slug", "permanent": true },
+    { "source": "/coloring/:slug", "destination": "/cs/coloring/:slug", "permanent": true }
+  ]
+}

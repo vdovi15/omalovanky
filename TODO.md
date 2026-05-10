@@ -3,20 +3,32 @@
 ## Done ✅
 - Frontend (Czech language, search, filters, age/category dropdowns, multi-select download/print)
 - 13 categories, 100+ AI-generated coloring pages
-- SEO (sitemap, robots.txt, OG tags, JSON-LD, keywords, canonical URLs)
+- SEO (sitemap, robots.txt, OG tags, JSON-LD, keywords, canonical URLs, hreflang)
 - Git repository (github.com/vdovi15/omalovanky)
 - Deployed on Vercel (omalovanky-mu.vercel.app)
-- Custom domain registered: moje-omalovanky.cz (DNS propagating)
+- Custom domain registered: moje-omalovanky.cz
 - Image optimization via Vercel (WebP/AVIF, responsive sizes)
-
-## In Progress 🔄
-- DNS propagation for moje-omalovanky.cz (waiting)
-- Set NEXT_PUBLIC_SITE_URL env var on Vercel once domain is live
+- Vercel Analytics added
+- i18n — Czech, English, Slovak, German (all 107 page titles + UI translated)
+- Middleware for domain-based locale routing (domain placeholders in place)
 
 ## Immediate next steps
-- [ ] Verify moje-omalovanky.cz is live (click Refresh in Vercel → Domains)
-- [ ] Set NEXT_PUBLIC_SITE_URL=https://moje-omalovanky.cz in Vercel → Environment Variables → Redeploy
-- [ ] Google Search Console — register site, submit sitemap: https://moje-omalovanky.cz/sitemap.xml
+
+### 🌍 New domains — wire up when purchased
+- [ ] Buy English domain (e.g. `tiny-palette.com`)
+- [ ] Buy German domain (e.g. `malvorlagen-kids.de`)
+- [ ] Replace `ENGLISH_DOMAIN_PLACEHOLDER` in two files:
+  - `src/middleware.ts` (two entries: www + non-www)
+  - `src/lib/config.ts` (`LOCALE_DOMAINS.en`)
+- [ ] Replace `GERMAN_DOMAIN_PLACEHOLDER` in same two files
+- [ ] Add both domains in Vercel → Project → Domains
+- [ ] Redeploy
+
+### 🔍 SEO
+- [ ] Google Search Console — register moje-omalovanky.cz, submit sitemap: https://moje-omalovanky.cz/sitemap.xml
+- [ ] Once English/German domains are live — register those in Search Console too
+
+### 📄 Content
 - [ ] Add more coloring pages for Buildings, Clothes, Jobs (only 4 each so far)
 
 ---
@@ -40,22 +52,14 @@
 - [ ] Alternative: Formspree (even simpler, submissions sent to email)
 
 ### 🌍 Internationalisation (i18n)
-- [ ] Phase 1 — Slovak (sk) — easiest, ~90% same language as Czech
-  - Buy moje-omalovanky.sk (~$5/year)
-  - Add middleware.ts — domain-based locale detection
-  - Create messages/cs.json + messages/sk.json (translate ~30 strings)
-  - Localise data/sk/categories.json + data/sk/coloring-pages.json
-  - Add hreflang tags for SEO
-  - Add moje-omalovanky.sk to Vercel → Domains
-- [ ] Phase 2 — Polish (pl) — large market (40M people), keyword: "kolorowanki"
-- [ ] Phase 3 — German (de) — highest revenue potential, keyword: "ausmalbilder"
-- [ ] Files to change for each new language:
-  - middleware.ts (domain → locale mapping)
-  - messages/[locale].json (UI strings)
-  - data/[locale]/categories.json
-  - data/[locale]/coloring-pages.json
-  - src/app/layout.tsx (hreflang tags)
-  - src/lib/config.ts (SITE_URL per locale)
+- [x] Czech, English, Slovak, German — UI + all 107 page titles translated
+- [x] Domain-based middleware routing (placeholders — see Immediate next steps)
+- [x] hreflang tags on all locale pages
+- [ ] Polish (pl) — large market (40M people), keyword: "kolorowanki"
+  - Add `pl` to `src/lib/i18n.ts` locales
+  - Add `src/i18n/pl.json` (translate UI + page titles)
+  - Add domain to `src/middleware.ts` and `src/lib/config.ts`
+  - Add locale path entries (browseAll: "wszystkie", search: "szukaj")
 
 ### 🎨 Content
 - [ ] Fill out Buildings, Clothes, Jobs to 8–10 pages each

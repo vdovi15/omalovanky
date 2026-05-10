@@ -1,14 +1,21 @@
 "use client";
 
 import Link from "next/link";
+import type { Dict } from "@/lib/dict";
 
 type ArtworkActionsProps = {
   imageUrl: string;
   title: string;
   detailHref?: string;
   compact?: boolean;
+  dict?: Dict["artwork"];
 };
 
+const DEFAULT_DICT: Dict["artwork"] = {
+  viewTitle: "Zobrazit",
+  printTitle: "Tisk",
+  downloadTitle: "Stáhnout",
+};
 
 const IconEye = () => (
   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -33,12 +40,7 @@ const IconDownload = () => (
   </svg>
 );
 
-export function ArtworkActions({
-  imageUrl,
-  title,
-  detailHref,
-  compact = false
-}: ArtworkActionsProps) {
+export function ArtworkActions({ imageUrl, title, detailHref, compact = false, dict = DEFAULT_DICT }: ArtworkActionsProps) {
   function handlePrint() {
     const absoluteUrl = imageUrl.startsWith("http")
       ? imageUrl
@@ -76,14 +78,14 @@ export function ArtworkActions({
   return (
     <div className={`artwork-actions${compact ? " artwork-actions-compact" : ""}`}>
       {detailHref ? (
-        <Link className="icon-button" href={detailHref} title="Zobrazit">
+        <Link className="icon-button" href={detailHref} title={dict.viewTitle}>
           <IconEye />
         </Link>
       ) : null}
-      <button className="icon-button icon-button-primary" type="button" onClick={handlePrint} title="Tisk">
+      <button className="icon-button icon-button-primary" type="button" onClick={handlePrint} title={dict.printTitle}>
         <IconPrint />
       </button>
-      <a className="icon-button" href={imageUrl} download title="Stáhnout">
+      <a className="icon-button" href={imageUrl} download title={dict.downloadTitle}>
         <IconDownload />
       </a>
     </div>
