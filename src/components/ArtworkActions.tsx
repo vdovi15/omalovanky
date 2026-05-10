@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import type { Dict } from "@/lib/dict";
+import { track } from "@/lib/analytics";
 
 type ArtworkActionsProps = {
   imageUrl: string;
@@ -68,6 +69,7 @@ export function ArtworkActions({ imageUrl, title, detailHref, compact = false, d
     img.onload = () => {
       el.appendChild(img);
       window.addEventListener("afterprint", cleanup);
+      track.print(imageUrl, title);
       window.print();
     };
 
@@ -85,7 +87,7 @@ export function ArtworkActions({ imageUrl, title, detailHref, compact = false, d
       <button className="icon-button icon-button-primary" type="button" onClick={handlePrint} title={dict.printTitle}>
         <IconPrint />
       </button>
-      <a className="icon-button" href={imageUrl} download title={dict.downloadTitle}>
+      <a className="icon-button" href={imageUrl} download title={dict.downloadTitle} onClick={() => track.download(imageUrl, title)}>
         <IconDownload />
       </a>
     </div>

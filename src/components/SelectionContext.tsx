@@ -2,6 +2,7 @@
 
 import { createContext, useContext, useState, ReactNode } from "react";
 import type { Dict } from "@/lib/dict";
+import { track } from "@/lib/analytics";
 
 const MAX = 10;
 
@@ -44,6 +45,7 @@ export function SelectionProvider({ children, dict = DEFAULT_DICT }: ProviderPro
   function clear() { setItems([]); }
 
   async function downloadAll() {
+    track.multiDownload(items.length);
     for (let i = 0; i < items.length; i++) {
       const a = document.createElement("a");
       a.href = items[i].imageUrl;
@@ -56,6 +58,7 @@ export function SelectionProvider({ children, dict = DEFAULT_DICT }: ProviderPro
   }
 
   function printAll() {
+    track.multiPrint(items.length);
     const origin = window.location.origin;
     const images = items.map(i => {
       const url = i.imageUrl.startsWith("http") ? i.imageUrl : `${origin}${i.imageUrl}`;

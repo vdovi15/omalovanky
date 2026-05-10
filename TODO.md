@@ -28,6 +28,14 @@
 - [ ] Google Search Console — register moje-omalovanky.cz, submit sitemap: https://moje-omalovanky.cz/sitemap.xml
 - [ ] Once English/German domains are live — register those in Search Console too
 
+### 🇵🇱 Polish (pl) — next language
+- [ ] Buy Polish domain (e.g. `kolorowanki-dzieci.pl`)
+- [ ] Add `pl` to `src/lib/i18n.ts` locales
+- [ ] Create `src/i18n/pl.json` (UI strings + all 107 page titles + descriptions)
+- [ ] Add `pl` domain to `src/middleware.ts` and `src/lib/config.ts`
+- [ ] Add locale path entries: `browseAll: "wszystkie"`, `search: "szukaj"`
+- [ ] Add Polish domain to Vercel → Domains
+
 ### 📄 Content
 - [ ] Add more coloring pages for Buildings, Clothes, Jobs (only 4 each so far)
 

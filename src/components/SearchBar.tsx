@@ -3,6 +3,7 @@
 import { useRouter } from "next/navigation";
 import { useState, useRef, useEffect } from "react";
 import { getSearchPath, type Locale } from "@/lib/i18n";
+import { track } from "@/lib/analytics";
 
 type Props = {
   suggestions: string[];
@@ -24,6 +25,7 @@ export function SearchBar({ suggestions, lang, placeholder, ariaLabel }: Props) 
   function navigate(q: string) {
     setOpen(false);
     setQuery("");
+    track.search(q);
     router.push(`${getSearchPath(lang)}?q=${encodeURIComponent(q)}`);
   }
 
