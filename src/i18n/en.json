@@ -74,138 +74,597 @@
     "6-8": "age 6–8"
   },
   "ageGroups": [
-    { "label": "4–7 years", "value": "4-7" },
-    { "label": "5–7 years", "value": "5-7" },
-    { "label": "5–8 years", "value": "5-8" },
-    { "label": "6–8 years", "value": "6-8" }
+    {
+      "label": "4–7 years",
+      "value": "4-7"
+    },
+    {
+      "label": "5–7 years",
+      "value": "5-7"
+    },
+    {
+      "label": "5–8 years",
+      "value": "5-8"
+    },
+    {
+      "label": "6–8 years",
+      "value": "6-8"
+    }
   ],
   "categories": {
-    "cars":       { "title": "Cars",          "description": "Fast, friendly, and fun vehicles for kids to color." },
-    "animals":    { "title": "Animals",       "description": "Cute and playful animals with simple outlines." },
-    "princesses": { "title": "Princesses",    "description": "Magical princess coloring pages with crowns, dresses, and castles." },
-    "flowers":    { "title": "Flowers",       "description": "Colorful and cheerful flower coloring pages." },
-    "space":      { "title": "Space",         "description": "Rockets, planets, astronauts, and stars waiting to be colored." },
-    "dinosaurs":  { "title": "Dinosaurs",     "description": "T-Rex, Triceratops, and other prehistoric animals to color." },
-    "ocean":      { "title": "Ocean",         "description": "Fish, octopuses, sharks, and the underwater world." },
-    "fairytales": { "title": "Fairy Tales",   "description": "Dragons, knights, wizards, and fairy tale creatures." },
-    "food":       { "title": "Food",          "description": "Fruits, vegetables, ice cream, and other tasty pictures." },
-    "sports":     { "title": "Sports",        "description": "Football, cycling, swimming, and more sports for active kids." },
-    "buildings":  { "title": "Buildings",     "description": "Houses, castles, towers, and fascinating buildings for young architects." },
-    "clothes":    { "title": "Clothes",       "description": "Dresses, shoes, hats, and fashionable items to color." },
-    "jobs":       { "title": "Jobs",          "description": "Firefighters, doctors, pilots, and more professions for curious kids." }
+    "cars": {
+      "title": "Cars",
+      "description": "Fast, friendly, and fun vehicles for kids to color."
+    },
+    "animals": {
+      "title": "Animals",
+      "description": "Cute and playful animals with simple outlines."
+    },
+    "princesses": {
+      "title": "Princesses",
+      "description": "Magical princess coloring pages with crowns, dresses, and castles."
+    },
+    "flowers": {
+      "title": "Flowers",
+      "description": "Colorful and cheerful flower coloring pages."
+    },
+    "space": {
+      "title": "Space",
+      "description": "Rockets, planets, astronauts, and stars waiting to be colored."
+    },
+    "dinosaurs": {
+      "title": "Dinosaurs",
+      "description": "T-Rex, Triceratops, and other prehistoric animals to color."
+    },
+    "ocean": {
+      "title": "Ocean",
+      "description": "Fish, octopuses, sharks, and the underwater world."
+    },
+    "fairytales": {
+      "title": "Fairy Tales",
+      "description": "Dragons, knights, wizards, and fairy tale creatures."
+    },
+    "food": {
+      "title": "Food",
+      "description": "Fruits, vegetables, ice cream, and other tasty pictures."
+    },
+    "sports": {
+      "title": "Sports",
+      "description": "Football, cycling, swimming, and more sports for active kids."
+    },
+    "buildings": {
+      "title": "Buildings",
+      "description": "Houses, castles, towers, and fascinating buildings for young architects."
+    },
+    "clothes": {
+      "title": "Clothes",
+      "description": "Dresses, shoes, hats, and fashionable items to color."
+    },
+    "jobs": {
+      "title": "Jobs",
+      "description": "Firefighters, doctors, pilots, and more professions for curious kids."
+    }
   },
   "pages": {
-    "lion-01":           { "title": "Happy Lion",                   "description": "A cute little lion sits and smiles." },
-    "elephant-01":       { "title": "Little Elephant",              "description": "A small elephant with big ears and a curved trunk." },
-    "cat-01":            { "title": "Cute Cat",                     "description": "A kitten with a curled tail and big eyes." },
-    "rabbit-01":         { "title": "Bunny",                        "description": "A bunny with long ears and a round tail." },
-    "race-car-01":       { "title": "Race Car",                     "description": "A race car with number one and flags." },
-    "fire-truck-01":     { "title": "Fire Truck",                   "description": "A big fire truck with a ladder and hose." },
-    "school-bus-01":     { "title": "School Bus",                   "description": "A cheerful school bus with big windows and wheels." },
-    "tractor-01":        { "title": "Tractor",                      "description": "A farm tractor with big wheels and a cab." },
-    "princess-01":       { "title": "Princess",                     "description": "A princess with a crown, dress, and magic wand." },
-    "princess-castle-01":{ "title": "Princess and Castle",          "description": "A princess stands before a fairy tale castle with towers." },
-    "fairy-01":          { "title": "Fairy",                        "description": "A fairy with butterfly wings and a magic wand." },
-    "mermaid-01":        { "title": "Mermaid",                      "description": "A mermaid sits on a rock by the sea." },
-    "sunflower-01":      { "title": "Sunflower",                    "description": "A large sunflower with leaves on a long stem." },
-    "rose-01":           { "title": "Rose",                         "description": "A beautiful rose with petals, leaves, and thorns." },
-    "tulip-01":          { "title": "Tulip",                        "description": "Three tulips with leaves growing from the ground." },
-    "daisy-01":          { "title": "Daisy",                        "description": "A large daisy with many petals." },
-    "rocket-01":         { "title": "Rocket in Space",              "description": "A rocket flies through space among stars and planets." },
-    "trex-01":           { "title": "T-Rex",                        "description": "A friendly T-Rex stands and smiles." },
-    "dolphin-01":        { "title": "Dolphin",                      "description": "A happy dolphin jumps over ocean waves." },
-    "dragon-01":         { "title": "Dragon",                       "description": "A friendly dragon sits by a fairy tale castle." },
-    "icecream-01":       { "title": "Ice Cream",                    "description": "A big ice cream sundae with scoops and fruit." },
-    "football-01":       { "title": "Football",                     "description": "A child kicks a football on the pitch." },
-    "astronaut-01":      { "title": "Astronaut",                    "description": "An astronaut in a spacesuit floats in space." },
-    "planet-01":         { "title": "Saturn",                       "description": "Planet Saturn with rings and moons." },
-    "alien-01":          { "title": "Alien",                        "description": "A friendly alien arrived in a flying saucer." },
-    "triceratops-01":    { "title": "Triceratops",                  "description": "A Triceratops with three horns happily strolls along." },
-    "brachiosaurus-01":  { "title": "Brachiosaurus",                "description": "A Brachiosaurus with a long neck nibbles leaves from a tree." },
-    "pterodactyl-01":    { "title": "Pterodactyl",                  "description": "A Pterodactyl flies high in the sky." },
-    "octopus-01":        { "title": "Octopus",                      "description": "An octopus with eight tentacles smiles underwater." },
-    "shark-01":          { "title": "Shark",                        "description": "A friendly shark swims with little fish around it." },
-    "seahorse-01":       { "title": "Seahorse",                     "description": "A seahorse winds through the seaweed." },
-    "knight-01":         { "title": "Knight",                       "description": "A knight in armour rides a white horse." },
-    "wizard-01":         { "title": "Wizard",                       "description": "A wizard with a magic hat and wand." },
-    "unicorn-01":        { "title": "Unicorn",                      "description": "A unicorn with a mane and horn on its forehead." },
-    "pizza-01":          { "title": "Pizza",                        "description": "A big pizza with favourite toppings." },
-    "fruit-01":          { "title": "Bowl of Fruit",                "description": "A bowl full of fruit with an apple, banana, and strawberries." },
-    "cake-01":           { "title": "Birthday Cake",                "description": "A cake with candles and a star on top." },
-    "bicycle-01":        { "title": "Bicycle",                      "description": "A child rides a bicycle wearing a helmet." },
-    "swimming-01":       { "title": "Swimming",                     "description": "A child swims in a pool and splashes water." },
-    "tennis-01":         { "title": "Tennis",                       "description": "A child plays tennis with a racket and ball." },
-    "panda-01":          { "title": "Panda",                        "description": "A cute panda eats bamboo." },
-    "giraffe-01":        { "title": "Giraffe",                      "description": "A giraffe with a long neck nibbles leaves." },
-    "penguin-01":        { "title": "Penguin",                      "description": "A happy penguin stands on ice." },
-    "frog-01":           { "title": "Little Frog",                  "description": "A frog sits on a lily pad." },
-    "police-car-01":     { "title": "Police Car",                   "description": "A police car with lights and a siren." },
-    "monster-truck-01":  { "title": "Monster Truck",                "description": "A monster truck with enormous wheels." },
-    "helicopter-01":     { "title": "Helicopter",                   "description": "A helicopter flies above the clouds." },
-    "sailboat-01":       { "title": "Sailboat",                     "description": "A sailboat sails the sea with a flag." },
-    "ballerina-01":      { "title": "Ballerina",                    "description": "A ballerina dances in a tutu skirt." },
-    "queen-01":          { "title": "Queen",                        "description": "A queen on a throne with a crown and sceptre." },
-    "witch-01":          { "title": "Friendly Witch",               "description": "A friendly witch flies on a broomstick." },
-    "princess-horse-01": { "title": "Princess on Horseback",        "description": "A princess rides a white horse." },
-    "cactus-01":         { "title": "Cactus",                       "description": "A cactus with a little flower in a pot." },
-    "lily-01":           { "title": "Lily",                         "description": "A beautiful lily with petals." },
-    "lavender-01":       { "title": "Lavender",                     "description": "Lavender stems with the scent of summer." },
-    "mushroom-01":       { "title": "Mushroom",                     "description": "A red toadstool with spots in the grass." },
-    "moon-01":           { "title": "Moon",                         "description": "The moon with craters and stars." },
-    "telescope-01":      { "title": "Telescope",                    "description": "A child looks through a telescope at the stars." },
-    "comet-01":          { "title": "Comet",                        "description": "A glowing comet streaks through space." },
-    "space-station-01":  { "title": "Space Station",                "description": "A space station orbits the Earth." },
-    "stegosaurus-01":    { "title": "Stegosaurus",                  "description": "A Stegosaurus with plates on its back." },
-    "ankylosaur-01":     { "title": "Ankylosaur",                   "description": "An Ankylosaur with armour and a club tail." },
-    "raptor-01":         { "title": "Velociraptor",                 "description": "A Velociraptor running with open jaws." },
-    "diplodocus-01":     { "title": "Diplodocus",                   "description": "A Diplodocus with the longest neck of all." },
-    "turtle-01":         { "title": "Sea Turtle",                   "description": "A sea turtle swims among corals." },
-    "crab-01":           { "title": "Crab",                         "description": "A crab walks on the sea floor with its claws." },
-    "whale-01":          { "title": "Whale",                        "description": "A whale jumps above the sea and sprays water." },
-    "jellyfish-01":      { "title": "Jellyfish",                    "description": "A jellyfish with tentacles floats in the deep." },
-    "castle-01":         { "title": "Fairy Tale Castle",            "description": "A fairy tale castle with towers and a drawbridge." },
-    "elf-01":            { "title": "Elf",                          "description": "A cheerful elf with round ears and a hat." },
-    "treasure-01":       { "title": "Treasure",                     "description": "A chest full of treasure and gold coins." },
-    "gnome-01":          { "title": "Gnome",                        "description": "A gnome with a hat and shovel digs for gold." },
-    "burger-01":         { "title": "Hamburger",                    "description": "A big burger with lettuce and cheese." },
-    "cupcake-01":        { "title": "Cupcake",                      "description": "A cupcake with cream and sprinkles on top." },
-    "watermelon-01":     { "title": "Watermelon",                   "description": "Slices of watermelon with seeds and a smiley face." },
-    "donut-01":          { "title": "Donut",                        "description": "A donut with icing and colourful sprinkles." },
-    "basketball-01":     { "title": "Basketball",                   "description": "A child shoots a basketball into the hoop." },
-    "gymnastics-01":     { "title": "Gymnastics",                   "description": "A gymnast stands on a balance beam." },
-    "skiing-01":         { "title": "Skiing",                       "description": "A child skis down a snowy slope." },
-    "karate-01":         { "title": "Karate",                       "description": "A child in a kimono practises karate." },
-    "lion-mane-01":      { "title": "Lion with Mane",               "description": "A detailed lion with a rich mane and expressive face." },
-    "owl-01":            { "title": "Owl on Branch",                "description": "An owl with detailed feathers sits on an oak branch." },
-    "race-driver-01":    { "title": "Racing Driver in Cockpit",     "description": "A racing driver in a helmet sits in a detailed cockpit." },
-    "construction-01":   { "title": "Construction Site",            "description": "A crane and digger work on a tall building construction." },
-    "ball-scene-01":     { "title": "Ball at the Palace",           "description": "A princess dances at a ball in a magnificent hall." },
-    "castle-room-01":    { "title": "Fairy Tale Room",              "description": "A detailed fairy tale room with a throne and stained glass." },
-    "flower-bouquet-01": { "title": "Flower Bouquet",               "description": "A rich bouquet of various flowers in a vase." },
-    "garden-scene-01":   { "title": "Garden Bed",                   "description": "A detailed garden with various flowers and butterflies." },
-    "solar-system-01":   { "title": "Solar System",                 "description": "A detailed solar system with all the planets." },
-    "moonlanding-01":    { "title": "Moon Landing",                 "description": "An astronaut steps out of the lunar module on the Moon." },
-    "dino-jungle-01":    { "title": "Dinosaurs in the Jungle",      "description": "A T-Rex and Triceratops in a detailed prehistoric jungle." },
-    "dino-herd-01":      { "title": "Dinosaur Herd",                "description": "A herd of Diplodocus walks through the landscape by a river." },
-    "coral-reef-01":     { "title": "Coral Reef",                   "description": "A detailed coral reef with fish and sea life." },
-    "underwater-01":     { "title": "Underwater",                   "description": "An underwater world with a diver and treasure." },
-    "fairy-village-01":  { "title": "Fairy Tale Village",           "description": "An enchanted village with mushroom houses and fairies." },
-    "dragon-battle-01":  { "title": "Dragon and Knight",            "description": "A knight on horseback faces a large dragon by a castle." },
-    "bakery-01":         { "title": "Bakery",                       "description": "A detailed bakery full of bread, rolls, and pastries." },
-    "market-01":         { "title": "Fruit Market",                 "description": "A colourful market with baskets of fruit and vegetables." },
-    "stadium-01":        { "title": "Football Stadium",             "description": "A football pitch with players and stands full of fans." },
-    "olympics-01":       { "title": "Olympic Games",                "description": "Athletes from three sports compete at the Olympics." },
-    "house-01":          { "title": "Family House",                 "description": "A cute family house with a garden and fence." },
-    "outfit-01":         { "title": "Fashion Outfit",               "description": "A dress, t-shirt, trousers, and shoes to colour." },
-    "doctor-01":         { "title": "Doctor",                       "description": "A doctor in a white coat with a stethoscope." },
-    "castle-building-01":{ "title": "Fairy Tale Palace",            "description": "A large fairy tale palace with towers and flags." },
-    "lighthouse-01":     { "title": "Lighthouse",                   "description": "A tall lighthouse by the sea with waves around it." },
-    "treehouse-01":      { "title": "Treehouse",                    "description": "A cute treehouse with a ladder." },
-    "winter-clothes-01": { "title": "Winter Clothes",               "description": "A winter coat, hat, scarf, and gloves." },
-    "princess-dress-01": { "title": "Princess Dress",               "description": "A beautiful princess dress with a crown." },
-    "sports-kit-01":     { "title": "Sports Kit",                   "description": "A football kit, boots, and ball." },
-    "firefighter-01":    { "title": "Firefighter",                  "description": "A brave firefighter in uniform with a hose." },
-    "pilot-01":          { "title": "Pilot",                        "description": "A pilot in an aircraft cockpit wearing a helmet." },
-    "chef-01":           { "title": "Chef",                         "description": "A cheerful chef cooks soup in the kitchen." }
+    "lion-01": {
+      "title": "Happy Lion",
+      "description": "A cute little lion sits and smiles."
+    },
+    "elephant-01": {
+      "title": "Little Elephant",
+      "description": "A small elephant with big ears and a curved trunk."
+    },
+    "cat-01": {
+      "title": "Cute Cat",
+      "description": "A kitten with a curled tail and big eyes."
+    },
+    "rabbit-01": {
+      "title": "Bunny",
+      "description": "A bunny with long ears and a round tail."
+    },
+    "race-car-01": {
+      "title": "Race Car",
+      "description": "A race car with number one and flags."
+    },
+    "fire-truck-01": {
+      "title": "Fire Truck",
+      "description": "A big fire truck with a ladder and hose."
+    },
+    "school-bus-01": {
+      "title": "School Bus",
+      "description": "A cheerful school bus with big windows and wheels."
+    },
+    "tractor-01": {
+      "title": "Tractor",
+      "description": "A farm tractor with big wheels and a cab."
+    },
+    "princess-01": {
+      "title": "Princess",
+      "description": "A princess with a crown, dress, and magic wand."
+    },
+    "princess-castle-01": {
+      "title": "Princess and Castle",
+      "description": "A princess stands before a fairy tale castle with towers."
+    },
+    "fairy-01": {
+      "title": "Fairy",
+      "description": "A fairy with butterfly wings and a magic wand."
+    },
+    "mermaid-01": {
+      "title": "Mermaid",
+      "description": "A mermaid sits on a rock by the sea."
+    },
+    "sunflower-01": {
+      "title": "Sunflower",
+      "description": "A large sunflower with leaves on a long stem."
+    },
+    "rose-01": {
+      "title": "Rose",
+      "description": "A beautiful rose with petals, leaves, and thorns."
+    },
+    "tulip-01": {
+      "title": "Tulip",
+      "description": "Three tulips with leaves growing from the ground."
+    },
+    "daisy-01": {
+      "title": "Daisy",
+      "description": "A large daisy with many petals."
+    },
+    "rocket-01": {
+      "title": "Rocket in Space",
+      "description": "A rocket flies through space among stars and planets."
+    },
+    "trex-01": {
+      "title": "T-Rex",
+      "description": "A friendly T-Rex stands and smiles."
+    },
+    "dolphin-01": {
+      "title": "Dolphin",
+      "description": "A happy dolphin jumps over ocean waves."
+    },
+    "dragon-01": {
+      "title": "Dragon",
+      "description": "A friendly dragon sits by a fairy tale castle."
+    },
+    "icecream-01": {
+      "title": "Ice Cream",
+      "description": "A big ice cream sundae with scoops and fruit."
+    },
+    "football-01": {
+      "title": "Football",
+      "description": "A child kicks a football on the pitch."
+    },
+    "astronaut-01": {
+      "title": "Astronaut",
+      "description": "An astronaut in a spacesuit floats in space."
+    },
+    "planet-01": {
+      "title": "Saturn",
+      "description": "Planet Saturn with rings and moons."
+    },
+    "alien-01": {
+      "title": "Alien",
+      "description": "A friendly alien arrived in a flying saucer."
+    },
+    "triceratops-01": {
+      "title": "Triceratops",
+      "description": "A Triceratops with three horns happily strolls along."
+    },
+    "brachiosaurus-01": {
+      "title": "Brachiosaurus",
+      "description": "A Brachiosaurus with a long neck nibbles leaves from a tree."
+    },
+    "pterodactyl-01": {
+      "title": "Pterodactyl",
+      "description": "A Pterodactyl flies high in the sky."
+    },
+    "octopus-01": {
+      "title": "Octopus",
+      "description": "An octopus with eight tentacles smiles underwater."
+    },
+    "shark-01": {
+      "title": "Shark",
+      "description": "A friendly shark swims with little fish around it."
+    },
+    "seahorse-01": {
+      "title": "Seahorse",
+      "description": "A seahorse winds through the seaweed."
+    },
+    "knight-01": {
+      "title": "Knight",
+      "description": "A knight in armour rides a white horse."
+    },
+    "wizard-01": {
+      "title": "Wizard",
+      "description": "A wizard with a magic hat and wand."
+    },
+    "unicorn-01": {
+      "title": "Unicorn",
+      "description": "A unicorn with a mane and horn on its forehead."
+    },
+    "pizza-01": {
+      "title": "Pizza",
+      "description": "A big pizza with favourite toppings."
+    },
+    "fruit-01": {
+      "title": "Bowl of Fruit",
+      "description": "A bowl full of fruit with an apple, banana, and strawberries."
+    },
+    "cake-01": {
+      "title": "Birthday Cake",
+      "description": "A cake with candles and a star on top."
+    },
+    "bicycle-01": {
+      "title": "Bicycle",
+      "description": "A child rides a bicycle wearing a helmet."
+    },
+    "swimming-01": {
+      "title": "Swimming",
+      "description": "A child swims in a pool and splashes water."
+    },
+    "tennis-01": {
+      "title": "Tennis",
+      "description": "A child plays tennis with a racket and ball."
+    },
+    "panda-01": {
+      "title": "Panda",
+      "description": "A cute panda eats bamboo."
+    },
+    "giraffe-01": {
+      "title": "Giraffe",
+      "description": "A giraffe with a long neck nibbles leaves."
+    },
+    "penguin-01": {
+      "title": "Penguin",
+      "description": "A happy penguin stands on ice."
+    },
+    "frog-01": {
+      "title": "Little Frog",
+      "description": "A frog sits on a lily pad."
+    },
+    "police-car-01": {
+      "title": "Police Car",
+      "description": "A police car with lights and a siren."
+    },
+    "monster-truck-01": {
+      "title": "Monster Truck",
+      "description": "A monster truck with enormous wheels."
+    },
+    "helicopter-01": {
+      "title": "Helicopter",
+      "description": "A helicopter flies above the clouds."
+    },
+    "sailboat-01": {
+      "title": "Sailboat",
+      "description": "A sailboat sails the sea with a flag."
+    },
+    "ballerina-01": {
+      "title": "Ballerina",
+      "description": "A ballerina dances in a tutu skirt."
+    },
+    "queen-01": {
+      "title": "Queen",
+      "description": "A queen on a throne with a crown and sceptre."
+    },
+    "witch-01": {
+      "title": "Friendly Witch",
+      "description": "A friendly witch flies on a broomstick."
+    },
+    "princess-horse-01": {
+      "title": "Princess on Horseback",
+      "description": "A princess rides a white horse."
+    },
+    "cactus-01": {
+      "title": "Cactus",
+      "description": "A cactus with a little flower in a pot."
+    },
+    "lily-01": {
+      "title": "Lily",
+      "description": "A beautiful lily with petals."
+    },
+    "lavender-01": {
+      "title": "Lavender",
+      "description": "Lavender stems with the scent of summer."
+    },
+    "mushroom-01": {
+      "title": "Mushroom",
+      "description": "A red toadstool with spots in the grass."
+    },
+    "moon-01": {
+      "title": "Moon",
+      "description": "The moon with craters and stars."
+    },
+    "telescope-01": {
+      "title": "Telescope",
+      "description": "A child looks through a telescope at the stars."
+    },
+    "comet-01": {
+      "title": "Comet",
+      "description": "A glowing comet streaks through space."
+    },
+    "space-station-01": {
+      "title": "Space Station",
+      "description": "A space station orbits the Earth."
+    },
+    "stegosaurus-01": {
+      "title": "Stegosaurus",
+      "description": "A Stegosaurus with plates on its back."
+    },
+    "ankylosaur-01": {
+      "title": "Ankylosaur",
+      "description": "An Ankylosaur with armour and a club tail."
+    },
+    "raptor-01": {
+      "title": "Velociraptor",
+      "description": "A Velociraptor running with open jaws."
+    },
+    "diplodocus-01": {
+      "title": "Diplodocus",
+      "description": "A Diplodocus with the longest neck of all."
+    },
+    "turtle-01": {
+      "title": "Sea Turtle",
+      "description": "A sea turtle swims among corals."
+    },
+    "crab-01": {
+      "title": "Crab",
+      "description": "A crab walks on the sea floor with its claws."
+    },
+    "whale-01": {
+      "title": "Whale",
+      "description": "A whale jumps above the sea and sprays water."
+    },
+    "jellyfish-01": {
+      "title": "Jellyfish",
+      "description": "A jellyfish with tentacles floats in the deep."
+    },
+    "castle-01": {
+      "title": "Fairy Tale Castle",
+      "description": "A fairy tale castle with towers and a drawbridge."
+    },
+    "elf-01": {
+      "title": "Elf",
+      "description": "A cheerful elf with round ears and a hat."
+    },
+    "treasure-01": {
+      "title": "Treasure",
+      "description": "A chest full of treasure and gold coins."
+    },
+    "gnome-01": {
+      "title": "Gnome",
+      "description": "A gnome with a hat and shovel digs for gold."
+    },
+    "burger-01": {
+      "title": "Hamburger",
+      "description": "A big burger with lettuce and cheese."
+    },
+    "cupcake-01": {
+      "title": "Cupcake",
+      "description": "A cupcake with cream and sprinkles on top."
+    },
+    "watermelon-01": {
+      "title": "Watermelon",
+      "description": "Slices of watermelon with seeds and a smiley face."
+    },
+    "donut-01": {
+      "title": "Donut",
+      "description": "A donut with icing and colourful sprinkles."
+    },
+    "basketball-01": {
+      "title": "Basketball",
+      "description": "A child shoots a basketball into the hoop."
+    },
+    "gymnastics-01": {
+      "title": "Gymnastics",
+      "description": "A gymnast stands on a balance beam."
+    },
+    "skiing-01": {
+      "title": "Skiing",
+      "description": "A child skis down a snowy slope."
+    },
+    "karate-01": {
+      "title": "Karate",
+      "description": "A child in a kimono practises karate."
+    },
+    "lion-mane-01": {
+      "title": "Lion with Mane",
+      "description": "A detailed lion with a rich mane and expressive face."
+    },
+    "owl-01": {
+      "title": "Owl on Branch",
+      "description": "An owl with detailed feathers sits on an oak branch."
+    },
+    "race-driver-01": {
+      "title": "Racing Driver in Cockpit",
+      "description": "A racing driver in a helmet sits in a detailed cockpit."
+    },
+    "construction-01": {
+      "title": "Construction Site",
+      "description": "A crane and digger work on a tall building construction."
+    },
+    "ball-scene-01": {
+      "title": "Ball at the Palace",
+      "description": "A princess dances at a ball in a magnificent hall."
+    },
+    "castle-room-01": {
+      "title": "Fairy Tale Room",
+      "description": "A detailed fairy tale room with a throne and stained glass."
+    },
+    "flower-bouquet-01": {
+      "title": "Flower Bouquet",
+      "description": "A rich bouquet of various flowers in a vase."
+    },
+    "garden-scene-01": {
+      "title": "Garden Bed",
+      "description": "A detailed garden with various flowers and butterflies."
+    },
+    "solar-system-01": {
+      "title": "Solar System",
+      "description": "A detailed solar system with all the planets."
+    },
+    "moonlanding-01": {
+      "title": "Moon Landing",
+      "description": "An astronaut steps out of the lunar module on the Moon."
+    },
+    "dino-jungle-01": {
+      "title": "Dinosaurs in the Jungle",
+      "description": "A T-Rex and Triceratops in a detailed prehistoric jungle."
+    },
+    "dino-herd-01": {
+      "title": "Dinosaur Herd",
+      "description": "A herd of Diplodocus walks through the landscape by a river."
+    },
+    "coral-reef-01": {
+      "title": "Coral Reef",
+      "description": "A detailed coral reef with fish and sea life."
+    },
+    "underwater-01": {
+      "title": "Underwater",
+      "description": "An underwater world with a diver and treasure."
+    },
+    "fairy-village-01": {
+      "title": "Fairy Tale Village",
+      "description": "An enchanted village with mushroom houses and fairies."
+    },
+    "dragon-battle-01": {
+      "title": "Dragon and Knight",
+      "description": "A knight on horseback faces a large dragon by a castle."
+    },
+    "bakery-01": {
+      "title": "Bakery",
+      "description": "A detailed bakery full of bread, rolls, and pastries."
+    },
+    "market-01": {
+      "title": "Fruit Market",
+      "description": "A colourful market with baskets of fruit and vegetables."
+    },
+    "stadium-01": {
+      "title": "Football Stadium",
+      "description": "A football pitch with players and stands full of fans."
+    },
+    "olympics-01": {
+      "title": "Olympic Games",
+      "description": "Athletes from three sports compete at the Olympics."
+    },
+    "house-01": {
+      "title": "Family House",
+      "description": "A cute family house with a garden and fence."
+    },
+    "outfit-01": {
+      "title": "Fashion Outfit",
+      "description": "A dress, t-shirt, trousers, and shoes to colour."
+    },
+    "doctor-01": {
+      "title": "Doctor",
+      "description": "A doctor in a white coat with a stethoscope."
+    },
+    "castle-building-01": {
+      "title": "Fairy Tale Palace",
+      "description": "A large fairy tale palace with towers and flags."
+    },
+    "lighthouse-01": {
+      "title": "Lighthouse",
+      "description": "A tall lighthouse by the sea with waves around it."
+    },
+    "treehouse-01": {
+      "title": "Treehouse",
+      "description": "A cute treehouse with a ladder."
+    },
+    "winter-clothes-01": {
+      "title": "Winter Clothes",
+      "description": "A winter coat, hat, scarf, and gloves."
+    },
+    "princess-dress-01": {
+      "title": "Princess Dress",
+      "description": "A beautiful princess dress with a crown."
+    },
+    "sports-kit-01": {
+      "title": "Sports Kit",
+      "description": "A football kit, boots, and ball."
+    },
+    "firefighter-01": {
+      "title": "Firefighter",
+      "description": "A brave firefighter in uniform with a hose."
+    },
+    "pilot-01": {
+      "title": "Pilot",
+      "description": "A pilot in an aircraft cockpit wearing a helmet."
+    },
+    "chef-01": {
+      "title": "Chef",
+      "description": "A cheerful chef cooks soup in the kitchen."
+    },
+    "school-01": {
+      "title": "School",
+      "description": "A two-story school building with big windows and a playground next to it."
+    },
+    "hospital-01": {
+      "title": "Hospital",
+      "description": "A hospital building with a red cross sign and ambulances outside."
+    },
+    "library-01": {
+      "title": "Library",
+      "description": "A cosy library with arched windows and shelves full of books."
+    },
+    "fire-station-01": {
+      "title": "Fire Station",
+      "description": "A fire station with open garage doors, a fire truck inside, and a fire pole."
+    },
+    "windmill-01": {
+      "title": "Windmill",
+      "description": "A classic windmill with four large sails and a round stone base."
+    },
+    "bridge-01": {
+      "title": "Stone Bridge",
+      "description": "A stone arch bridge over a river with lamp posts and a small boat below."
+    },
+    "summer-outfit-01": {
+      "title": "Summer Outfit",
+      "description": "A summer t-shirt with a sun pattern, shorts, and sandals."
+    },
+    "raincoat-01": {
+      "title": "Raincoat and Wellies",
+      "description": "A cheerful raincoat with buttons, rain boots, and a polka-dot umbrella."
+    },
+    "pajamas-01": {
+      "title": "Star Pyjamas",
+      "description": "Cosy pyjamas covered in stars, moons, and clouds."
+    },
+    "swimsuit-01": {
+      "title": "Swimsuit and Goggles",
+      "description": "A swimsuit with a pattern, swimming goggles, a cap, and a towel."
+    },
+    "carnival-costume-01": {
+      "title": "Carnival Costume",
+      "description": "A colourful carnival costume with a cape, mask, feathered hat, and wand."
+    },
+    "backpack-01": {
+      "title": "School Backpack",
+      "description": "A school backpack with pockets surrounded by pencils, a ruler, and a notebook."
+    },
+    "teacher-01": {
+      "title": "Teacher",
+      "description": "A friendly teacher at a blackboard with books and a globe on the desk."
+    },
+    "police-officer-01": {
+      "title": "Police Officer",
+      "description": "A police officer in uniform with a badge and a police car behind them."
+    },
+    "farmer-01": {
+      "title": "Farmer",
+      "description": "A friendly farmer in overalls and a straw hat standing in front of a barn."
+    },
+    "builder-01": {
+      "title": "Builder",
+      "description": "A construction worker in a hard hat holding blueprints next to scaffolding."
+    },
+    "nurse-01": {
+      "title": "Nurse",
+      "description": "A nurse with a stethoscope treating a teddy bear patient."
+    },
+    "vet-01": {
+      "title": "Vet",
+      "description": "A friendly vet in a white coat examining a happy dog, with a cat waiting nearby."
+    }
   }
 }

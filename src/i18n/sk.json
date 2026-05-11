@@ -74,138 +74,597 @@
     "6-8": "vek 6–8"
   },
   "ageGroups": [
-    { "label": "4–7 rokov", "value": "4-7" },
-    { "label": "5–7 rokov", "value": "5-7" },
-    { "label": "5–8 rokov", "value": "5-8" },
-    { "label": "6–8 rokov", "value": "6-8" }
+    {
+      "label": "4–7 rokov",
+      "value": "4-7"
+    },
+    {
+      "label": "5–7 rokov",
+      "value": "5-7"
+    },
+    {
+      "label": "5–8 rokov",
+      "value": "5-8"
+    },
+    {
+      "label": "6–8 rokov",
+      "value": "6-8"
+    }
   ],
   "categories": {
-    "cars":       { "title": "Autá",          "description": "Rýchle, priateľské a zábavné vozidlá pre deti na vyfarbovanie." },
-    "animals":    { "title": "Zvieratá",      "description": "Roztomilé a hravé zvieratá s jednoduchými obrysmi." },
-    "princesses": { "title": "Princezné",     "description": "Kúzelné omaľovanky princezien s korunami, šatami a zámkami." },
-    "flowers":    { "title": "Kvety",         "description": "Farebné a veselé omaľovanky kvetín." },
-    "space":      { "title": "Vesmír",        "description": "Rakety, planéty, astronauti a hviezdy čakajú na vyfarbenie." },
-    "dinosaurs":  { "title": "Dinosaury",     "description": "T-Rex, Triceratops a ďalšie praveke zvieratá na vyfarbovanie." },
-    "ocean":      { "title": "More",          "description": "Ryby, chobotnice, žraloky a morský svet pod vodou." },
-    "fairytales": { "title": "Rozprávky",     "description": "Draci, rytieri, čarodejníci a rozprávkové bytosti." },
-    "food":       { "title": "Jedlo",         "description": "Ovocie, zelenina, zmrzlina a ďalšie chutné obrázky." },
-    "sports":     { "title": "Šport",         "description": "Futbal, bicykel, plávanie a ďalšie športy pre aktívne deti." },
-    "buildings":  { "title": "Budovy",        "description": "Domy, zámky, veže a fascinujúce stavby pre malých architektov." },
-    "clothes":    { "title": "Oblečenie",     "description": "Šaty, topánky, klobúky a módne kúsky na vyfarbovanie." },
-    "jobs":       { "title": "Povolania",     "description": "Hasiči, doktori, piloti a ďalšie povolania pre zvedavé deti." }
+    "cars": {
+      "title": "Autá",
+      "description": "Rýchle, priateľské a zábavné vozidlá pre deti na vyfarbovanie."
+    },
+    "animals": {
+      "title": "Zvieratá",
+      "description": "Roztomilé a hravé zvieratá s jednoduchými obrysmi."
+    },
+    "princesses": {
+      "title": "Princezné",
+      "description": "Kúzelné omaľovanky princezien s korunami, šatami a zámkami."
+    },
+    "flowers": {
+      "title": "Kvety",
+      "description": "Farebné a veselé omaľovanky kvetín."
+    },
+    "space": {
+      "title": "Vesmír",
+      "description": "Rakety, planéty, astronauti a hviezdy čakajú na vyfarbenie."
+    },
+    "dinosaurs": {
+      "title": "Dinosaury",
+      "description": "T-Rex, Triceratops a ďalšie praveke zvieratá na vyfarbovanie."
+    },
+    "ocean": {
+      "title": "More",
+      "description": "Ryby, chobotnice, žraloky a morský svet pod vodou."
+    },
+    "fairytales": {
+      "title": "Rozprávky",
+      "description": "Draci, rytieri, čarodejníci a rozprávkové bytosti."
+    },
+    "food": {
+      "title": "Jedlo",
+      "description": "Ovocie, zelenina, zmrzlina a ďalšie chutné obrázky."
+    },
+    "sports": {
+      "title": "Šport",
+      "description": "Futbal, bicykel, plávanie a ďalšie športy pre aktívne deti."
+    },
+    "buildings": {
+      "title": "Budovy",
+      "description": "Domy, zámky, veže a fascinujúce stavby pre malých architektov."
+    },
+    "clothes": {
+      "title": "Oblečenie",
+      "description": "Šaty, topánky, klobúky a módne kúsky na vyfarbovanie."
+    },
+    "jobs": {
+      "title": "Povolania",
+      "description": "Hasiči, doktori, piloti a ďalšie povolania pre zvedavé deti."
+    }
   },
   "pages": {
-    "lion-01":           { "title": "Veselý lev",                   "description": "Roztomilý levíček sedí a usmievá sa." },
-    "elephant-01":       { "title": "Sloník",                       "description": "Malý slon s veľkými ušami a zahnutým chobotom." },
-    "cat-01":            { "title": "Roztomilá mačka",              "description": "Mačička s chvostíkom okolo nôh a veľkými očami." },
-    "rabbit-01":         { "title": "Zajačik",                      "description": "Zajačik s dlhými ušami a guľatým chvostíkom." },
-    "race-car-01":       { "title": "Závodné auto",                 "description": "Závodné auto s číslom jedna a vlajkami." },
-    "fire-truck-01":     { "title": "Hasičské auto",                "description": "Veľké hasičské auto so žebríkom a hadicou." },
-    "school-bus-01":     { "title": "Školský autobus",              "description": "Veselý školský autobus s veľkými oknami a kolesami." },
-    "tractor-01":        { "title": "Traktor",                      "description": "Farmársky traktor s veľkými kolesami a kabínou." },
-    "princess-01":       { "title": "Princezná",                    "description": "Princezná s korunou, šatami a kúzelnou paličkou." },
-    "princess-castle-01":{ "title": "Princezná a zámok",            "description": "Princezná stojí pred rozprávkovým zámkom s vežami." },
-    "fairy-01":          { "title": "Víla",                         "description": "Víla s motýlími krídlami a kúzelnou paličkou." },
-    "mermaid-01":        { "title": "Morská panna",                 "description": "Morská panna sedí na skale pri mori." },
-    "sunflower-01":      { "title": "Slnečnica",                    "description": "Veľká slnečnica s listami na dlhom stonke." },
-    "rose-01":           { "title": "Ruža",                         "description": "Krásna ruža s okvetními lístkami, listami a tŕňami." },
-    "tulip-01":          { "title": "Tulipán",                      "description": "Tri tulipány s listami rastúce zo zeme." },
-    "daisy-01":          { "title": "Sedmokráska",                  "description": "Veľká sedmokráska s mnohými okvetními lístkami." },
-    "rocket-01":         { "title": "Raketa vo vesmíre",            "description": "Raketa letí vesmírom medzi hviezdami a planétami." },
-    "trex-01":           { "title": "T-Rex",                        "description": "Priateľský T-Rex stojí a usmievá sa." },
-    "dolphin-01":        { "title": "Delfín",                       "description": "Veselý delfín skáče nad morskými vlnami." },
-    "dragon-01":         { "title": "Drak",                         "description": "Priateľský drak sedí pri rozprávkovom hrade." },
-    "icecream-01":       { "title": "Zmrzlina",                     "description": "Veľký zmrzlinový pohár s kopčekmi a ovocím." },
-    "football-01":       { "title": "Futbal",                       "description": "Dieťa kopá futbalový míč na ihrisku." },
-    "astronaut-01":      { "title": "Astronaut",                    "description": "Astronaut v skafandri pluje vesmírom." },
-    "planet-01":         { "title": "Saturn",                       "description": "Planéta Saturn s prsteňmi a mesiacmi." },
-    "alien-01":          { "title": "Mimozemšťan",                  "description": "Priateľský mimozemšťan priletel v lietajúcom tanieri." },
-    "triceratops-01":    { "title": "Triceratops",                  "description": "Triceratops s tromi rohmi sa veselo prechádza." },
-    "brachiosaurus-01":  { "title": "Brachiosaurus",                "description": "Brachiosaurus s dlhým krkom okusuje lístie zo stromu." },
-    "pterodactyl-01":    { "title": "Pterodaktyl",                  "description": "Pterodaktyl letí vysoko na oblohe." },
-    "octopus-01":        { "title": "Chobotnica",                   "description": "Chobotnica s ôsmimi chápadlami sa usmievá pod vodou." },
-    "shark-01":          { "title": "Žralok",                       "description": "Priateľský žralok pláva s rybičkami okolo seba." },
-    "seahorse-01":       { "title": "Morský koník",                 "description": "Morský koník sa vinie medzi riasami." },
-    "knight-01":         { "title": "Rytier",                       "description": "Rytier v brnení jazdí na bielom koni." },
-    "wizard-01":         { "title": "Čarodejník",                   "description": "Čarodejník s kúzelníckym klobúkom a paličkou." },
-    "unicorn-01":        { "title": "Jednorožec",                   "description": "Jednorožec s hrivou a rohom na čele." },
-    "pizza-01":          { "title": "Pizza",                        "description": "Veľká pizza s obľúbenými prísadami." },
-    "fruit-01":          { "title": "Miska s ovocím",               "description": "Miska plná ovocia s jablkom, banánom a jahodami." },
-    "cake-01":           { "title": "Narodeninová torta",           "description": "Torta so sviečkami a hviezdičkou na vrchu." },
-    "bicycle-01":        { "title": "Bicykel",                      "description": "Dieťa jazdí na bicykli s prilbou na hlave." },
-    "swimming-01":       { "title": "Plávanie",                     "description": "Dieťa pláva v bazéne a strieka vodu." },
-    "tennis-01":         { "title": "Tenis",                        "description": "Dieťa hrá tenis s raketou a loptičkou." },
-    "panda-01":          { "title": "Panda",                        "description": "Roztomilá panda je bambus." },
-    "giraffe-01":        { "title": "Žirafa",                       "description": "Žirafa s dlhým krkom okusuje listy." },
-    "penguin-01":        { "title": "Tučniak",                      "description": "Veselý tučniak stojí na ľade." },
-    "frog-01":           { "title": "Žabka",                        "description": "Žabka sedí na leknovom liste." },
-    "police-car-01":     { "title": "Policajné auto",               "description": "Policajné auto so svetlami a sirénou." },
-    "monster-truck-01":  { "title": "Monster Truck",                "description": "Monster truck s obrovskými kolesami." },
-    "helicopter-01":     { "title": "Vrtuľník",                     "description": "Vrtuľník letí nad oblakmi." },
-    "sailboat-01":       { "title": "Plachetnica",                  "description": "Plachetnica pláva po mori s vlajkou." },
-    "ballerina-01":      { "title": "Baletka",                      "description": "Baletka tancuje v sukni z tylu." },
-    "queen-01":          { "title": "Kráľovná",                     "description": "Kráľovná na tróne s korunou a žezlom." },
-    "witch-01":          { "title": "Hodná čarodejnica",            "description": "Hodná čarodejnica letí na metle." },
-    "princess-horse-01": { "title": "Princezná na koni",            "description": "Princezná jazdí na bielom koni." },
-    "cactus-01":         { "title": "Kaktus",                       "description": "Kaktus s kvetinkou v kvetináči." },
-    "lily-01":           { "title": "Ľalia",                        "description": "Krásna ľalia s okvetními lístkami." },
-    "lavender-01":       { "title": "Levanduľa",                    "description": "Levandulové stonky s vôňou leta." },
-    "mushroom-01":       { "title": "Muchotrávka",                  "description": "Červená muchotrávka s bodkami v tráve." },
-    "moon-01":           { "title": "Mesiac",                       "description": "Mesiac s krátermi a hviezdami." },
-    "telescope-01":      { "title": "Ďalekohľad",                   "description": "Dieťa sa díva do ďalekohľadu na hviezdy." },
-    "comet-01":          { "title": "Kométa",                       "description": "Žiariaca kométa prelietava vesmírom." },
-    "space-station-01":  { "title": "Vesmírna stanica",             "description": "Vesmírna stanica obieha okolo Zeme." },
-    "stegosaurus-01":    { "title": "Stegosaurus",                  "description": "Stegosaurus s doskami na chrbte." },
-    "ankylosaur-01":     { "title": "Ankylosaur",                   "description": "Ankylosaur s pancierom a kyjakom na chvoste." },
-    "raptor-01":         { "title": "Velociraptor",                 "description": "Velociraptor bežiaci s otvorenou tlamou." },
-    "diplodocus-01":     { "title": "Diplodocus",                   "description": "Diplodocus s najdlhším krkom zo všetkých." },
-    "turtle-01":         { "title": "Morská korytnačka",            "description": "Morská korytnačka pláva medzi korálmi." },
-    "crab-01":           { "title": "Krab",                         "description": "Krab chodí po morskom dne s kliešťami." },
-    "whale-01":          { "title": "Veľryba",                      "description": "Veľryba skáče nad morom a strieka vodu." },
-    "jellyfish-01":      { "title": "Medúza",                       "description": "Medúza s chápadlami pláva v hlbinách." },
-    "castle-01":         { "title": "Rozprávkový hrad",             "description": "Rozprávkový hrad s vežami a mostom." },
-    "elf-01":            { "title": "Elf",                          "description": "Veselý elf s guľatými ušami a čiapkou." },
-    "treasure-01":       { "title": "Poklad",                       "description": "Truhla plná pokladu a zlatých mincí." },
-    "gnome-01":          { "title": "Trpaslík",                     "description": "Trpaslík s čiapkou a lopatou kopá zlato." },
-    "burger-01":         { "title": "Hamburger",                    "description": "Veľký hamburger so šalátom a syrom." },
-    "cupcake-01":        { "title": "Košíček",                      "description": "Košíček s krémom a posypkou na vrchu." },
-    "watermelon-01":     { "title": "Melón",                        "description": "Plátky melóna s jadierkami a usmievačom." },
-    "donut-01":          { "title": "Donut",                        "description": "Donut s polevou a farebnou posypkou." },
-    "basketball-01":     { "title": "Basketbal",                    "description": "Dieťa hádže basketbal do koša." },
-    "gymnastics-01":     { "title": "Gymnastika",                   "description": "Gymnastka stojí na kladine." },
-    "skiing-01":         { "title": "Lyžovanie",                    "description": "Dieťa lyžuje dolu zo zasnežného kopca." },
-    "karate-01":         { "title": "Karate",                       "description": "Dieťa v kimone cvičí karate." },
-    "lion-mane-01":      { "title": "Lev s hrivou",                 "description": "Detailný lev s bohatou hrivou a výraznou tvárou." },
-    "owl-01":            { "title": "Sova na vetve",                "description": "Sova s detailným perím sedí na dubovej vetve." },
-    "race-driver-01":    { "title": "Závodník v kokpite",           "description": "Závodný pilot v prilbe sedí v detailnom kokpite." },
-    "construction-01":   { "title": "Stavenisko",                   "description": "Žeriav a bager pracujú na stavbe výškovej budovy." },
-    "ball-scene-01":     { "title": "Ples v paláci",                "description": "Princezná tancuje na plese v nádhernej sále." },
-    "castle-room-01":    { "title": "Rozprávková izba",             "description": "Detailná rozprávková izba s trónom a vitráľom." },
-    "flower-bouquet-01": { "title": "Kytica kvetov",                "description": "Bohatá kytica rôznych kvetín vo váze s detailmi." },
-    "garden-scene-01":   { "title": "Záhradný záhon",              "description": "Detailná záhrada s rôznymi kvetinami a motýľmi." },
-    "solar-system-01":   { "title": "Slnečná sústava",              "description": "Detailná slnečná sústava so všetkými planétami." },
-    "moonlanding-01":    { "title": "Pristátie na Mesiaci",         "description": "Astronaut vychádza z lunárneho modulu na Mesiaci." },
-    "dino-jungle-01":    { "title": "Dinosaury v džungli",          "description": "T-Rex a triceratops v detailnej pravekej džungli." },
-    "dino-herd-01":      { "title": "Stádo dinosaurov",             "description": "Stádo diplodocov prechádza krajinou pri rieke." },
-    "coral-reef-01":     { "title": "Koralový útes",                "description": "Detailný koralový útes s rybami a morským životom." },
-    "underwater-01":     { "title": "Pod vodou",                    "description": "Podmorský svet s potápačom a pokladom." },
-    "fairy-village-01":  { "title": "Rozprávková dedina",           "description": "Kúzelná dedina s hubovými domčekmi a vílami." },
-    "dragon-battle-01":  { "title": "Drak a rytier",                "description": "Rytier na koni čelí veľkému drakovi pri hrade." },
-    "bakery-01":         { "title": "Pekáreň",                      "description": "Detailná pekáreň plná chleba, rožkov a koláčov." },
-    "market-01":         { "title": "Trhový stánok s ovocím",       "description": "Farebné tržisko s košíkmi ovocia a zeleniny." },
-    "stadium-01":        { "title": "Futbalový štadión",            "description": "Futbalové ihrisko s hráčmi a tribúnami plnými divákov." },
-    "olympics-01":       { "title": "Olympijské hry",               "description": "Športovci z troch športov súťažia na olympiáde." },
-    "house-01":          { "title": "Rodinný dom",                  "description": "Roztomilý rodinný dom so záhradou a plotom." },
-    "outfit-01":         { "title": "Módne oblečenie",              "description": "Šaty, tričko, nohavice a topánky na výber." },
-    "doctor-01":         { "title": "Doktor",                       "description": "Doktor v bielom plášti so stetoskopom." },
-    "castle-building-01":{ "title": "Rozprávkový zámok",            "description": "Veľký rozprávkový zámok s vežami a vlajkami." },
-    "lighthouse-01":     { "title": "Maják",                        "description": "Vysoký maják pri mori s vlnami okolo." },
-    "treehouse-01":      { "title": "Domček na strome",             "description": "Roztomilý domček na strome so schodíkmi." },
-    "winter-clothes-01": { "title": "Zimné oblečenie",              "description": "Zimný kabát, čiapka, šál a rukavice." },
-    "princess-dress-01": { "title": "Princeznovské šaty",           "description": "Nádherné princeznovské šaty s korunou." },
-    "sports-kit-01":     { "title": "Športové vybavenie",           "description": "Futbalový dres, kopačky a lopta." },
-    "firefighter-01":    { "title": "Hasič",                        "description": "Statočný hasič v uniforme s hadicou." },
-    "pilot-01":          { "title": "Pilot",                        "description": "Pilot v kokpite lietadla s prilbou." },
-    "chef-01":           { "title": "Kuchár",                       "description": "Veselý kuchár varí polievku v kuchyni." }
+    "lion-01": {
+      "title": "Veselý lev",
+      "description": "Roztomilý levíček sedí a usmievá sa."
+    },
+    "elephant-01": {
+      "title": "Sloník",
+      "description": "Malý slon s veľkými ušami a zahnutým chobotom."
+    },
+    "cat-01": {
+      "title": "Roztomilá mačka",
+      "description": "Mačička s chvostíkom okolo nôh a veľkými očami."
+    },
+    "rabbit-01": {
+      "title": "Zajačik",
+      "description": "Zajačik s dlhými ušami a guľatým chvostíkom."
+    },
+    "race-car-01": {
+      "title": "Závodné auto",
+      "description": "Závodné auto s číslom jedna a vlajkami."
+    },
+    "fire-truck-01": {
+      "title": "Hasičské auto",
+      "description": "Veľké hasičské auto so žebríkom a hadicou."
+    },
+    "school-bus-01": {
+      "title": "Školský autobus",
+      "description": "Veselý školský autobus s veľkými oknami a kolesami."
+    },
+    "tractor-01": {
+      "title": "Traktor",
+      "description": "Farmársky traktor s veľkými kolesami a kabínou."
+    },
+    "princess-01": {
+      "title": "Princezná",
+      "description": "Princezná s korunou, šatami a kúzelnou paličkou."
+    },
+    "princess-castle-01": {
+      "title": "Princezná a zámok",
+      "description": "Princezná stojí pred rozprávkovým zámkom s vežami."
+    },
+    "fairy-01": {
+      "title": "Víla",
+      "description": "Víla s motýlími krídlami a kúzelnou paličkou."
+    },
+    "mermaid-01": {
+      "title": "Morská panna",
+      "description": "Morská panna sedí na skale pri mori."
+    },
+    "sunflower-01": {
+      "title": "Slnečnica",
+      "description": "Veľká slnečnica s listami na dlhom stonke."
+    },
+    "rose-01": {
+      "title": "Ruža",
+      "description": "Krásna ruža s okvetními lístkami, listami a tŕňami."
+    },
+    "tulip-01": {
+      "title": "Tulipán",
+      "description": "Tri tulipány s listami rastúce zo zeme."
+    },
+    "daisy-01": {
+      "title": "Sedmokráska",
+      "description": "Veľká sedmokráska s mnohými okvetními lístkami."
+    },
+    "rocket-01": {
+      "title": "Raketa vo vesmíre",
+      "description": "Raketa letí vesmírom medzi hviezdami a planétami."
+    },
+    "trex-01": {
+      "title": "T-Rex",
+      "description": "Priateľský T-Rex stojí a usmievá sa."
+    },
+    "dolphin-01": {
+      "title": "Delfín",
+      "description": "Veselý delfín skáče nad morskými vlnami."
+    },
+    "dragon-01": {
+      "title": "Drak",
+      "description": "Priateľský drak sedí pri rozprávkovom hrade."
+    },
+    "icecream-01": {
+      "title": "Zmrzlina",
+      "description": "Veľký zmrzlinový pohár s kopčekmi a ovocím."
+    },
+    "football-01": {
+      "title": "Futbal",
+      "description": "Dieťa kopá futbalový míč na ihrisku."
+    },
+    "astronaut-01": {
+      "title": "Astronaut",
+      "description": "Astronaut v skafandri pluje vesmírom."
+    },
+    "planet-01": {
+      "title": "Saturn",
+      "description": "Planéta Saturn s prsteňmi a mesiacmi."
+    },
+    "alien-01": {
+      "title": "Mimozemšťan",
+      "description": "Priateľský mimozemšťan priletel v lietajúcom tanieri."
+    },
+    "triceratops-01": {
+      "title": "Triceratops",
+      "description": "Triceratops s tromi rohmi sa veselo prechádza."
+    },
+    "brachiosaurus-01": {
+      "title": "Brachiosaurus",
+      "description": "Brachiosaurus s dlhým krkom okusuje lístie zo stromu."
+    },
+    "pterodactyl-01": {
+      "title": "Pterodaktyl",
+      "description": "Pterodaktyl letí vysoko na oblohe."
+    },
+    "octopus-01": {
+      "title": "Chobotnica",
+      "description": "Chobotnica s ôsmimi chápadlami sa usmievá pod vodou."
+    },
+    "shark-01": {
+      "title": "Žralok",
+      "description": "Priateľský žralok pláva s rybičkami okolo seba."
+    },
+    "seahorse-01": {
+      "title": "Morský koník",
+      "description": "Morský koník sa vinie medzi riasami."
+    },
+    "knight-01": {
+      "title": "Rytier",
+      "description": "Rytier v brnení jazdí na bielom koni."
+    },
+    "wizard-01": {
+      "title": "Čarodejník",
+      "description": "Čarodejník s kúzelníckym klobúkom a paličkou."
+    },
+    "unicorn-01": {
+      "title": "Jednorožec",
+      "description": "Jednorožec s hrivou a rohom na čele."
+    },
+    "pizza-01": {
+      "title": "Pizza",
+      "description": "Veľká pizza s obľúbenými prísadami."
+    },
+    "fruit-01": {
+      "title": "Miska s ovocím",
+      "description": "Miska plná ovocia s jablkom, banánom a jahodami."
+    },
+    "cake-01": {
+      "title": "Narodeninová torta",
+      "description": "Torta so sviečkami a hviezdičkou na vrchu."
+    },
+    "bicycle-01": {
+      "title": "Bicykel",
+      "description": "Dieťa jazdí na bicykli s prilbou na hlave."
+    },
+    "swimming-01": {
+      "title": "Plávanie",
+      "description": "Dieťa pláva v bazéne a strieka vodu."
+    },
+    "tennis-01": {
+      "title": "Tenis",
+      "description": "Dieťa hrá tenis s raketou a loptičkou."
+    },
+    "panda-01": {
+      "title": "Panda",
+      "description": "Roztomilá panda je bambus."
+    },
+    "giraffe-01": {
+      "title": "Žirafa",
+      "description": "Žirafa s dlhým krkom okusuje listy."
+    },
+    "penguin-01": {
+      "title": "Tučniak",
+      "description": "Veselý tučniak stojí na ľade."
+    },
+    "frog-01": {
+      "title": "Žabka",
+      "description": "Žabka sedí na leknovom liste."
+    },
+    "police-car-01": {
+      "title": "Policajné auto",
+      "description": "Policajné auto so svetlami a sirénou."
+    },
+    "monster-truck-01": {
+      "title": "Monster Truck",
+      "description": "Monster truck s obrovskými kolesami."
+    },
+    "helicopter-01": {
+      "title": "Vrtuľník",
+      "description": "Vrtuľník letí nad oblakmi."
+    },
+    "sailboat-01": {
+      "title": "Plachetnica",
+      "description": "Plachetnica pláva po mori s vlajkou."
+    },
+    "ballerina-01": {
+      "title": "Baletka",
+      "description": "Baletka tancuje v sukni z tylu."
+    },
+    "queen-01": {
+      "title": "Kráľovná",
+      "description": "Kráľovná na tróne s korunou a žezlom."
+    },
+    "witch-01": {
+      "title": "Hodná čarodejnica",
+      "description": "Hodná čarodejnica letí na metle."
+    },
+    "princess-horse-01": {
+      "title": "Princezná na koni",
+      "description": "Princezná jazdí na bielom koni."
+    },
+    "cactus-01": {
+      "title": "Kaktus",
+      "description": "Kaktus s kvetinkou v kvetináči."
+    },
+    "lily-01": {
+      "title": "Ľalia",
+      "description": "Krásna ľalia s okvetními lístkami."
+    },
+    "lavender-01": {
+      "title": "Levanduľa",
+      "description": "Levandulové stonky s vôňou leta."
+    },
+    "mushroom-01": {
+      "title": "Muchotrávka",
+      "description": "Červená muchotrávka s bodkami v tráve."
+    },
+    "moon-01": {
+      "title": "Mesiac",
+      "description": "Mesiac s krátermi a hviezdami."
+    },
+    "telescope-01": {
+      "title": "Ďalekohľad",
+      "description": "Dieťa sa díva do ďalekohľadu na hviezdy."
+    },
+    "comet-01": {
+      "title": "Kométa",
+      "description": "Žiariaca kométa prelietava vesmírom."
+    },
+    "space-station-01": {
+      "title": "Vesmírna stanica",
+      "description": "Vesmírna stanica obieha okolo Zeme."
+    },
+    "stegosaurus-01": {
+      "title": "Stegosaurus",
+      "description": "Stegosaurus s doskami na chrbte."
+    },
+    "ankylosaur-01": {
+      "title": "Ankylosaur",
+      "description": "Ankylosaur s pancierom a kyjakom na chvoste."
+    },
+    "raptor-01": {
+      "title": "Velociraptor",
+      "description": "Velociraptor bežiaci s otvorenou tlamou."
+    },
+    "diplodocus-01": {
+      "title": "Diplodocus",
+      "description": "Diplodocus s najdlhším krkom zo všetkých."
+    },
+    "turtle-01": {
+      "title": "Morská korytnačka",
+      "description": "Morská korytnačka pláva medzi korálmi."
+    },
+    "crab-01": {
+      "title": "Krab",
+      "description": "Krab chodí po morskom dne s kliešťami."
+    },
+    "whale-01": {
+      "title": "Veľryba",
+      "description": "Veľryba skáče nad morom a strieka vodu."
+    },
+    "jellyfish-01": {
+      "title": "Medúza",
+      "description": "Medúza s chápadlami pláva v hlbinách."
+    },
+    "castle-01": {
+      "title": "Rozprávkový hrad",
+      "description": "Rozprávkový hrad s vežami a mostom."
+    },
+    "elf-01": {
+      "title": "Elf",
+      "description": "Veselý elf s guľatými ušami a čiapkou."
+    },
+    "treasure-01": {
+      "title": "Poklad",
+      "description": "Truhla plná pokladu a zlatých mincí."
+    },
+    "gnome-01": {
+      "title": "Trpaslík",
+      "description": "Trpaslík s čiapkou a lopatou kopá zlato."
+    },
+    "burger-01": {
+      "title": "Hamburger",
+      "description": "Veľký hamburger so šalátom a syrom."
+    },
+    "cupcake-01": {
+      "title": "Košíček",
+      "description": "Košíček s krémom a posypkou na vrchu."
+    },
+    "watermelon-01": {
+      "title": "Melón",
+      "description": "Plátky melóna s jadierkami a usmievačom."
+    },
+    "donut-01": {
+      "title": "Donut",
+      "description": "Donut s polevou a farebnou posypkou."
+    },
+    "basketball-01": {
+      "title": "Basketbal",
+      "description": "Dieťa hádže basketbal do koša."
+    },
+    "gymnastics-01": {
+      "title": "Gymnastika",
+      "description": "Gymnastka stojí na kladine."
+    },
+    "skiing-01": {
+      "title": "Lyžovanie",
+      "description": "Dieťa lyžuje dolu zo zasnežného kopca."
+    },
+    "karate-01": {
+      "title": "Karate",
+      "description": "Dieťa v kimone cvičí karate."
+    },
+    "lion-mane-01": {
+      "title": "Lev s hrivou",
+      "description": "Detailný lev s bohatou hrivou a výraznou tvárou."
+    },
+    "owl-01": {
+      "title": "Sova na vetve",
+      "description": "Sova s detailným perím sedí na dubovej vetve."
+    },
+    "race-driver-01": {
+      "title": "Závodník v kokpite",
+      "description": "Závodný pilot v prilbe sedí v detailnom kokpite."
+    },
+    "construction-01": {
+      "title": "Stavenisko",
+      "description": "Žeriav a bager pracujú na stavbe výškovej budovy."
+    },
+    "ball-scene-01": {
+      "title": "Ples v paláci",
+      "description": "Princezná tancuje na plese v nádhernej sále."
+    },
+    "castle-room-01": {
+      "title": "Rozprávková izba",
+      "description": "Detailná rozprávková izba s trónom a vitráľom."
+    },
+    "flower-bouquet-01": {
+      "title": "Kytica kvetov",
+      "description": "Bohatá kytica rôznych kvetín vo váze s detailmi."
+    },
+    "garden-scene-01": {
+      "title": "Záhradný záhon",
+      "description": "Detailná záhrada s rôznymi kvetinami a motýľmi."
+    },
+    "solar-system-01": {
+      "title": "Slnečná sústava",
+      "description": "Detailná slnečná sústava so všetkými planétami."
+    },
+    "moonlanding-01": {
+      "title": "Pristátie na Mesiaci",
+      "description": "Astronaut vychádza z lunárneho modulu na Mesiaci."
+    },
+    "dino-jungle-01": {
+      "title": "Dinosaury v džungli",
+      "description": "T-Rex a triceratops v detailnej pravekej džungli."
+    },
+    "dino-herd-01": {
+      "title": "Stádo dinosaurov",
+      "description": "Stádo diplodocov prechádza krajinou pri rieke."
+    },
+    "coral-reef-01": {
+      "title": "Koralový útes",
+      "description": "Detailný koralový útes s rybami a morským životom."
+    },
+    "underwater-01": {
+      "title": "Pod vodou",
+      "description": "Podmorský svet s potápačom a pokladom."
+    },
+    "fairy-village-01": {
+      "title": "Rozprávková dedina",
+      "description": "Kúzelná dedina s hubovými domčekmi a vílami."
+    },
+    "dragon-battle-01": {
+      "title": "Drak a rytier",
+      "description": "Rytier na koni čelí veľkému drakovi pri hrade."
+    },
+    "bakery-01": {
+      "title": "Pekáreň",
+      "description": "Detailná pekáreň plná chleba, rožkov a koláčov."
+    },
+    "market-01": {
+      "title": "Trhový stánok s ovocím",
+      "description": "Farebné tržisko s košíkmi ovocia a zeleniny."
+    },
+    "stadium-01": {
+      "title": "Futbalový štadión",
+      "description": "Futbalové ihrisko s hráčmi a tribúnami plnými divákov."
+    },
+    "olympics-01": {
+      "title": "Olympijské hry",
+      "description": "Športovci z troch športov súťažia na olympiáde."
+    },
+    "house-01": {
+      "title": "Rodinný dom",
+      "description": "Roztomilý rodinný dom so záhradou a plotom."
+    },
+    "outfit-01": {
+      "title": "Módne oblečenie",
+      "description": "Šaty, tričko, nohavice a topánky na výber."
+    },
+    "doctor-01": {
+      "title": "Doktor",
+      "description": "Doktor v bielom plášti so stetoskopom."
+    },
+    "castle-building-01": {
+      "title": "Rozprávkový zámok",
+      "description": "Veľký rozprávkový zámok s vežami a vlajkami."
+    },
+    "lighthouse-01": {
+      "title": "Maják",
+      "description": "Vysoký maják pri mori s vlnami okolo."
+    },
+    "treehouse-01": {
+      "title": "Domček na strome",
+      "description": "Roztomilý domček na strome so schodíkmi."
+    },
+    "winter-clothes-01": {
+      "title": "Zimné oblečenie",
+      "description": "Zimný kabát, čiapka, šál a rukavice."
+    },
+    "princess-dress-01": {
+      "title": "Princeznovské šaty",
+      "description": "Nádherné princeznovské šaty s korunou."
+    },
+    "sports-kit-01": {
+      "title": "Športové vybavenie",
+      "description": "Futbalový dres, kopačky a lopta."
+    },
+    "firefighter-01": {
+      "title": "Hasič",
+      "description": "Statočný hasič v uniforme s hadicou."
+    },
+    "pilot-01": {
+      "title": "Pilot",
+      "description": "Pilot v kokpite lietadla s prilbou."
+    },
+    "chef-01": {
+      "title": "Kuchár",
+      "description": "Veselý kuchár varí polievku v kuchyni."
+    },
+    "school-01": {
+      "title": "Škola",
+      "description": "Dvojposchodová škola s veľkými oknami a ihriskom vedľa."
+    },
+    "hospital-01": {
+      "title": "Nemocnica",
+      "description": "Nemocnica s červeným krížom a sanitkami pred vchodom."
+    },
+    "library-01": {
+      "title": "Knižnica",
+      "description": "Útulná knižnica s oblúkovými oknami a policami plnými kníh."
+    },
+    "fire-station-01": {
+      "title": "Hasičská stanica",
+      "description": "Hasičská stanica s otvorenými vrátami, hasičským autom a hasičskou tyčou."
+    },
+    "windmill-01": {
+      "title": "Veterný mlyn",
+      "description": "Klasický veterný mlyn so štyrmi lopatami a kamennou základňou."
+    },
+    "bridge-01": {
+      "title": "Kamenný most",
+      "description": "Kamenný oblúkový most cez rieku s lampami a loďkou dolu."
+    },
+    "summer-outfit-01": {
+      "title": "Letné oblečenie",
+      "description": "Letné tričko so slnkom, šortky a sandále."
+    },
+    "raincoat-01": {
+      "title": "Pláštenka a gumáky",
+      "description": "Veselá pláštenka s gombíkmi, gumáky a dáždnik s bodkami."
+    },
+    "pajamas-01": {
+      "title": "Pyžamo s hviezdičkami",
+      "description": "Útulné pyžamo potlačené hviezdami, mesiacmi a oblakmi."
+    },
+    "swimsuit-01": {
+      "title": "Plavky a plavecké okuliare",
+      "description": "Plavky so vzorom, plavecké okuliare, čiapka a uterák."
+    },
+    "carnival-costume-01": {
+      "title": "Karnevalový kostým",
+      "description": "Farebný karnevalový kostým s plášťom, maskou, klobúkom a paličkou."
+    },
+    "backpack-01": {
+      "title": "Školský batoh",
+      "description": "Školský batoh s vreckami obklopený ceruzkami, pravítkom a zošitom."
+    },
+    "teacher-01": {
+      "title": "Učiteľka",
+      "description": "Priateľská učiteľka pri tabuli s knihami a zemeguľou na stole."
+    },
+    "police-officer-01": {
+      "title": "Policajt",
+      "description": "Policajt v uniforme s odznakom a policajným autom za ním."
+    },
+    "farmer-01": {
+      "title": "Poľnohospodár",
+      "description": "Priateľský poľnohospodár v kombinéze a slamenom klobúku pred stodolou."
+    },
+    "builder-01": {
+      "title": "Stavár",
+      "description": "Stavár v prilbe a pracovnom páse drží plán a stojí pri lešení."
+    },
+    "nurse-01": {
+      "title": "Zdravotná sestra",
+      "description": "Zdravotná sestra so stetoskopom ošetruje plyšového medvedíka."
+    },
+    "vet-01": {
+      "title": "Veterinár",
+      "description": "Priateľský veterinár v bielom plášti vyšetruje psa, vedľa čaká mačka."
+    }
   }
 }

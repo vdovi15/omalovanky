@@ -74,138 +74,485 @@
     "6-8": "věk 6–8"
   },
   "ageGroups": [
-    { "label": "4–7 let", "value": "4-7" },
-    { "label": "5–7 let", "value": "5-7" },
-    { "label": "5–8 let", "value": "5-8" },
-    { "label": "6–8 let", "value": "6-8" }
+    {
+      "label": "4–7 let",
+      "value": "4-7"
+    },
+    {
+      "label": "5–7 let",
+      "value": "5-7"
+    },
+    {
+      "label": "5–8 let",
+      "value": "5-8"
+    },
+    {
+      "label": "6–8 let",
+      "value": "6-8"
+    }
   ],
   "categories": {
-    "cars":       { "title": "Auta",       "description": "Rychlá, přátelská a zábavná vozidla pro děti k vybarvování." },
-    "animals":    { "title": "Zvířata",    "description": "Roztomilá a hravá zvířata s jednoduchými obrysy." },
-    "princesses": { "title": "Princezny",  "description": "Kouzelné omalovánky princezen s korunami, šaty a zámky." },
-    "flowers":    { "title": "Květiny",    "description": "Barevné a veselé omalovánky květin pro příjemné vybarvování." },
-    "space":      { "title": "Vesmír",     "description": "Rakety, planety, astronauti a hvězdy čekají na vybarvení." },
-    "dinosaurs":  { "title": "Dinosauři", "description": "T-Rex, triceratops a další pravěká zvířata k vybarvování." },
-    "ocean":      { "title": "Moře",       "description": "Ryby, chobotnice, žraloci a mořský svět pod vodou." },
-    "fairytales": { "title": "Pohádky",   "description": "Draci, rytíři, čarodějové a pohádkové bytosti." },
-    "food":       { "title": "Jídlo",      "description": "Ovoce, zelenina, zmrzlina a další chutné obrázky." },
-    "sports":     { "title": "Sport",      "description": "Fotbal, kolo, plavání a další sporty pro aktivní děti." },
-    "buildings":  { "title": "Budovy",     "description": "Domy, zámky, věže a fascinující stavby pro malé architekty." },
-    "clothes":    { "title": "Oblečení",   "description": "Šaty, boty, klobouky a módní kousky k vybarvování." },
-    "jobs":       { "title": "Povolání",   "description": "Hasiči, doktoři, piloti a další povolání pro zvídavé děti." }
+    "cars": {
+      "title": "Auta",
+      "description": "Rychlá, přátelská a zábavná vozidla pro děti k vybarvování."
+    },
+    "animals": {
+      "title": "Zvířata",
+      "description": "Roztomilá a hravá zvířata s jednoduchými obrysy."
+    },
+    "princesses": {
+      "title": "Princezny",
+      "description": "Kouzelné omalovánky princezen s korunami, šaty a zámky."
+    },
+    "flowers": {
+      "title": "Květiny",
+      "description": "Barevné a veselé omalovánky květin pro příjemné vybarvování."
+    },
+    "space": {
+      "title": "Vesmír",
+      "description": "Rakety, planety, astronauti a hvězdy čekají na vybarvení."
+    },
+    "dinosaurs": {
+      "title": "Dinosauři",
+      "description": "T-Rex, triceratops a další pravěká zvířata k vybarvování."
+    },
+    "ocean": {
+      "title": "Moře",
+      "description": "Ryby, chobotnice, žraloci a mořský svět pod vodou."
+    },
+    "fairytales": {
+      "title": "Pohádky",
+      "description": "Draci, rytíři, čarodějové a pohádkové bytosti."
+    },
+    "food": {
+      "title": "Jídlo",
+      "description": "Ovoce, zelenina, zmrzlina a další chutné obrázky."
+    },
+    "sports": {
+      "title": "Sport",
+      "description": "Fotbal, kolo, plavání a další sporty pro aktivní děti."
+    },
+    "buildings": {
+      "title": "Budovy",
+      "description": "Domy, zámky, věže a fascinující stavby pro malé architekty."
+    },
+    "clothes": {
+      "title": "Oblečení",
+      "description": "Šaty, boty, klobouky a módní kousky k vybarvování."
+    },
+    "jobs": {
+      "title": "Povolání",
+      "description": "Hasiči, doktoři, piloti a další povolání pro zvídavé děti."
+    }
   },
   "pages": {
-    "lion-01":           { "title": "Veselý lev" },
-    "elephant-01":       { "title": "Sloník" },
-    "cat-01":            { "title": "Roztomilá kočka" },
-    "rabbit-01":         { "title": "Zajíček" },
-    "race-car-01":       { "title": "Závodní auto" },
-    "fire-truck-01":     { "title": "Hasičské auto" },
-    "school-bus-01":     { "title": "Školní autobus" },
-    "tractor-01":        { "title": "Traktor" },
-    "princess-01":       { "title": "Princezna" },
-    "princess-castle-01":{ "title": "Princezna a zámek" },
-    "fairy-01":          { "title": "Víla" },
-    "mermaid-01":        { "title": "Mořská panna" },
-    "sunflower-01":      { "title": "Slunečnice" },
-    "rose-01":           { "title": "Růže" },
-    "tulip-01":          { "title": "Tulipán" },
-    "daisy-01":          { "title": "Sedmikráska" },
-    "rocket-01":         { "title": "Raketa ve vesmíru" },
-    "trex-01":           { "title": "T-Rex" },
-    "dolphin-01":        { "title": "Delfín" },
-    "dragon-01":         { "title": "Drak" },
-    "icecream-01":       { "title": "Zmrzlina" },
-    "football-01":       { "title": "Fotbal" },
-    "astronaut-01":      { "title": "Astronaut" },
-    "planet-01":         { "title": "Saturn" },
-    "alien-01":          { "title": "Mimozemšťan" },
-    "triceratops-01":    { "title": "Triceratops" },
-    "brachiosaurus-01":  { "title": "Brachiosaurus" },
-    "pterodactyl-01":    { "title": "Pterodaktyl" },
-    "octopus-01":        { "title": "Chobotnice" },
-    "shark-01":          { "title": "Žralok" },
-    "seahorse-01":       { "title": "Mořský koník" },
-    "knight-01":         { "title": "Rytíř" },
-    "wizard-01":         { "title": "Čaroděj" },
-    "unicorn-01":        { "title": "Jednorozec" },
-    "pizza-01":          { "title": "Pizza" },
-    "fruit-01":          { "title": "Mísa s ovocem" },
-    "cake-01":           { "title": "Narozeninový dort" },
-    "bicycle-01":        { "title": "Kolo" },
-    "swimming-01":       { "title": "Plavání" },
-    "tennis-01":         { "title": "Tenis" },
-    "panda-01":          { "title": "Panda" },
-    "giraffe-01":        { "title": "Žirafa" },
-    "penguin-01":        { "title": "Tučňák" },
-    "frog-01":           { "title": "Žabka" },
-    "police-car-01":     { "title": "Policejní auto" },
-    "monster-truck-01":  { "title": "Monster Truck" },
-    "helicopter-01":     { "title": "Vrtulník" },
-    "sailboat-01":       { "title": "Plachetnice" },
-    "ballerina-01":      { "title": "Baletka" },
-    "queen-01":          { "title": "Královna" },
-    "witch-01":          { "title": "Hodná čarodějnice" },
-    "princess-horse-01": { "title": "Princezna na koni" },
-    "cactus-01":         { "title": "Kaktus" },
-    "lily-01":           { "title": "Lilie" },
-    "lavender-01":       { "title": "Levandule" },
-    "mushroom-01":       { "title": "Muchomůrka" },
-    "moon-01":           { "title": "Měsíc" },
-    "telescope-01":      { "title": "Dalekohled" },
-    "comet-01":          { "title": "Kometa" },
-    "space-station-01":  { "title": "Vesmírná stanice" },
-    "stegosaurus-01":    { "title": "Stegosaurus" },
-    "ankylosaur-01":     { "title": "Ankylosaur" },
-    "raptor-01":         { "title": "Velociraptor" },
-    "diplodocus-01":     { "title": "Diplodocus" },
-    "turtle-01":         { "title": "Mořská želva" },
-    "crab-01":           { "title": "Krab" },
-    "whale-01":          { "title": "Velryba" },
-    "jellyfish-01":      { "title": "Medúza" },
-    "castle-01":         { "title": "Pohádkový hrad" },
-    "elf-01":            { "title": "Elf" },
-    "treasure-01":       { "title": "Poklad" },
-    "gnome-01":          { "title": "Trpaslík" },
-    "burger-01":         { "title": "Hamburger" },
-    "cupcake-01":        { "title": "Košíček" },
-    "watermelon-01":     { "title": "Meloun" },
-    "donut-01":          { "title": "Donut" },
-    "basketball-01":     { "title": "Basketbal" },
-    "gymnastics-01":     { "title": "Gymnastika" },
-    "skiing-01":         { "title": "Lyžování" },
-    "karate-01":         { "title": "Karate" },
-    "lion-mane-01":      { "title": "Lev s hřívou" },
-    "owl-01":            { "title": "Sova na větvi" },
-    "race-driver-01":    { "title": "Závodník v kokpitu" },
-    "construction-01":   { "title": "Staveniště" },
-    "ball-scene-01":     { "title": "Ples v paláci" },
-    "castle-room-01":    { "title": "Pohádkový pokoj" },
-    "flower-bouquet-01": { "title": "Kytice květin" },
-    "garden-scene-01":   { "title": "Zahradní záhon" },
-    "solar-system-01":   { "title": "Sluneční soustava" },
-    "moonlanding-01":    { "title": "Přistání na Měsíci" },
-    "dino-jungle-01":    { "title": "Dinosauři v džungli" },
-    "dino-herd-01":      { "title": "Stádo dinosaurů" },
-    "coral-reef-01":     { "title": "Korálový útes" },
-    "underwater-01":     { "title": "Pod vodou" },
-    "fairy-village-01":  { "title": "Pohádková vesnice" },
-    "dragon-battle-01":  { "title": "Drak a rytíř" },
-    "bakery-01":         { "title": "Pekárna" },
-    "market-01":         { "title": "Tržiště s ovocem" },
-    "stadium-01":        { "title": "Fotbalový stadión" },
-    "olympics-01":       { "title": "Olympijské hry" },
-    "house-01":          { "title": "Rodinný dům" },
-    "outfit-01":         { "title": "Módní oblečení" },
-    "doctor-01":         { "title": "Doktor" },
-    "castle-building-01":{ "title": "Pohádkový zámek" },
-    "lighthouse-01":     { "title": "Maják" },
-    "treehouse-01":      { "title": "Domeček na stromě" },
-    "winter-clothes-01": { "title": "Zimní oblečení" },
-    "princess-dress-01": { "title": "Princeznovské šaty" },
-    "sports-kit-01":     { "title": "Sportovní výbava" },
-    "firefighter-01":    { "title": "Hasič" },
-    "pilot-01":          { "title": "Pilot" },
-    "chef-01":           { "title": "Kuchař" }
+    "lion-01": {
+      "title": "Veselý lev"
+    },
+    "elephant-01": {
+      "title": "Sloník"
+    },
+    "cat-01": {
+      "title": "Roztomilá kočka"
+    },
+    "rabbit-01": {
+      "title": "Zajíček"
+    },
+    "race-car-01": {
+      "title": "Závodní auto"
+    },
+    "fire-truck-01": {
+      "title": "Hasičské auto"
+    },
+    "school-bus-01": {
+      "title": "Školní autobus"
+    },
+    "tractor-01": {
+      "title": "Traktor"
+    },
+    "princess-01": {
+      "title": "Princezna"
+    },
+    "princess-castle-01": {
+      "title": "Princezna a zámek"
+    },
+    "fairy-01": {
+      "title": "Víla"
+    },
+    "mermaid-01": {
+      "title": "Mořská panna"
+    },
+    "sunflower-01": {
+      "title": "Slunečnice"
+    },
+    "rose-01": {
+      "title": "Růže"
+    },
+    "tulip-01": {
+      "title": "Tulipán"
+    },
+    "daisy-01": {
+      "title": "Sedmikráska"
+    },
+    "rocket-01": {
+      "title": "Raketa ve vesmíru"
+    },
+    "trex-01": {
+      "title": "T-Rex"
+    },
+    "dolphin-01": {
+      "title": "Delfín"
+    },
+    "dragon-01": {
+      "title": "Drak"
+    },
+    "icecream-01": {
+      "title": "Zmrzlina"
+    },
+    "football-01": {
+      "title": "Fotbal"
+    },
+    "astronaut-01": {
+      "title": "Astronaut"
+    },
+    "planet-01": {
+      "title": "Saturn"
+    },
+    "alien-01": {
+      "title": "Mimozemšťan"
+    },
+    "triceratops-01": {
+      "title": "Triceratops"
+    },
+    "brachiosaurus-01": {
+      "title": "Brachiosaurus"
+    },
+    "pterodactyl-01": {
+      "title": "Pterodaktyl"
+    },
+    "octopus-01": {
+      "title": "Chobotnice"
+    },
+    "shark-01": {
+      "title": "Žralok"
+    },
+    "seahorse-01": {
+      "title": "Mořský koník"
+    },
+    "knight-01": {
+      "title": "Rytíř"
+    },
+    "wizard-01": {
+      "title": "Čaroděj"
+    },
+    "unicorn-01": {
+      "title": "Jednorozec"
+    },
+    "pizza-01": {
+      "title": "Pizza"
+    },
+    "fruit-01": {
+      "title": "Mísa s ovocem"
+    },
+    "cake-01": {
+      "title": "Narozeninový dort"
+    },
+    "bicycle-01": {
+      "title": "Kolo"
+    },
+    "swimming-01": {
+      "title": "Plavání"
+    },
+    "tennis-01": {
+      "title": "Tenis"
+    },
+    "panda-01": {
+      "title": "Panda"
+    },
+    "giraffe-01": {
+      "title": "Žirafa"
+    },
+    "penguin-01": {
+      "title": "Tučňák"
+    },
+    "frog-01": {
+      "title": "Žabka"
+    },
+    "police-car-01": {
+      "title": "Policejní auto"
+    },
+    "monster-truck-01": {
+      "title": "Monster Truck"
+    },
+    "helicopter-01": {
+      "title": "Vrtulník"
+    },
+    "sailboat-01": {
+      "title": "Plachetnice"
+    },
+    "ballerina-01": {
+      "title": "Baletka"
+    },
+    "queen-01": {
+      "title": "Královna"
+    },
+    "witch-01": {
+      "title": "Hodná čarodějnice"
+    },
+    "princess-horse-01": {
+      "title": "Princezna na koni"
+    },
+    "cactus-01": {
+      "title": "Kaktus"
+    },
+    "lily-01": {
+      "title": "Lilie"
+    },
+    "lavender-01": {
+      "title": "Levandule"
+    },
+    "mushroom-01": {
+      "title": "Muchomůrka"
+    },
+    "moon-01": {
+      "title": "Měsíc"
+    },
+    "telescope-01": {
+      "title": "Dalekohled"
+    },
+    "comet-01": {
+      "title": "Kometa"
+    },
+    "space-station-01": {
+      "title": "Vesmírná stanice"
+    },
+    "stegosaurus-01": {
+      "title": "Stegosaurus"
+    },
+    "ankylosaur-01": {
+      "title": "Ankylosaur"
+    },
+    "raptor-01": {
+      "title": "Velociraptor"
+    },
+    "diplodocus-01": {
+      "title": "Diplodocus"
+    },
+    "turtle-01": {
+      "title": "Mořská želva"
+    },
+    "crab-01": {
+      "title": "Krab"
+    },
+    "whale-01": {
+      "title": "Velryba"
+    },
+    "jellyfish-01": {
+      "title": "Medúza"
+    },
+    "castle-01": {
+      "title": "Pohádkový hrad"
+    },
+    "elf-01": {
+      "title": "Elf"
+    },
+    "treasure-01": {
+      "title": "Poklad"
+    },
+    "gnome-01": {
+      "title": "Trpaslík"
+    },
+    "burger-01": {
+      "title": "Hamburger"
+    },
+    "cupcake-01": {
+      "title": "Košíček"
+    },
+    "watermelon-01": {
+      "title": "Meloun"
+    },
+    "donut-01": {
+      "title": "Donut"
+    },
+    "basketball-01": {
+      "title": "Basketbal"
+    },
+    "gymnastics-01": {
+      "title": "Gymnastika"
+    },
+    "skiing-01": {
+      "title": "Lyžování"
+    },
+    "karate-01": {
+      "title": "Karate"
+    },
+    "lion-mane-01": {
+      "title": "Lev s hřívou"
+    },
+    "owl-01": {
+      "title": "Sova na větvi"
+    },
+    "race-driver-01": {
+      "title": "Závodník v kokpitu"
+    },
+    "construction-01": {
+      "title": "Staveniště"
+    },
+    "ball-scene-01": {
+      "title": "Ples v paláci"
+    },
+    "castle-room-01": {
+      "title": "Pohádkový pokoj"
+    },
+    "flower-bouquet-01": {
+      "title": "Kytice květin"
+    },
+    "garden-scene-01": {
+      "title": "Zahradní záhon"
+    },
+    "solar-system-01": {
+      "title": "Sluneční soustava"
+    },
+    "moonlanding-01": {
+      "title": "Přistání na Měsíci"
+    },
+    "dino-jungle-01": {
+      "title": "Dinosauři v džungli"
+    },
+    "dino-herd-01": {
+      "title": "Stádo dinosaurů"
+    },
+    "coral-reef-01": {
+      "title": "Korálový útes"
+    },
+    "underwater-01": {
+      "title": "Pod vodou"
+    },
+    "fairy-village-01": {
+      "title": "Pohádková vesnice"
+    },
+    "dragon-battle-01": {
+      "title": "Drak a rytíř"
+    },
+    "bakery-01": {
+      "title": "Pekárna"
+    },
+    "market-01": {
+      "title": "Tržiště s ovocem"
+    },
+    "stadium-01": {
+      "title": "Fotbalový stadión"
+    },
+    "olympics-01": {
+      "title": "Olympijské hry"
+    },
+    "house-01": {
+      "title": "Rodinný dům"
+    },
+    "outfit-01": {
+      "title": "Módní oblečení"
+    },
+    "doctor-01": {
+      "title": "Doktor"
+    },
+    "castle-building-01": {
+      "title": "Pohádkový zámek"
+    },
+    "lighthouse-01": {
+      "title": "Maják"
+    },
+    "treehouse-01": {
+      "title": "Domeček na stromě"
+    },
+    "winter-clothes-01": {
+      "title": "Zimní oblečení"
+    },
+    "princess-dress-01": {
+      "title": "Princeznovské šaty"
+    },
+    "sports-kit-01": {
+      "title": "Sportovní výbava"
+    },
+    "firefighter-01": {
+      "title": "Hasič"
+    },
+    "pilot-01": {
+      "title": "Pilot"
+    },
+    "chef-01": {
+      "title": "Kuchař"
+    },
+    "school-01": {
+      "title": "Škola",
+      "description": "Dvoupatrová škola s velkými okny a hřištěm vedle."
+    },
+    "hospital-01": {
+      "title": "Nemocnice",
+      "description": "Nemocnice s červeným křížem a sanitkami před vchodem."
+    },
+    "library-01": {
+      "title": "Knihovna",
+      "description": "Útulná knihovna s obloukovými okny a regály plnými knih."
+    },
+    "fire-station-01": {
+      "title": "Hasičská stanice",
+      "description": "Hasičská stanice s otevřenými vraty, hasičským autem a hasičskou tyčí."
+    },
+    "windmill-01": {
+      "title": "Větrný mlýn",
+      "description": "Klasický větrný mlýn se čtyřmi lopatami a kamennou základnou."
+    },
+    "bridge-01": {
+      "title": "Kamenný most",
+      "description": "Kamenný obloukový most přes řeku s lampami a lodičkou."
+    },
+    "summer-outfit-01": {
+      "title": "Letní oblečení",
+      "description": "Letní tričko se sluncem, šortky a sandály."
+    },
+    "raincoat-01": {
+      "title": "Pláštěnka a holínky",
+      "description": "Veselá pláštěnka s knoflíky, holínky a deštník s puntíky."
+    },
+    "pajamas-01": {
+      "title": "Pyžamo s hvězdičkami",
+      "description": "Útulné pyžamo potisknuté hvězdami, měsíci a oblaky."
+    },
+    "swimsuit-01": {
+      "title": "Plavky a plavecké brýle",
+      "description": "Plavky se vzorem, plavecké brýle, čepice a ručník."
+    },
+    "carnival-costume-01": {
+      "title": "Karnevalový kostým",
+      "description": "Barevný karnevalový kostým s pláštěm, maskou, kloboukem a hůlkou."
+    },
+    "backpack-01": {
+      "title": "Školní batoh",
+      "description": "Školní batoh s kapsičkami obklopený tužkami, pravítkem a sešitem."
+    },
+    "teacher-01": {
+      "title": "Učitelka",
+      "description": "Přátelská učitelka u tabule s knihami a zeměkoulí na stole."
+    },
+    "police-officer-01": {
+      "title": "Policista",
+      "description": "Policista v uniformě s odznakem a policejním autem za ním."
+    },
+    "farmer-01": {
+      "title": "Zemědělec",
+      "description": "Přátelský zemědělec v kombinéze a slaměném klobouku před stodolou."
+    },
+    "builder-01": {
+      "title": "Stavař",
+      "description": "Stavař v přilbě a pracovním pásu drží plán a stojí u lešení."
+    },
+    "nurse-01": {
+      "title": "Zdravotní sestra",
+      "description": "Zdravotní sestra se stetoskopem ošetřuje plyšového medvídka."
+    },
+    "vet-01": {
+      "title": "Veterinář",
+      "description": "Přátelský veterinář v bílém plášti vyšetřuje psa, vedle čeká kočka."
+    }
   }
 }
