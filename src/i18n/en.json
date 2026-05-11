@@ -665,6 +665,110 @@
     "vet-01": {
       "title": "Vet",
       "description": "A friendly vet in a white coat examining a happy dog, with a cat waiting nearby."
+    },
+    "fox-01": {
+      "title": "Fox in the Forest",
+      "description": "A fox with a bushy tail sitting in an autumn forest with leaves and mushrooms."
+    },
+    "parrot-01": {
+      "title": "Parrot on a Branch",
+      "description": "A detailed tropical parrot on a branch with large feathers and tropical leaves."
+    },
+    "train-01": {
+      "title": "Steam Locomotive",
+      "description": "A detailed steam locomotive with puffing smoke, large wheels and wagons on the tracks."
+    },
+    "ambulance-01": {
+      "title": "Ambulance",
+      "description": "An ambulance with a medical cross, emergency lights and equipment inside."
+    },
+    "enchanted-forest-01": {
+      "title": "Enchanted Forest",
+      "description": "A princess walks through an enchanted forest with fireflies, faces in the trees and woodland animals."
+    },
+    "fairy-queen-01": {
+      "title": "Fairy Queen",
+      "description": "A fairy queen on a flower throne with butterfly wings and tiny fairies flying around her."
+    },
+    "cherry-blossom-01": {
+      "title": "Cherry Blossom",
+      "description": "A cherry blossom tree in full bloom with a small bird and falling petals."
+    },
+    "water-lily-01": {
+      "title": "Water Lilies",
+      "description": "A garden pond with water lily flowers, a dragonfly hovering above and reeds on the bank."
+    },
+    "galaxy-01": {
+      "title": "Galaxy and Nebula",
+      "description": "A detailed spiral galaxy with nebula clouds, many stars and distant planets."
+    },
+    "space-rover-01": {
+      "title": "Mars Rover",
+      "description": "A detailed Mars rover with solar panels driving across a rocky alien planet."
+    },
+    "spinosaurus-01": {
+      "title": "Spinosaurus",
+      "description": "A detailed Spinosaurus with its tall sail catching a fish by the river."
+    },
+    "dino-eggs-01": {
+      "title": "Dinosaur Eggs",
+      "description": "A dinosaur nest with eggs and baby dinosaurs hatching from cracked shells."
+    },
+    "deep-sea-01": {
+      "title": "Deep Sea",
+      "description": "Deep sea with an anglerfish, bioluminescent jellyfish and mysterious creatures."
+    },
+    "shipwreck-01": {
+      "title": "Shipwreck",
+      "description": "An underwater shipwreck covered in coral with fish, an octopus and a treasure chest."
+    },
+    "magic-forest-01": {
+      "title": "Magic Forest",
+      "description": "An enchanted forest with trees that have faces, glowing mushrooms and dancing fairies."
+    },
+    "sleeping-beauty-01": {
+      "title": "Sleeping Beauty",
+      "description": "Sleeping Beauty asleep in a tower covered in rose vines, with a spinning wheel and candle."
+    },
+    "sushi-01": {
+      "title": "Sushi Plate",
+      "description": "A detailed sushi plate with various rolls, chopsticks and a bowl of soy sauce."
+    },
+    "breakfast-01": {
+      "title": "Breakfast",
+      "description": "A breakfast table with eggs, toast, orange juice, fruit and a cup of cocoa."
+    },
+    "boxing-01": {
+      "title": "Boxing",
+      "description": "A child boxer wearing gloves and headgear in a boxing ring with a punching bag."
+    },
+    "archery-01": {
+      "title": "Archery",
+      "description": "A child archer drawing a bow and arrow, aiming at a target in an outdoor setting."
+    },
+    "castle-ruins-01": {
+      "title": "Castle Ruins",
+      "description": "Ancient castle ruins on a hilltop with crumbling towers and ivy on the stone walls."
+    },
+    "pyramid-01": {
+      "title": "Egyptian Pyramids",
+      "description": "Egyptian pyramids in the desert with a sphinx, a camel and palm trees."
+    },
+    "wedding-dress-01": {
+      "title": "Wedding Dress",
+      "description": "An elaborate wedding dress with detailed lace, a veil, a bouquet and decorative shoes."
+    },
+    "traditional-costume-01": {
+      "title": "Folk Costume",
+      "description": "A traditional folk costume with an embroidered blouse, layered skirt and flower crown."
+    },
+    "scientist-01": {
+      "title": "Scientist",
+      "description": "A scientist in a lab coat with colourful test tubes, a microscope and beakers."
+    },
+    "artist-01": {
+      "title": "Painter",
+      "description": "An artist in a beret painting a landscape at an easel with a palette and brushes."
     }
   }
 }

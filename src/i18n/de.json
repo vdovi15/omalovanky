@@ -665,6 +665,110 @@
     "vet-01": {
       "title": "Tierärztin",
       "description": "Eine freundliche Tierärztin im weißen Kittel untersucht einen Hund, daneben wartet eine Katze."
+    },
+    "fox-01": {
+      "title": "Fuchs im Wald",
+      "description": "Ein Fuchs mit buschigem Schwanz sitzt in einem Herbstwald mit Blättern und Pilzen."
+    },
+    "parrot-01": {
+      "title": "Papagei auf einem Ast",
+      "description": "Ein detaillierter Tropenpapagei auf einem Ast mit großen Federn und Tropenblättern."
+    },
+    "train-01": {
+      "title": "Dampflokomotive",
+      "description": "Eine detaillierte Dampflokomotive mit Rauch, großen Rädern und Waggons auf den Gleisen."
+    },
+    "ambulance-01": {
+      "title": "Krankenwagen",
+      "description": "Ein Krankenwagen mit Kreuz, Blaulicht auf dem Dach und Ausrüstung im Inneren."
+    },
+    "enchanted-forest-01": {
+      "title": "Verzauberter Wald",
+      "description": "Eine Prinzessin geht durch einen verzauberten Wald mit Glühwürmchen und Bäumen mit Gesichtern."
+    },
+    "fairy-queen-01": {
+      "title": "Feenkönigin",
+      "description": "Eine Feenkönigin auf einem Blumenthron mit Schmetterlingsflügeln und kleinen Feen um sie herum."
+    },
+    "cherry-blossom-01": {
+      "title": "Kirschblüten",
+      "description": "Ein Kirschbaum in voller Blüte mit einem kleinen Vogel und fallenden Blütenblättern."
+    },
+    "water-lily-01": {
+      "title": "Seerosen am Teich",
+      "description": "Ein Gartenteich mit Seerosenblüten, einer schwebenden Libelle und Schilf am Ufer."
+    },
+    "galaxy-01": {
+      "title": "Galaxie und Nebel",
+      "description": "Eine detaillierte Spiralgalaxie mit Nebelwolken, vielen Sternen und fernen Planeten."
+    },
+    "space-rover-01": {
+      "title": "Mars-Rover",
+      "description": "Ein detaillierter Mars-Rover mit Solarpanelen auf einer felsigen Planetenoberfläche."
+    },
+    "spinosaurus-01": {
+      "title": "Spinosaurus",
+      "description": "Ein detaillierter Spinosaurus mit hohem Segel beim Fischfang am Fluss."
+    },
+    "dino-eggs-01": {
+      "title": "Dinosauriereier",
+      "description": "Ein Dinosauriernest mit Eiern und Babydinos, die aus den Schalen schlüpfen."
+    },
+    "deep-sea-01": {
+      "title": "Tiefsee",
+      "description": "Tiefsee mit einem Tiefseeangler, biolumineszenten Quallen und geheimnisvollen Wesen."
+    },
+    "shipwreck-01": {
+      "title": "Schiffswrack",
+      "description": "Ein versunkenes Schiff mit Korallen, Fischen, einer Krake und einer Schatztruhe."
+    },
+    "magic-forest-01": {
+      "title": "Zauberwald",
+      "description": "Ein Zauberwald mit Bäumen mit Gesichtern, leuchtenden Pilzen und tanzenden Feen."
+    },
+    "sleeping-beauty-01": {
+      "title": "Dornröschen",
+      "description": "Dornröschen schläft in einem rosenbewachsenen Turm mit einem Spinnrad und einer Kerze."
+    },
+    "sushi-01": {
+      "title": "Sushi-Teller",
+      "description": "Ein detaillierter Sushi-Teller mit verschiedenen Rollen, Stäbchen und Sojasoße."
+    },
+    "breakfast-01": {
+      "title": "Frühstück",
+      "description": "Ein Frühstückstisch mit Eiern, Toast, Orangensaft, Obst und einer Tasse Kakao."
+    },
+    "boxing-01": {
+      "title": "Boxen",
+      "description": "Ein Kind mit Boxhandschuhen und Schutzhelm im Ring mit einem Boxsack."
+    },
+    "archery-01": {
+      "title": "Bogenschießen",
+      "description": "Ein Kind zieht Pfeil und Bogen und zielt auf eine Zielscheibe im Freien."
+    },
+    "castle-ruins-01": {
+      "title": "Burgruine",
+      "description": "Alte Burgruine auf einem Hügel mit bröckelnden Türmen und Efeu an den Mauern."
+    },
+    "pyramid-01": {
+      "title": "Ägyptische Pyramiden",
+      "description": "Ägyptische Pyramiden in der Wüste mit einer Sphinx, einem Kamel und Palmen."
+    },
+    "wedding-dress-01": {
+      "title": "Hochzeitskleid",
+      "description": "Ein aufwändiges Hochzeitskleid mit Spitze, Schleier, Blumenstrauß und Schuhen."
+    },
+    "traditional-costume-01": {
+      "title": "Trachtenkleid",
+      "description": "Eine traditionelle Tracht mit bestickter Bluse, Schürze, Weste und Blumenkranz."
+    },
+    "scientist-01": {
+      "title": "Wissenschaftler",
+      "description": "Ein Wissenschaftler im Kittel mit bunten Reagenzgläsern, Mikroskop und Bechern."
+    },
+    "artist-01": {
+      "title": "Maler",
+      "description": "Ein Künstler mit Baskenmütze malt am Staffelei mit Palette und Pinseln."
     }
   }
 }

@@ -665,6 +665,110 @@
     "vet-01": {
       "title": "Weterynarz",
       "description": "Przyjazny weterynarz w białym fartuchu bada psa, obok czeka kot."
+    },
+    "fox-01": {
+      "title": "Lis w lesie",
+      "description": "Lis z puszystym ogonem siedzi w jesiennym lesie pełnym liści i grzybów."
+    },
+    "parrot-01": {
+      "title": "Papuga na gałęzi",
+      "description": "Szczegółowa tropikalna papuga na gałęzi z dużymi piórami i tropikalnymi liśćmi."
+    },
+    "train-01": {
+      "title": "Lokomotywa parowa",
+      "description": "Szczegółowa lokomotywa parowa z dymem, dużymi kołami i wagonami na torach."
+    },
+    "ambulance-01": {
+      "title": "Karetka",
+      "description": "Karetka z czerwonym krzyżem, sygnałami świetlnymi i wyposażeniem w środku."
+    },
+    "enchanted-forest-01": {
+      "title": "Zaczarowany las",
+      "description": "Księżniczka idzie przez zaczarowany las z robaczkami świętojańskimi i drzewami z twarzami."
+    },
+    "fairy-queen-01": {
+      "title": "Królowa wróżek",
+      "description": "Królowa wróżek na tronie z kwiatów ze skrzydłami motyla i małymi wróżkami wokół."
+    },
+    "cherry-blossom-01": {
+      "title": "Kwiaty wiśni",
+      "description": "Kwitnąca wiśnia z delikatnymi kwiatami, ptaszkiem na gałęzi i opadającymi płatkami."
+    },
+    "water-lily-01": {
+      "title": "Lilie wodne na stawie",
+      "description": "Ogrodowy staw z liliami wodnymi, latającą ważką i trzciną na brzegu."
+    },
+    "galaxy-01": {
+      "title": "Galaktyka i mgławica",
+      "description": "Szczegółowa spiralna galaktyka z mgławicami, gwiazdami i odległymi planetami."
+    },
+    "space-rover-01": {
+      "title": "Łazik marsjański",
+      "description": "Szczegółowy łazik marsjański z panelami słonecznymi na skalistej powierzchni planety."
+    },
+    "spinosaurus-01": {
+      "title": "Spinozaur",
+      "description": "Szczegółowy Spinozaur z wysokim żaglem łowiący rybę przy rzece."
+    },
+    "dino-eggs-01": {
+      "title": "Dinozaurze jaja",
+      "description": "Gniazdo dinozaura z jajami i małymi dinozaurami wykluwającymi się ze skorupek."
+    },
+    "deep-sea-01": {
+      "title": "Głębiny oceanu",
+      "description": "Głębiny oceanu z rybą latarnią, bioluminescencyjnymi meduzami i tajemniczymi stworzeniami."
+    },
+    "shipwreck-01": {
+      "title": "Wrak statku",
+      "description": "Zatopiony statek porośnięty koralem z rybami, ośmiornicą i skrzynią ze skarbem."
+    },
+    "magic-forest-01": {
+      "title": "Magiczny las",
+      "description": "Zaczarowany las z drzewami z twarzami, świecącymi grzybami i tańczącymi wróżkami."
+    },
+    "sleeping-beauty-01": {
+      "title": "Śpiąca Królewna",
+      "description": "Śpiąca Królewna śpi w wieży owiniętej różami z kołowrotkiem i świecą."
+    },
+    "sushi-01": {
+      "title": "Talerz sushi",
+      "description": "Szczegółowy talerz sushi z różnymi rolkami, pałeczkami i sosem sojowym."
+    },
+    "breakfast-01": {
+      "title": "Śniadanie",
+      "description": "Stół śniadaniowy z jajkami, tostami, sokiem pomarańczowym, owocami i kakao."
+    },
+    "boxing-01": {
+      "title": "Boks",
+      "description": "Dziecko w rękawicach bokserskich i kasku na ringu z workiem treningowym."
+    },
+    "archery-01": {
+      "title": "Łucznictwo",
+      "description": "Dziecko naciąga łuk i strzałę, celując w tarczę na świeżym powietrzu."
+    },
+    "castle-ruins-01": {
+      "title": "Ruiny zamku",
+      "description": "Stare ruiny zamku na wzgórzu z rozpadającymi się wieżami i bluszczem na murach."
+    },
+    "pyramid-01": {
+      "title": "Egipskie piramidy",
+      "description": "Egipskie piramidy na pustyni ze sfinksem, wielbłądem i palmami."
+    },
+    "wedding-dress-01": {
+      "title": "Suknia ślubna",
+      "description": "Elegancka suknia ślubna z koronką, welonem, bukietem i ozdobnymi butami."
+    },
+    "traditional-costume-01": {
+      "title": "Strój ludowy",
+      "description": "Tradycyjny strój ludowy z haftowaną bluzką, spódnicą, kamizelką i wieńcem."
+    },
+    "scientist-01": {
+      "title": "Naukowiec",
+      "description": "Naukowiec w fartuchu z kolorowymi probówkami, mikroskopem i zlewkami."
+    },
+    "artist-01": {
+      "title": "Malarz",
+      "description": "Malarz w berecie maluje pejzaż przy sztaludze z paletą i pędzlami."
     }
   }
 }

@@ -553,6 +553,110 @@
     "vet-01": {
       "title": "Veterinář",
       "description": "Přátelský veterinář v bílém plášti vyšetřuje psa, vedle čeká kočka."
+    },
+    "fox-01": {
+      "title": "Liška v lese",
+      "description": "Liška s huňatým ocasem sedí v podzimním lese plném listí a hub."
+    },
+    "parrot-01": {
+      "title": "Papoušek na větvi",
+      "description": "Detailní tropický papoušek na větvi s velkými peřími a tropickými listy."
+    },
+    "train-01": {
+      "title": "Parní lokomotiva",
+      "description": "Detailní parní lokomotiva s kouřem, velkými koly a vagóny na kolejích."
+    },
+    "ambulance-01": {
+      "title": "Sanitka",
+      "description": "Sanitka s červeným křížem, majáky na střeše a vybavením uvnitř."
+    },
+    "enchanted-forest-01": {
+      "title": "Začarovaný les",
+      "description": "Princezna kráčí začarovaným lesem plným světlušek, stromů s tvářemi a zvířátek."
+    },
+    "fairy-queen-01": {
+      "title": "Královna víl",
+      "description": "Královna víl na trůnu z květin s motýlími křídly a vílami okolo."
+    },
+    "cherry-blossom-01": {
+      "title": "Třešňové květy",
+      "description": "Rozkvetlá třešeň s jemnými kvítky, ptáčkem na větvi a padajícími okvětními lístky."
+    },
+    "water-lily-01": {
+      "title": "Lekníny na rybníku",
+      "description": "Zahradní rybník s lekníny, vážkou a rákosím na březích."
+    },
+    "galaxy-01": {
+      "title": "Galaxie a mlhovina",
+      "description": "Detailní spirální galaxie s mlhovinou, hvězdami a vzdálenými planetami."
+    },
+    "space-rover-01": {
+      "title": "Mars rover",
+      "description": "Detailní Mars rover se solárními panely na kamenitém povrchu planety."
+    },
+    "spinosaurus-01": {
+      "title": "Spinosaurus",
+      "description": "Detailní Spinosaurus s plachtou na hřbetě loví rybu u řeky."
+    },
+    "dino-eggs-01": {
+      "title": "Dinosauří vajíčka",
+      "description": "Dinosauří hnízdo s vejci a malými dinosaury vylézajícími ze skořápek."
+    },
+    "deep-sea-01": {
+      "title": "Hlubiny oceánu",
+      "description": "Hlubiny oceánu s lucerníčkem, bioluminiscenčními medúzami a záhadnými tvory."
+    },
+    "shipwreck-01": {
+      "title": "Vrak lodi",
+      "description": "Potopená loď porostlá korálem s rybami, chobotnicí a truhličkou pokladu."
+    },
+    "magic-forest-01": {
+      "title": "Kouzelný les",
+      "description": "Kouzelný les se stromy s tvářemi, svítícími houbami a tančícími vílami."
+    },
+    "sleeping-beauty-01": {
+      "title": "Šípková Růženka",
+      "description": "Šípková Růženka spí ve věži ovinuté růžemi s kolovratem a svíčkou."
+    },
+    "sushi-01": {
+      "title": "Sushi talíř",
+      "description": "Detailní sushi talíř s různými druhy rolek, hůlkami a omáčkou."
+    },
+    "breakfast-01": {
+      "title": "Snídaně",
+      "description": "Snídaňový stůl s vejci, toastem, džusem, ovocem a kakaem."
+    },
+    "boxing-01": {
+      "title": "Box",
+      "description": "Dítě v boxerských rukavicích a helmetě v ringu s boxovacím pytlem."
+    },
+    "archery-01": {
+      "title": "Lukostřelba",
+      "description": "Dítě s lukem a šípem míří na terč na lukostřeleckém hřišti."
+    },
+    "castle-ruins-01": {
+      "title": "Zřícenina hradu",
+      "description": "Zřícenina hradu na kopci s rozpadajícími se věžemi a břečťanem na zdech."
+    },
+    "pyramid-01": {
+      "title": "Egyptské pyramidy",
+      "description": "Egyptské pyramidy s sfingou, velbloudem a palmami v poušti."
+    },
+    "wedding-dress-01": {
+      "title": "Svatební šaty",
+      "description": "Detailní svatební šaty s krajkou, závojem, kyticí a ozdobnými botami."
+    },
+    "traditional-costume-01": {
+      "title": "Lidový kroj",
+      "description": "Tradiční lidový kroj s vyšívanou halenkou, zástěrou, vestičkou a věncem."
+    },
+    "scientist-01": {
+      "title": "Vědec",
+      "description": "Vědec v plášti a brýlích s barevnými zkumavkami, mikroskopem a pokusným vybavením."
+    },
+    "artist-01": {
+      "title": "Malíř",
+      "description": "Malíř v baretu a zástěře maluje krajinu na stojanu s paletou a štětci."
     }
   }
 }

@@ -665,6 +665,110 @@
     "vet-01": {
       "title": "Veterinár",
       "description": "Priateľský veterinár v bielom plášti vyšetruje psa, vedľa čaká mačka."
+    },
+    "fox-01": {
+      "title": "Líška v lese",
+      "description": "Líška s chlpatým chvostom sedí v jesennom lese plnom lístia a húb."
+    },
+    "parrot-01": {
+      "title": "Papagáj na vetve",
+      "description": "Detailný tropický papagáj na vetve s veľkými perami a tropickými listami."
+    },
+    "train-01": {
+      "title": "Parná lokomotíva",
+      "description": "Detailná parná lokomotíva s dymom, veľkými kolesami a vagónmi na koľajniciach."
+    },
+    "ambulance-01": {
+      "title": "Sanitka",
+      "description": "Sanitka s červeným krížom, majákmi na streche a vybavením vnútri."
+    },
+    "enchanted-forest-01": {
+      "title": "Začarovaný les",
+      "description": "Princezná kráča začarovaným lesom plným svetlušiek, stromov s tvárami a zvieratiek."
+    },
+    "fairy-queen-01": {
+      "title": "Kráľovná víl",
+      "description": "Kráľovná víl na tróne z kvetín s motýlími krídlami a vílami okolo."
+    },
+    "cherry-blossom-01": {
+      "title": "Čerešňové kvety",
+      "description": "Rozkvitnutá čerešňa s jemnými kvietkami, vtáčikom na vetve a padajúcimi lupienkami."
+    },
+    "water-lily-01": {
+      "title": "Lekná na rybníku",
+      "description": "Záhradný rybník s leknovými kvetmi, vážkou a rákosím na brehoch."
+    },
+    "galaxy-01": {
+      "title": "Galaxia a hmlovina",
+      "description": "Detailná špirálovitá galaxia s hmlovinou, hviezdami a vzdialenými planétami."
+    },
+    "space-rover-01": {
+      "title": "Mars rover",
+      "description": "Detailný Mars rover so solárnymi panelmi na kamenitom povrchu planéty."
+    },
+    "spinosaurus-01": {
+      "title": "Spinosaurus",
+      "description": "Detailný Spinosaurus s plachtou na chrbte loví rybu pri rieke."
+    },
+    "dino-eggs-01": {
+      "title": "Dinosaurie vajcia",
+      "description": "Dinosaurie hniezdo s vajcami a malými dinosaurmi vyliezajúcimi zo škrupín."
+    },
+    "deep-sea-01": {
+      "title": "Hlbiny oceánu",
+      "description": "Hlbiny oceánu s lucerníčkom, bioluminiscenčnými medúzami a záhadnými tvormi."
+    },
+    "shipwreck-01": {
+      "title": "Vrak lode",
+      "description": "Potopená loď porastená korálom s rybami, chobotnicou a truhličkou pokladu."
+    },
+    "magic-forest-01": {
+      "title": "Kúzelný les",
+      "description": "Kúzelný les so stromami s tvárami, svietiacimi hubami a tančiacimi vílami."
+    },
+    "sleeping-beauty-01": {
+      "title": "Šípková Ruženka",
+      "description": "Šípková Ruženka spí vo veži ovitej ružami s kolovrátkom a sviečkou."
+    },
+    "sushi-01": {
+      "title": "Sushi tanier",
+      "description": "Detailný sushi tanier s rôznymi druhmi roliek, paličkami a omáčkou."
+    },
+    "breakfast-01": {
+      "title": "Raňajky",
+      "description": "Raňajkový stôl s vajíčkami, toastom, džúsom, ovocím a kakaom."
+    },
+    "boxing-01": {
+      "title": "Box",
+      "description": "Dieťa v boxerských rukaviciach a helme na ringu s boxovacím vrecom."
+    },
+    "archery-01": {
+      "title": "Lukostrelba",
+      "description": "Dieťa s lukom a šípom mieri na terč na lukostreleckom ihrisku."
+    },
+    "castle-ruins-01": {
+      "title": "Zrúcanina hradu",
+      "description": "Zrúcanina hradu na kopci s rozpadajúcimi sa vežami a brečtanom na múroch."
+    },
+    "pyramid-01": {
+      "title": "Egyptské pyramídy",
+      "description": "Egyptské pyramídy so sfinxom, ťavou a palmami v púšti."
+    },
+    "wedding-dress-01": {
+      "title": "Svadobné šaty",
+      "description": "Detailné svadobné šaty s čipkou, závojom, kyticou a ozdobnými topánkami."
+    },
+    "traditional-costume-01": {
+      "title": "Ľudový kroj",
+      "description": "Tradičný ľudový kroj s vyšívanou blúzkou, zásterou, vestičkou a vencom."
+    },
+    "scientist-01": {
+      "title": "Vedec",
+      "description": "Vedec v plášti a okuliaroch s farebnými skúmavkami, mikroskopom a pokusným vybavením."
+    },
+    "artist-01": {
+      "title": "Maliar",
+      "description": "Maliar v barete a zástere maľuje krajinu na stojane s paletou a štetcami."
     }
   }
 }
