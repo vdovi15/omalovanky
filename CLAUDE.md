@@ -121,7 +121,9 @@ docs/
 ### 2. Coloring pages (`public/coloring-pages/<category>/`)
 - **Black and white line art only** — no color, no shading, no gray
 - Portrait A4: `1024x1536`
-- Model: `gpt-image-1`, quality `medium`, format `png`
+- Quality: `medium`, format `png`
+- **Default model: `gpt-image-1-mini`** — cheaper and faster; script adds a thick-line suffix to match gpt-image-1 output quality
+- **Full model: `gpt-image-1`** — use when mini quality is insufficient for a specific image
 - **Critical rule:** both the subject prompt AND the script suffix must state that every shape interior is white and empty. If a result has too much black, strengthen the prompt and regenerate with `--force`.
 - Script: `node scripts/generate-images.mjs`
 
@@ -131,12 +133,21 @@ See `docs/ai-generation-guide.md` for the full prompt template and troubleshooti
 
 API key: read from `OPENAI_API_KEY` env var, falls back to `C:/Users/Martin/Documents/openai_api_key.txt`.
 
+The script **always asks which model to use** at startup (default: mini). Bypass the prompt with a flag:
+
 ```bash
-node scripts/generate-images.mjs --slug=lion-01      # one page
-node scripts/generate-images.mjs                      # all missing pages
-node scripts/generate-images.mjs --force              # regenerate everything
-node scripts/generate-images.mjs --slug=lion-01 --force  # regenerate one
+node scripts/generate-images.mjs                             # asks model, generates all missing
+node scripts/generate-images.mjs --slug=lion-01              # asks model, generates one page
+node scripts/generate-images.mjs --model=mini                # skip prompt, use gpt-image-1-mini
+node scripts/generate-images.mjs --model=full                # skip prompt, use gpt-image-1
+node scripts/generate-images.mjs --force                     # regenerate existing images too
+node scripts/generate-images.mjs --slug=lion-01 --force --model=full  # force one with full model
 ```
+
+**Model choice rationale (decided 2026-05-11):**
+- `gpt-image-1-mini` is the default — lower cost, comparable line quality when the prompt suffix explicitly requests thick bold outlines
+- `gpt-image-1` is the fallback for complex scenes (e.g. dino-jungle, coral-reef, ball-scene) where mini produces noticeably thinner or less detailed lines
+- The two model suffixes differ: mini adds "Thick bold black outlines... similar weight to a marker pen" while full uses the original suffix
 
 The script updates `data/coloring-pages.json` image paths automatically after saving.
 
