@@ -769,6 +769,162 @@
     "artist-01": {
       "title": "Painter",
       "description": "An artist in a beret painting a landscape at an easel with a palette and brushes."
+    },
+    "dog-01": {
+      "title": "Dog",
+      "description": "A friendly dog with a wagging tail, floppy ears and a collar sitting happily."
+    },
+    "butterfly-01": {
+      "title": "Butterfly",
+      "description": "A beautiful butterfly with large symmetrical patterned wings perched on a flower."
+    },
+    "hedgehog-01": {
+      "title": "Hedgehog",
+      "description": "A cute hedgehog carrying a mushroom on its back walking through an autumn forest."
+    },
+    "motorbike-01": {
+      "title": "Motorbike",
+      "description": "A cool motorbike with detailed wheels, exhaust pipes, handlebars and a headlight."
+    },
+    "truck-01": {
+      "title": "Big Truck",
+      "description": "A big friendly delivery truck with a large cargo box and cheerful cab."
+    },
+    "vintage-car-01": {
+      "title": "Vintage Car",
+      "description": "A classic 1920s vintage car with round headlights, spoke wheels and a long bonnet."
+    },
+    "snow-queen-01": {
+      "title": "Snow Queen",
+      "description": "An ice queen in snowflake robes with a tall icy crown and snowflakes swirling around her."
+    },
+    "princess-tower-01": {
+      "title": "Princess in the Tower",
+      "description": "A princess with long flowing hair leaning out of a stone tower window covered in roses."
+    },
+    "dragon-princess-01": {
+      "title": "Princess and Dragon",
+      "description": "A brave princess in armour riding a friendly dragon high above the clouds."
+    },
+    "lotus-01": {
+      "title": "Lotus Flower",
+      "description": "A beautiful lotus in bloom on a calm pond with lily pads and a small frog."
+    },
+    "poppy-01": {
+      "title": "Poppies",
+      "description": "A field of poppies with a butterfly and a bee visiting the flowers."
+    },
+    "greenhouse-01": {
+      "title": "Greenhouse",
+      "description": "Inside a greenhouse full of tropical plants, hanging vines and potted flowers."
+    },
+    "ufo-01": {
+      "title": "UFO",
+      "description": "A flying saucer hovering above a field at night with a beam of light and a curious cow below."
+    },
+    "space-shuttle-01": {
+      "title": "Space Shuttle",
+      "description": "A space shuttle launching from a pad with rocket boosters firing and clouds of smoke."
+    },
+    "nebula-01": {
+      "title": "Cosmic Nebula",
+      "description": "A beautiful cosmic nebula with swirling gas clouds, bright stars and distant galaxies."
+    },
+    "parasaurolophus-01": {
+      "title": "Parasaurolophus",
+      "description": "A Parasaurolophus with its distinctive curved crest walking through a prehistoric swamp."
+    },
+    "carnotaurus-01": {
+      "title": "Carnotaurus",
+      "description": "A Carnotaurus with bull-like horns running powerfully through a prehistoric landscape."
+    },
+    "dino-volcano-01": {
+      "title": "Dinosaurs by a Volcano",
+      "description": "An erupting volcano with dinosaurs running through a prehistoric jungle in the foreground."
+    },
+    "narwhal-01": {
+      "title": "Narwhal",
+      "description": "A cute narwhal with its long spiral tusk swimming among fish and glowing sea plants."
+    },
+    "manta-ray-01": {
+      "title": "Manta Ray",
+      "description": "A majestic manta ray gliding gracefully over a coral reef with small fish alongside."
+    },
+    "pirate-ship-01": {
+      "title": "Pirate Ship",
+      "description": "A detailed pirate ship with full sails, a skull flag, cannons and ropes on rough seas."
+    },
+    "gingerbread-house-01": {
+      "title": "Gingerbread House",
+      "description": "A gingerbread house decorated with candy canes, lollipops, frosting and a cookie path."
+    },
+    "three-pigs-01": {
+      "title": "Three Little Pigs",
+      "description": "Three little pigs standing in front of their straw, wooden and brick houses."
+    },
+    "jack-beanstalk-01": {
+      "title": "Jack and the Beanstalk",
+      "description": "Jack climbing an enormous beanstalk through clouds with a giant castle above."
+    },
+    "ramen-01": {
+      "title": "Ramen Bowl",
+      "description": "A steaming bowl of ramen with noodles, egg, vegetables and chopsticks."
+    },
+    "taco-01": {
+      "title": "Tacos",
+      "description": "Three tacos filled with meat, lettuce, tomato and cheese with a lime wedge."
+    },
+    "smoothie-01": {
+      "title": "Fruit Smoothie",
+      "description": "A tall smoothie glass with a straw surrounded by fresh strawberries, banana and mango."
+    },
+    "yoga-01": {
+      "title": "Yoga",
+      "description": "A child in a yoga tree pose standing on one leg on a mat with nature around them."
+    },
+    "ice-skating-01": {
+      "title": "Ice Skating",
+      "description": "A child with a scarf ice skating on a frozen pond with snowy pine trees around."
+    },
+    "rowing-01": {
+      "title": "Rowing",
+      "description": "A child rowing a wooden boat on a calm lake with ducks and water lilies nearby."
+    },
+    "eiffel-tower-01": {
+      "title": "Eiffel Tower",
+      "description": "The iconic Eiffel Tower with detailed ironwork, the Seine river and boulevard trees."
+    },
+    "colosseum-01": {
+      "title": "Colosseum",
+      "description": "The ancient Roman Colosseum with arched tiers and detailed stonework against a blue sky."
+    },
+    "igloo-01": {
+      "title": "Igloo",
+      "description": "A traditional igloo in an Arctic landscape with the Northern Lights and a polar bear."
+    },
+    "superhero-costume-01": {
+      "title": "Superhero Costume",
+      "description": "A superhero costume with a flowing cape, mask, boots and chest emblem on a mannequin."
+    },
+    "witch-halloween-01": {
+      "title": "Witch Costume",
+      "description": "A Halloween witch costume with a tall hat, dark cape, striped dress and a broomstick."
+    },
+    "fairy-costume-01": {
+      "title": "Fairy Costume",
+      "description": "A fairy costume with a sparkly tutu, butterfly wings, a flower crown and a star wand."
+    },
+    "judge-01": {
+      "title": "Judge",
+      "description": "A judge in robes and wig at a courtroom bench holding a gavel with law books behind."
+    },
+    "musician-01": {
+      "title": "Musician",
+      "description": "A musician playing an acoustic guitar on a small stage with musical notes floating around."
+    },
+    "sailor-01": {
+      "title": "Sailor",
+      "description": "A friendly sailor in uniform on a ship deck looking through a telescope at the sea."
     }
   }
 }

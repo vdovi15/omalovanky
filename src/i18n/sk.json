@@ -769,6 +769,162 @@
     "artist-01": {
       "title": "Maliar",
       "description": "Maliar v barete a zástere maľuje krajinu na stojane s paletou a štetcami."
+    },
+    "dog-01": {
+      "title": "Pes",
+      "description": "Priateľský pes s chvostom, visatými ušami a obojkom sedí spokojne."
+    },
+    "butterfly-01": {
+      "title": "Motýľ",
+      "description": "Krásny motýľ s veľkými symetrickými krídlami sedí na kvetine."
+    },
+    "hedgehog-01": {
+      "title": "Ježko",
+      "description": "Roztomilý ježko s hubou na chrbte kráča jesenným lesom plným lístia."
+    },
+    "motorbike-01": {
+      "title": "Motorka",
+      "description": "Štýlová motorka s detailnými kolesami, výfukmi a svetlometom v bočnom pohľade."
+    },
+    "truck-01": {
+      "title": "Náklaďák",
+      "description": "Veľký priateľský náklaďák s kabínou, veľkými kolesami a nákladovým priestorom."
+    },
+    "vintage-car-01": {
+      "title": "Staré auto",
+      "description": "Klasické staré auto z 20. rokov s guľatými svetlometmi a paprskovanými kolesami."
+    },
+    "snow-queen-01": {
+      "title": "Snehová kráľovná",
+      "description": "Ľadová kráľovná v šatách so snehovými vločkami a ľadovou korunou pred svojím palácom."
+    },
+    "princess-tower-01": {
+      "title": "Princezná vo veži",
+      "description": "Princezná s dlhými vlasmi vykláňa sa z okna kamennej veže ovitej ružami."
+    },
+    "dragon-princess-01": {
+      "title": "Princezná s drakom",
+      "description": "Odvážna princezná v brnení jazdí na priateľskom drakovi nad oblakmi."
+    },
+    "lotus-01": {
+      "title": "Lotos",
+      "description": "Krásny lotos kvitnúci na pokojnom rybníku s leknovými listami a žabičkou."
+    },
+    "poppy-01": {
+      "title": "Vlčie maky",
+      "description": "Pole vlčích makov s motýľom a včelou, v pozadí zvlnené kopce."
+    },
+    "greenhouse-01": {
+      "title": "Skleník s rastlinami",
+      "description": "Skleník so sklenými stenami plný tropických rastlín, kvetín a záhradného náradia."
+    },
+    "ufo-01": {
+      "title": "UFO",
+      "description": "Klasické UFO nad poľom s lúčom svetla, hviezdami a zvedavou kravou dolu."
+    },
+    "space-shuttle-01": {
+      "title": "Raketoplán",
+      "description": "Raketoplán štartuje z odpaľovacej rampy s výfukmi plnými dymu a Zemou v pozadí."
+    },
+    "nebula-01": {
+      "title": "Farebná hmlovina",
+      "description": "Krásna kozmická hmlovina s vírivými mrakmi plynu, jasnými hviezdami a vzdialenými galaxiami."
+    },
+    "parasaurolophus-01": {
+      "title": "Parasaurolophus",
+      "description": "Parasaurolophus s charakteristickým zahnutým hrebeňom kráča pravekými mokradinami."
+    },
+    "carnotaurus-01": {
+      "title": "Carnotaurus",
+      "description": "Carnotaurus s rohmi nad očami v dynamickom bežiacom postoji v pravekej krajine."
+    },
+    "dino-volcano-01": {
+      "title": "Dinosaury pri sopke",
+      "description": "Dramatická scéna s erupciou sopky a dinosaurmi unikajúcimi pravekú džungľou."
+    },
+    "narwhal-01": {
+      "title": "Narval",
+      "description": "Roztomilý narval s dlhým špirálovitým clonom pláva pod vodou medzi rybkami."
+    },
+    "manta-ray-01": {
+      "title": "Rejnok manta",
+      "description": "Majestátny rejnok manta kĺže oceánom so svojimi krídlovitými plutvami nad koralovým útesem."
+    },
+    "pirate-ship-01": {
+      "title": "Pirátska loď",
+      "description": "Detailná pirátska loď s plachtami, vlajkou s lebkou, kanónmi a lanami na rozbúrenom mori."
+    },
+    "gingerbread-house-01": {
+      "title": "Perníková chalúpka",
+      "description": "Detailná perníková chalúpka s lízatkami, cukríkmi, oblátkovými oknami a cestičkou zo sušienok."
+    },
+    "three-pigs-01": {
+      "title": "Tri prasiatka",
+      "description": "Tri prasiatka stoja pred svojimi domčekmi zo slamy, dreva a tehál, vlk sa díva z kríka."
+    },
+    "jack-beanstalk-01": {
+      "title": "Jack a fazuľový ker",
+      "description": "Jack šplhá po obrovskom fazuľovom kre cez oblaky s obrovým hradom hore."
+    },
+    "ramen-01": {
+      "title": "Miska ramen",
+      "description": "Dymiacu miska ramen s nudlami, vajíčkom, zeleninou a paličkami v japonskom štýle."
+    },
+    "taco-01": {
+      "title": "Tacos",
+      "description": "Tri tacos plné mäsa, šalátu, paradajok a syra so stojánku s limetkou a papričkami."
+    },
+    "smoothie-01": {
+      "title": "Ovocné smoothie",
+      "description": "Vysoký pohár ovocného smoothie so slamkou, obklopený jahodami, banánom a mangom."
+    },
+    "yoga-01": {
+      "title": "Jóga",
+      "description": "Dieťa v jógovej pozícii stromu stojí na jednej nohe na podložke s prírodou v pozadí."
+    },
+    "ice-skating-01": {
+      "title": "Korčuľovanie",
+      "description": "Dieťa so šálom korčuľuje na zamrznutom rybníku so zasneženenými stromami okolo."
+    },
+    "rowing-01": {
+      "title": "Veslovaní",
+      "description": "Dieťa vesluje drevenú loďku na pokojnom jazere, okolo plávajú kačky a lekná."
+    },
+    "eiffel-tower-01": {
+      "title": "Eiffelova veža",
+      "description": "Ikonická Eiffelova veža s mriežkovou konštrukciou, riekou Seinou a stromami v aleji."
+    },
+    "colosseum-01": {
+      "title": "Koloseum",
+      "description": "Staroveké rímske Koloseum s oblúkovými arkádami a kamennou architektúrou."
+    },
+    "igloo-01": {
+      "title": "Iglu",
+      "description": "Tradičné iglu z ľadových blokov v arktickej krajine so severnou žiarou a ľadovým medveďom."
+    },
+    "superhero-costume-01": {
+      "title": "Kostým superhrdinu",
+      "description": "Kostým superhrdinu s plášťom, maskou, čižmami s bleskami a pásom náradia."
+    },
+    "witch-halloween-01": {
+      "title": "Čarodejnícky kostým",
+      "description": "Halloween čarodejnícky kostým s vysokým klobúkom, plášťom, pruhovanými šatami a metlou."
+    },
+    "fairy-costume-01": {
+      "title": "Vílí kostým",
+      "description": "Vílí kostým s trblietavou sukňou, priesvitnými krídlami, vencom z kvetín a paličkou s hviezdou."
+    },
+    "judge-01": {
+      "title": "Sudca",
+      "description": "Sudca v taláre a parochni sedí v súdnej sieni s paličkou a policami plnými kníh."
+    },
+    "musician-01": {
+      "title": "Hudobník",
+      "description": "Hudobník sedí na stoličke s gitarou a so zavretými očami, okolo lietajú noty a svietia reflektory."
+    },
+    "sailor-01": {
+      "title": "Námorník",
+      "description": "Priateľský námorník v uniforme na palube lode hľadí ďalekohľadom na more s rackami."
     }
   }
 }

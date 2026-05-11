@@ -769,6 +769,162 @@
     "artist-01": {
       "title": "Maler",
       "description": "Ein Künstler mit Baskenmütze malt am Staffelei mit Palette und Pinseln."
+    },
+    "dog-01": {
+      "title": "Hund",
+      "description": "Ein freundlicher Hund mit wedelndem Schwanz, Schlappohren und einem Halsband sitzt glücklich."
+    },
+    "butterfly-01": {
+      "title": "Schmetterling",
+      "description": "Ein schöner Schmetterling mit großen symmetrischen gemusterten Flügeln sitzt auf einer Blume."
+    },
+    "hedgehog-01": {
+      "title": "Igel",
+      "description": "Ein niedlicher Igel trägt einen Pilz auf dem Rücken durch einen Herbstwald."
+    },
+    "motorbike-01": {
+      "title": "Motorrad",
+      "description": "Ein cooles Motorrad mit detaillierten Rädern, Auspuffrohren, Lenker und Scheinwerfer."
+    },
+    "truck-01": {
+      "title": "Lastwagen",
+      "description": "Ein großer freundlicher Lieferwagen mit Kabine, großen Rädern und Laderaum."
+    },
+    "vintage-car-01": {
+      "title": "Oldtimer",
+      "description": "Ein klassischer Oldtimer aus den 1920ern mit runden Scheinwerfern und Speichenrädern."
+    },
+    "snow-queen-01": {
+      "title": "Schneekönigin",
+      "description": "Eine Eiskönigin in Schneeflocken-Roben mit einer hohen Eiskrone und wirbelnden Schneeflocken."
+    },
+    "princess-tower-01": {
+      "title": "Prinzessin im Turm",
+      "description": "Eine Prinzessin mit langen Haaren lehnt aus dem Fenster eines rosenumrankten Steinturms."
+    },
+    "dragon-princess-01": {
+      "title": "Prinzessin mit Drachen",
+      "description": "Eine tapfere Prinzessin in Rüstung reitet auf einem freundlichen Drachen hoch über den Wolken."
+    },
+    "lotus-01": {
+      "title": "Lotusblume",
+      "description": "Eine schöne Lotusblüte auf einem ruhigen Teich mit Seerosenblättern und einem kleinen Frosch."
+    },
+    "poppy-01": {
+      "title": "Mohnblumen",
+      "description": "Ein Mohnblumenfeld mit einem Schmetterling und einer Biene und Hügeln im Hintergrund."
+    },
+    "greenhouse-01": {
+      "title": "Gewächshaus",
+      "description": "Ein Gewächshaus voller Tropenpflanzen, hängenden Ranken und Topfblumen auf Regalen."
+    },
+    "ufo-01": {
+      "title": "UFO",
+      "description": "Eine fliegende Untertasse nachts über einem Feld mit Lichtstrahl und einer neugierigen Kuh."
+    },
+    "space-shuttle-01": {
+      "title": "Space Shuttle",
+      "description": "Ein Space Shuttle beim Start mit feuernden Raketen und Rauchwolken."
+    },
+    "nebula-01": {
+      "title": "Kosmischer Nebel",
+      "description": "Ein schöner kosmischer Nebel mit wirbelnden Gaswolken, hellen Sternen und fernen Galaxien."
+    },
+    "parasaurolophus-01": {
+      "title": "Parasaurolophus",
+      "description": "Ein Parasaurolophus mit seinem markanten gebogenen Kamm im Urzeitsudf."
+    },
+    "carnotaurus-01": {
+      "title": "Carnotaurus",
+      "description": "Ein Carnotaurus mit stierhornartigen Hörnern in dynamischer Laufpose."
+    },
+    "dino-volcano-01": {
+      "title": "Dinosaurier am Vulkan",
+      "description": "Ein ausbrecher Vulkan mit Dinosauriern, die durch einen Urwald fliehen."
+    },
+    "narwhal-01": {
+      "title": "Narwal",
+      "description": "Ein niedlicher Narwal mit langem Spiralzahn schwimmt zwischen Fischen und leuchtenden Meerespflanzen."
+    },
+    "manta-ray-01": {
+      "title": "Mantarochen",
+      "description": "Ein majestätischer Mantarochen gleitet anmutig über ein Korallenriff."
+    },
+    "pirate-ship-01": {
+      "title": "Piratenschiff",
+      "description": "Ein detailliertes Piratenschiff mit Segeln, Totenkopfflagge, Kanonen auf rauer See."
+    },
+    "gingerbread-house-01": {
+      "title": "Lebkuchenhaus",
+      "description": "Ein Lebkuchenhaus mit Zuckerstangen, Lutscher, Zuckerguss und einem Kekspfad."
+    },
+    "three-pigs-01": {
+      "title": "Drei kleine Schweinchen",
+      "description": "Drei kleine Schweinchen vor ihren Häusern aus Stroh, Holz und Ziegel, der Wolf schaut zu."
+    },
+    "jack-beanstalk-01": {
+      "title": "Jack und die Bohnenranke",
+      "description": "Jack klettert eine riesige Bohnenranke durch Wolken mit einem Riesenschloss oben."
+    },
+    "ramen-01": {
+      "title": "Ramen-Schüssel",
+      "description": "Eine dampfende Schüssel Ramen mit Nudeln, Ei, Gemüse und Stäbchen."
+    },
+    "taco-01": {
+      "title": "Tacos",
+      "description": "Drei Tacos gefüllt mit Fleisch, Salat, Tomate und Käse mit einer Limettenscheibe."
+    },
+    "smoothie-01": {
+      "title": "Frucht-Smoothie",
+      "description": "Ein hohes Smoothie-Glas mit Strohhalm, umgeben von Erdbeeren, Banane und Mango."
+    },
+    "yoga-01": {
+      "title": "Yoga",
+      "description": "Ein Kind in der Yoga-Baumposa steht einbeinig auf einer Matte in der Natur."
+    },
+    "ice-skating-01": {
+      "title": "Schlittschuhlaufen",
+      "description": "Ein Kind mit Schal läuft Schlittschuh auf einem Teich mit schneebedeckten Bäumen ringsum."
+    },
+    "rowing-01": {
+      "title": "Rudern",
+      "description": "Ein Kind rudert ein Holzboot auf einem ruhigen See, mit Enten und Seerosen."
+    },
+    "eiffel-tower-01": {
+      "title": "Eiffelturm",
+      "description": "Der ikonische Eiffelturm mit Gitterkonstruktion, der Seine und Boulevardbäumen."
+    },
+    "colosseum-01": {
+      "title": "Kolosseum",
+      "description": "Das antike römische Kolosseum mit Rundbögen und detailliertem Mauerwerk."
+    },
+    "igloo-01": {
+      "title": "Iglu",
+      "description": "Ein traditionelles Iglu aus Eisblöcken in der Arktis mit Nordlichtern und einem Eisbären."
+    },
+    "superhero-costume-01": {
+      "title": "Superheldenkosom",
+      "description": "Ein Superheldenkosom mit Umhang, Maske, Stiefeln und Brustemblem auf einer Schaufensterpuppe."
+    },
+    "witch-halloween-01": {
+      "title": "Hexenkostüm",
+      "description": "Ein Halloween-Hexenkostüm mit Spitzhut, Umhang, gestreiftem Kleid und Besen."
+    },
+    "fairy-costume-01": {
+      "title": "Feenkostüm",
+      "description": "Ein Feenkostüm mit glitzerndem Tüllrock, Schmetterlingsflügeln, Blumenkranz und Sternstab."
+    },
+    "judge-01": {
+      "title": "Richter",
+      "description": "Ein Richter in Robe und Perücke am Richtertisch mit Hammer und Gesetzesbüchern."
+    },
+    "musician-01": {
+      "title": "Musiker",
+      "description": "Ein Musiker auf einem Hocker spielt Gitarre auf einer kleinen Bühne mit Noten ringsum."
+    },
+    "sailor-01": {
+      "title": "Matrose",
+      "description": "Ein freundlicher Matrose in Uniform auf dem Schiffsdeck schaut mit einem Teleskop aufs Meer."
     }
   }
 }

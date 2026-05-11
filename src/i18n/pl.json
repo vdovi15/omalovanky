@@ -769,6 +769,162 @@
     "artist-01": {
       "title": "Malarz",
       "description": "Malarz w berecie maluje pejzaż przy sztaludze z paletą i pędzlami."
+    },
+    "dog-01": {
+      "title": "Pies",
+      "description": "Przyjazny pies z merdającym ogonem, zwisającymi uszami i obrożą siedzi szczęśliwie."
+    },
+    "butterfly-01": {
+      "title": "Motyl",
+      "description": "Piękny motyl z dużymi symetrycznymi skrzydłami z wzorami siedzi na kwiatku."
+    },
+    "hedgehog-01": {
+      "title": "Jeżyk",
+      "description": "Uroczy jeżyk niosący grzyba na plecach spaceruje przez jesienny las pełen liści."
+    },
+    "motorbike-01": {
+      "title": "Motocykl",
+      "description": "Fajny motocykl z dobitnymi kołami, rurami wydechowymi, kierownicą i reflektorem."
+    },
+    "truck-01": {
+      "title": "Ciężarówka",
+      "description": "Duża, przyjazna ciężarówka z kabiną, dużymi kołami i przestrzenią ładunkową."
+    },
+    "vintage-car-01": {
+      "title": "Zabytkowy samochód",
+      "description": "Klasyczny zabytkowy samochód z lat 20. z okrągłymi reflektorami i szprychowymi kołami."
+    },
+    "snow-queen-01": {
+      "title": "Królowa Śniegu",
+      "description": "Lodowa królowa w szatach ze śnieżynkami z wysoką lodową koroną i wirowymi płatkami śniegu."
+    },
+    "princess-tower-01": {
+      "title": "Księżniczka w wieży",
+      "description": "Księżniczka z długimi włosami wychyla się z okna kamiennej wieży owiniętej różami."
+    },
+    "dragon-princess-01": {
+      "title": "Księżniczka z smokiem",
+      "description": "Dzielna księżniczka w zbroi jedzie na przyjaznym smoku wysoko nad chmurami."
+    },
+    "lotus-01": {
+      "title": "Lotos",
+      "description": "Piękny lotos kwitnący na spokojnym stawie z liśćmi lilii wodnych i małą żabką."
+    },
+    "poppy-01": {
+      "title": "Maki",
+      "description": "Pole maków z motylem i pszczołą odwiedzającymi kwiaty i pagórkami w tle."
+    },
+    "greenhouse-01": {
+      "title": "Szklarnia z roślinami",
+      "description": "Wnętrze szklarni pełnej tropikalnych roślin, zwisających lian i doniczkowych kwiatów."
+    },
+    "ufo-01": {
+      "title": "UFO",
+      "description": "Latający talerz unosi się nad polem nocą z wiązką światła i ciekawą krową poniżej."
+    },
+    "space-shuttle-01": {
+      "title": "Prom kosmiczny",
+      "description": "Prom kosmiczny startuje z wyrzutni z odpalającymi rakietami i chmurami dymu."
+    },
+    "nebula-01": {
+      "title": "Kolorowa mgławica",
+      "description": "Piękna kosmiczna mgławica z wirującymi obłokami gazu, jasnymi gwiazdami i odległymi galaktykami."
+    },
+    "parasaurolophus-01": {
+      "title": "Parasaurolophus",
+      "description": "Parasaurolophus z charakterystycznym wygiętym grzebieniem wędruje przez prehistoryczne mokradła."
+    },
+    "carnotaurus-01": {
+      "title": "Carnotaurus",
+      "description": "Carnotaurus z rogami przypominającymi byka w dynamicznej pozie biegnącej przez prehistoryczny krajobraz."
+    },
+    "dino-volcano-01": {
+      "title": "Dinozaury przy wulkanie",
+      "description": "Dramatyczna scena z erupcją wulkanu i dinozaurami uciekającymi przez prehistoryczną dżunglę."
+    },
+    "narwhal-01": {
+      "title": "Narwal",
+      "description": "Uroczy narwal z długim spiralnym ciosem pływa wśród ryb i świecących roślin morskich."
+    },
+    "manta-ray-01": {
+      "title": "Płaszczka manta",
+      "description": "Majestatyczna płaszczka manta ślizga się gracją nad rafą koralową z rybkami u boku."
+    },
+    "pirate-ship-01": {
+      "title": "Statek piracki",
+      "description": "Szczegółowy statek piracki z żaglami, flagą z czaszką, armatami i linami na wzburzonym morzu."
+    },
+    "gingerbread-house-01": {
+      "title": "Piernikowy domek",
+      "description": "Piernikowy domek ozdobiony cukierkami, lizakami, lukrem i ścieżką z ciasteczek."
+    },
+    "three-pigs-01": {
+      "title": "Trzy świnki",
+      "description": "Trzy świnki stoją przed swoimi domkami ze słomy, drewna i cegły, wilk patrzy z krzaków."
+    },
+    "jack-beanstalk-01": {
+      "title": "Jaś i łodyga fasoli",
+      "description": "Jaś wspina się po ogromnej łodydze fasoli przez chmury z zamkiem olbrzyma na górze."
+    },
+    "ramen-01": {
+      "title": "Miska ramen",
+      "description": "Parująca miska ramen z makaronem, jajkiem, warzywami i pałeczkami."
+    },
+    "taco-01": {
+      "title": "Tacos",
+      "description": "Trzy tacos wypełnione mięsem, sałatą, pomidorem i serem z plasterkiem limonki."
+    },
+    "smoothie-01": {
+      "title": "Owocowe smoothie",
+      "description": "Wysoka szklanka smoothie ze słomką otoczona truskawkami, bananem i mango."
+    },
+    "yoga-01": {
+      "title": "Joga",
+      "description": "Dziecko w pozycji jogi drzewa stoi na jednej nodze na macie z naturą wokół."
+    },
+    "ice-skating-01": {
+      "title": "Łyżwiarstwo",
+      "description": "Dziecko w szaliku jeździ na łyżwach na zamarzniętym stawie z zaśnieżonymi drzewami."
+    },
+    "rowing-01": {
+      "title": "Wiosłowanie",
+      "description": "Dziecko wiosłuje drewnianą łódką na spokojnym jeziorze z kaczkami i liliami wodnymi."
+    },
+    "eiffel-tower-01": {
+      "title": "Wieża Eiffla",
+      "description": "Ikoniczna Wieża Eiffla z ażurową konstrukcją, Sekwaną i drzewami bulwarów."
+    },
+    "colosseum-01": {
+      "title": "Koloseum",
+      "description": "Starożytne rzymskie Koloseum z łukowymi arkadami i szczegółowym murem."
+    },
+    "igloo-01": {
+      "title": "Igloo",
+      "description": "Tradycyjne igloo z lodowych bloków w arktycznym krajobrazie z zorzą polarną i niedźwiedziem."
+    },
+    "superhero-costume-01": {
+      "title": "Kostium superbohatera",
+      "description": "Kostium superbohatera z peleryną, maską, butami i emblematem na klatce piersiowej."
+    },
+    "witch-halloween-01": {
+      "title": "Kostium czarownicy",
+      "description": "Halloweenowy kostium czarownicy z wysokim kapeluszem, peleryną, w paski sukienką i miotłą."
+    },
+    "fairy-costume-01": {
+      "title": "Kostium wróżki",
+      "description": "Kostium wróżki z brokatową spódniczką tutu, przezroczystymi skrzydłami, wieńcem i gwiazdkową różdżką."
+    },
+    "judge-01": {
+      "title": "Sędzia",
+      "description": "Sędzia w todze i peruce przy ławie sędziowskiej z młotkiem i księgami prawa."
+    },
+    "musician-01": {
+      "title": "Muzyk",
+      "description": "Muzyk na stołku gra na gitarze akustycznej na małej scenie z nutami unoszącymi się wokół."
+    },
+    "sailor-01": {
+      "title": "Marynarz",
+      "description": "Przyjazny marynarz w mundurze na pokładzie statku patrzy przez teleskop na morze z mewami."
     }
   }
 }
