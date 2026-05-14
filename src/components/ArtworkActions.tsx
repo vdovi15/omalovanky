@@ -47,8 +47,20 @@ export function ArtworkActions({ imageUrl, title, detailHref, compact = false, d
       ? imageUrl
       : `${window.location.origin}${imageUrl}`;
 
+    track.print(imageUrl, title);
+
+    // Open a new window with just the image — must be synchronous (direct click)
+    // so iOS Safari allows it. The onload in the new window triggers print.
+    const win = window.open("", "_blank");
+    if (win) {
+      win.document.write(`<!doctype html><html><head><title>${title}</title><style>*{margin:0;padding:0;box-sizing:border-box}@page{margin:10mm}body{display:flex;align-items:center;justify-content:center;min-height:100vh;background:#fff}img{max-width:100%;max-height:100vh;object-fit:contain;display:block}</style></head><body><img src="${absoluteUrl}" alt="${title}" onload="window.print()" /></body></html>`);
+      win.document.close();
+      return;
+    }
+
+    // Fallback for popup blockers: @media print CSS injection
     const style = document.createElement("style");
-    style.innerHTML = `@media print { @page { margin: 10mm; } body > *:not(#__pf__) { display: none !important; } html, body { height: auto !important; overflow: hidden !important; margin: 0 !important; padding: 0 !important; } #__pf__ { display: flex !important; align-items: center !important; justify-content: center !important; width: 100% !important; } #__pf__ img { max-width: 100% !important; height: auto !important; } }`;
+    style.innerHTML = `@media print{@page{margin:10mm}body>*:not(#__pf__){display:none!important}html,body{height:auto!important;overflow:hidden!important;margin:0!important;padding:0!important}#__pf__{display:flex!important;align-items:center!important;justify-content:center!important;width:100%!important}#__pf__ img{max-width:100%!important;height:auto!important}}`;
     document.head.appendChild(style);
 
     const el = document.createElement("div");
@@ -69,7 +81,6 @@ export function ArtworkActions({ imageUrl, title, detailHref, compact = false, d
     img.onload = () => {
       el.appendChild(img);
       window.addEventListener("afterprint", cleanup);
-      track.print(imageUrl, title);
       window.print();
     };
 
