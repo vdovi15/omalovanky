@@ -925,6 +925,214 @@
     "sailor-01": {
       "title": "Matrose",
       "description": "Ein freundlicher Matrose in Uniform auf dem Schiffsdeck schaut mit einem Teleskop aufs Meer."
+    },
+    "squirrel-01": {
+      "title": "Eichhörnchen",
+      "description": "Ein niedliches Eichhörnchen mit buschigem Schwanz sitzt auf einem Ast und hält eine Eichel."
+    },
+    "duck-01": {
+      "title": "Ente mit Entenküken",
+      "description": "Eine Mama-Ente geht mit drei niedlichen Entenküken zu einem Teich."
+    },
+    "bear-01": {
+      "title": "Bär am Fluss",
+      "description": "Ein detaillierter Braunbär fängt einen Lachs im Fluss mit Bergen im Hintergrund."
+    },
+    "tiger-01": {
+      "title": "Tiger im Dschungel",
+      "description": "Ein detaillierter Tiger mit Streifen läuft durch hohes tropisches Dschungelgras."
+    },
+    "ice-cream-truck-01": {
+      "title": "Eiswagen",
+      "description": "Ein fröhlicher Eiswagen mit einer riesigen Eistüte oben drauf und Kindern in der Schlange."
+    },
+    "tow-truck-01": {
+      "title": "Abschleppauto",
+      "description": "Ein freundliches Abschleppauto mit Kranarm schleppt ein liegengebliebenes Fahrzeug."
+    },
+    "airplane-01": {
+      "title": "Flugzeug",
+      "description": "Ein detailliertes Passagierflugzeug fliegt durch Wolken mit Triebwerken und Kondensstreifen."
+    },
+    "cruise-ship-01": {
+      "title": "Kreuzfahrtschiff",
+      "description": "Ein großes Kreuzfahrtschiff mit mehreren Decks und Rettungsbooten auf ruhigem Ozean."
+    },
+    "princess-birthday-01": {
+      "title": "Geburtstagsrpinzessin",
+      "description": "Eine Prinzessin feiert Geburtstag neben einer großen Torte mit Kerzen und Luftballons."
+    },
+    "baby-fairy-01": {
+      "title": "Kleine Fee",
+      "description": "Eine kleine Babyfee sitzt in einer Blume mit Flügeln und einem kleinen Stern."
+    },
+    "mermaid-kingdom-01": {
+      "title": "Meerkönigsreich",
+      "description": "Ein Unterwasser-Meerkönigreich mit einem Korallpalast und bunten Fischen."
+    },
+    "witch-potion-01": {
+      "title": "Hexe mit Zaubertrank",
+      "description": "Eine freundliche Hexe rührt einen blubbernden Kessel mit magischem Rauch."
+    },
+    "dandelion-01": {
+      "title": "Löwenzahn",
+      "description": "Ein Löwenzahn in zwei Phasen — gelbe Blüte und weiße Pusteblume — mit Samen im Wind."
+    },
+    "carnation-01": {
+      "title": "Nelken",
+      "description": "Ein kleiner Strauß Nelken mit gezackten Blütenblättern, langen Stielen und Schleife."
+    },
+    "botanical-garden-01": {
+      "title": "Botanischer Garten",
+      "description": "Ein detaillierter botanischer Garten mit exotischen Pflanzen, Orchideen und einem Teich."
+    },
+    "flower-crown-01": {
+      "title": "Blumenkranz",
+      "description": "Ein detaillierter Blumenkranz mit Gänseblümchen, Rosen und Lavendel mit Bändern."
+    },
+    "shooting-star-01": {
+      "title": "Sternschnuppe",
+      "description": "Eine Sternschnuppe über einem Nachthimmel mit einem Kind auf einem Hügel, das einen Wunsch macht."
+    },
+    "jupiter-01": {
+      "title": "Jupiter",
+      "description": "Planet Jupiter mit wirbelnden Wolkenbändern, dem Großen Roten Fleck und seinen Monden."
+    },
+    "black-hole-01": {
+      "title": "Schwarzes Loch",
+      "description": "Ein dramatisches schwarzes Loch mit glühender Akkretionsscheibe und verzerrten Sternen."
+    },
+    "space-colony-01": {
+      "title": "Weltraumkolonie",
+      "description": "Eine detaillierte Weltraumkolonie auf einem Mond mit Kuppeln und Astronauten."
+    },
+    "baby-dino-01": {
+      "title": "Baby-Dinosaurier",
+      "description": "Ein niedliches Baby-Dinosaurier, das gerade geschlüpft ist, sitzt neben seiner Eierschale."
+    },
+    "plesiosaurus-01": {
+      "title": "Plesiosaurus",
+      "description": "Ein freundlicher Plesiosaurus mit sehr langem Hals schwimmt im urzeitlichen Ozean."
+    },
+    "dino-fight-01": {
+      "title": "Dinosaurier-Showdown",
+      "description": "Ein dramatischer Showdown zwischen T-Rex und Triceratops auf einer Lichtung."
+    },
+    "prehistoric-scene-01": {
+      "title": "Urzeitlandschaft",
+      "description": "Eine detaillierte urzeitliche Panorama mit Brachiosaurus, Triceratops und Vulkan."
+    },
+    "clownfish-01": {
+      "title": "Clownfisch",
+      "description": "Ein niedlicher Clownfisch guckt aus einer Seeanemone mit Blasen und Korallen."
+    },
+    "starfish-01": {
+      "title": "Seestern",
+      "description": "Ein freundlicher Seestern auf einem Sandmeeresgrund mit Muscheln und kleinen Krabben."
+    },
+    "submarine-01": {
+      "title": "U-Boot",
+      "description": "Ein detailliertes gelbes U-Boot mit Bullaugen und Fischen, die nebenher schwimmen."
+    },
+    "ocean-storm-01": {
+      "title": "Meeressturm",
+      "description": "Ein dramatischer Sturm mit Wellen, Leuchtturmstrahl, Blitzen und einem kleinen Boot."
+    },
+    "magic-lamp-01": {
+      "title": "Zauberlampe",
+      "description": "Eine Zauberlampe mit einem freundlichen Dschinn aus Rauch und Funkeln drumherum."
+    },
+    "flying-carpet-01": {
+      "title": "Fliegender Teppich",
+      "description": "Ein Zauberteppich fliegt durch eine sternenklare arabische Nacht mit zwei Kindern."
+    },
+    "giant-01": {
+      "title": "Riese im Märchen",
+      "description": "Ein freundlicher Riese, dessen Kopf über den Wolken ragt, lächelt auf ein winziges Dorf hinab."
+    },
+    "enchanted-castle-01": {
+      "title": "Verzaubertes Schloss",
+      "description": "Ein dramatisches verzaubertes Schloss mit magischen Ranken und leuchtenden Lichtkugeln."
+    },
+    "sandwich-01": {
+      "title": "Sandwich",
+      "description": "Ein hohes gestapeltes Sandwich mit Salat, Tomate, Käse und Chips daneben."
+    },
+    "popcorn-01": {
+      "title": "Popcorn",
+      "description": "Ein großer gestreifter Kinoeimer, der mit fluffigem Popcorn überläuft."
+    },
+    "feast-table-01": {
+      "title": "Festtafel",
+      "description": "Eine große Festtafel mit vielen Gerichten — Braten, Kuchen, Obst und Kerzen."
+    },
+    "candy-store-01": {
+      "title": "Süßwarenladen",
+      "description": "Ein detaillierter Süßwarenladen mit Gläsern voller Bonbons und einem Kind beim Auswählen."
+    },
+    "running-01": {
+      "title": "Laufen",
+      "description": "Ein Kind läuft ein Rennen auf einer Bahn auf ein Zielband zu, mit jubelnden Zuschauern."
+    },
+    "long-jump-01": {
+      "title": "Weitsprung",
+      "description": "Ein Kind springt vom Absprungbalken in eine Sandgrube vor Zuschauern."
+    },
+    "climbing-01": {
+      "title": "Klettern",
+      "description": "Ein detaillierter Kletterer erklimmt eine Felswand mit Helm, Gurt und Seil."
+    },
+    "surfing-01": {
+      "title": "Surfen",
+      "description": "Ein Surfer reitet auf einer großen Welle auf einem Surfbrett mit ausgestreckten Armen."
+    },
+    "barn-01": {
+      "title": "Scheune",
+      "description": "Eine klassische rote Scheune mit Wetterhahn, Heuball, Traktor und Tieren."
+    },
+    "cottage-01": {
+      "title": "Märchenhäuschen",
+      "description": "Ein gemütliches Häuschen mit Strohdach, Kaminsrauch, Blumenkästen und Brunnen."
+    },
+    "skyscraper-01": {
+      "title": "Wolkenkratzer",
+      "description": "Ein sehr hoher Glaswolkenkratzer mit vielen Stockwerken und Menschen unten."
+    },
+    "pagoda-01": {
+      "title": "Pagode",
+      "description": "Eine detaillierte asiatische Pagode mit geschwungenen Dächern, Laternen und Karpfenteich."
+    },
+    "party-dress-01": {
+      "title": "Partykleid",
+      "description": "Ein buntes Partykleid mit Puffrock, Schleife, Rüschen und Punkten auf einer Schaufensterpuppe."
+    },
+    "boots-collection-01": {
+      "title": "Stiefelkollektion",
+      "description": "Eine Kollektion verschiedener Stiefel — Cowboy, Gummi, Schnee, Knöchel und Ballerinas."
+    },
+    "knight-armor-01": {
+      "title": "Ritterrüstung",
+      "description": "Detaillierte mittelalterliche Ritterrüstung mit Helm, Brustpanzer, Schwert und Schild."
+    },
+    "viking-costume-01": {
+      "title": "Wikingerkostüm",
+      "description": "Ein detailliertes Wikingerkostüm mit Gehörntem Helm, Kettenhemd, Schild und Axt."
+    },
+    "postman-01": {
+      "title": "Postbote",
+      "description": "Ein freundlicher Postbote liefert einen Brief mit Posttasche und rotem Fahrrad."
+    },
+    "gardener-01": {
+      "title": "Gärtner",
+      "description": "Ein fröhlicher Gärtner in Sonnenhut und Schürze pflegt Blumen mit Gießkanne."
+    },
+    "architect-01": {
+      "title": "Architekt",
+      "description": "Ein Architekt am Zeichentisch mit Bauplänen, Bleistift und einem Gebäudemodell."
+    },
+    "astronomer-01": {
+      "title": "Astronom",
+      "description": "Ein Astronom am Teleskop in einem Observatorium bei Nacht mit Sternenkarten."
     }
   }
 }

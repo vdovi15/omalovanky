@@ -813,6 +813,214 @@
     "sailor-01": {
       "title": "Námořník",
       "description": "Přátelský námořník v uniformě na palubě lodi hledí dalekohledem na moře s racky."
+    },
+    "squirrel-01": {
+      "title": "Veverka",
+      "description": "Roztomilá veverka s velkým ocasem sedí na větvi a drží žalud."
+    },
+    "duck-01": {
+      "title": "Kachna s kachňaty",
+      "description": "Kachna kráčí se třemi kachňaty směrem k rybníčku."
+    },
+    "bear-01": {
+      "title": "Medvěd u řeky",
+      "description": "Detailní medvěd chytá lososa v řece s horami v pozadí."
+    },
+    "tiger-01": {
+      "title": "Tygr v džungli",
+      "description": "Detailní tygr s pruhy prochází vysokou tropickou džunglovou trávou."
+    },
+    "ice-cream-truck-01": {
+      "title": "Auto se zmrzlinou",
+      "description": "Veselé auto se zmrzlinou s obří zmrzlinou nahoře a dětmi ve frontě."
+    },
+    "tow-truck-01": {
+      "title": "Odtahové auto",
+      "description": "Přátelské odtahové auto s jeřábovým ramenem odtahuje malé auto s poruchou."
+    },
+    "airplane-01": {
+      "title": "Letadlo",
+      "description": "Detailní osobní letadlo letí přes mraky s motory a kondenzačním pruhem."
+    },
+    "cruise-ship-01": {
+      "title": "Výletní loď",
+      "description": "Velká výletní loď s mnoha palubami a záchrannými čluny na klidném moři."
+    },
+    "princess-birthday-01": {
+      "title": "Narozeninová princezna",
+      "description": "Princezna slaví narozeniny u velkého dortu se svíčkami a balónky."
+    },
+    "baby-fairy-01": {
+      "title": "Malá víla",
+      "description": "Malá roztomilá víla sedí v kvetoucí květině s křídly a hvězdičkou."
+    },
+    "mermaid-kingdom-01": {
+      "title": "Mořské království",
+      "description": "Podmořské mořské království s korálovým palácem a barevnými rybami."
+    },
+    "witch-potion-01": {
+      "title": "Čarodějnice s lektvarem",
+      "description": "Přátelská čarodějnice míchá velký bublající kotel s kouzelným kouřem."
+    },
+    "dandelion-01": {
+      "title": "Pampeliška",
+      "description": "Pampeliška ve dvou fázích — žlutý květ a bílé chmýří — se semenky ve větru."
+    },
+    "carnation-01": {
+      "title": "Karafiáty",
+      "description": "Kytice karafiátů se zvlněnými okvětními lístky, dlouhými stonky a stužkou."
+    },
+    "botanical-garden-01": {
+      "title": "Botanická zahrada",
+      "description": "Detailní botanická zahrada s tropickými rostlinami, orchidejemi a rybníčkem."
+    },
+    "flower-crown-01": {
+      "title": "Věnec z květin",
+      "description": "Detailní věnec ze sedmikrásek, růží a levandule propletených se stužkami."
+    },
+    "shooting-star-01": {
+      "title": "Padající hvězda",
+      "description": "Padající hvězda na noční obloze a dítě na kopci si přeje."
+    },
+    "jupiter-01": {
+      "title": "Jupiter",
+      "description": "Planeta Jupiter s vířícími mraky, Velkým červeným skvrncem a měsíci."
+    },
+    "black-hole-01": {
+      "title": "Černá díra",
+      "description": "Dramatická černá díra se žhnoucím akretním diskem a deformovanými hvězdami."
+    },
+    "space-colony-01": {
+      "title": "Vesmírná kolonie",
+      "description": "Detailní vesmírná kolonie na povrchu měsíce s kupolemi a astronauty."
+    },
+    "baby-dino-01": {
+      "title": "Dinosauří mládě",
+      "description": "Roztomilé dinosauří mládě právě vylíhnuté sedí u rozpraskané skořápky."
+    },
+    "plesiosaurus-01": {
+      "title": "Plesiosaurus",
+      "description": "Přátelský Plesiosaurus s velmi dlouhým krkem plave v pravěkém oceánu."
+    },
+    "dino-fight-01": {
+      "title": "Souboj dinosaurů",
+      "description": "Dramatický souboj T-Rexe a Triceratopse v pravěké mýtině."
+    },
+    "prehistoric-scene-01": {
+      "title": "Pravěká krajina",
+      "description": "Detailní pravěká panorama s Brachiosaurem, Triceratopsy a sopkou."
+    },
+    "clownfish-01": {
+      "title": "Klaun ryba",
+      "description": "Roztomilá klaun ryba vykukuje ze sasanky s bublinkami a korálem."
+    },
+    "starfish-01": {
+      "title": "Hvězdice",
+      "description": "Přátelská hvězdice na písčitém mořském dně s mušlemi a malými kraby."
+    },
+    "submarine-01": {
+      "title": "Ponorka",
+      "description": "Detailní žlutá ponorka s iluminátoři a rybami plavajícími kolem."
+    },
+    "ocean-storm-01": {
+      "title": "Bouře na moři",
+      "description": "Dramatická bouře s vlnami, paprskem majáku, blesky a malou lodí."
+    },
+    "magic-lamp-01": {
+      "title": "Kouzelná lampa",
+      "description": "Kouzelná lampa s přátelským džinem vycházejícím z kouře s kouzelným třpytem."
+    },
+    "flying-carpet-01": {
+      "title": "Kouzelný koberec",
+      "description": "Kouzelný koberec letí hvězdnou arabskou nocí s dvěma dětmi."
+    },
+    "giant-01": {
+      "title": "Obr v pohádce",
+      "description": "Přátelský obr s hlavou nad mraky se usměvavě dívá na maličkou vesnici dole."
+    },
+    "enchanted-castle-01": {
+      "title": "Začarovaný zámek",
+      "description": "Dramatický začarovaný zámek porostlý magickými popínavkami a světelnými koulemi."
+    },
+    "sandwich-01": {
+      "title": "Sendvič",
+      "description": "Vysoký vrstvený sendvič se salátem, rajčetem, sýrem a hranolky vedle."
+    },
+    "popcorn-01": {
+      "title": "Popcorn",
+      "description": "Velký pruhovaný kinematografický kbelík přetékající nadýchanými kousky popcornu."
+    },
+    "feast-table-01": {
+      "title": "Slavnostní stůl",
+      "description": "Velký slavnostní stůl plný jídel — pečeně, koláče, ovoce a svíčky."
+    },
+    "candy-store-01": {
+      "title": "Cukrárna",
+      "description": "Detailní cukrárna s regály plnými bonbonů a dítětem vybírajícím sladkosti."
+    },
+    "running-01": {
+      "title": "Běh",
+      "description": "Dítě běží závod na dráze k cílovému pásku s jásajícími diváky."
+    },
+    "long-jump-01": {
+      "title": "Skok do dálky",
+      "description": "Dítě skáče z odrazového prkna do pískoviště před diváky."
+    },
+    "climbing-01": {
+      "title": "Horolezectví",
+      "description": "Detailní horolezec šplhá po skalní stěně s helmou, lanovým systémem a horskou krajinou."
+    },
+    "surfing-01": {
+      "title": "Surfování",
+      "description": "Surfař jede na velké vlně na prkně s roztaženými pažemi."
+    },
+    "barn-01": {
+      "title": "Stodola",
+      "description": "Klasická červená stodola s kohoutem na větrné korouhvi a zvířaty."
+    },
+    "cottage-01": {
+      "title": "Pohádková chaloupka",
+      "description": "Útulná chaloupka se slaměnou střechou, komínem, truhlíky a studnou."
+    },
+    "skyscraper-01": {
+      "title": "Mrakodrap",
+      "description": "Velmi vysoký skleněný mrakodrap s mnoha podlažími a lidmi na ulici."
+    },
+    "pagoda-01": {
+      "title": "Pagoda",
+      "description": "Detailní asijská pagoda s vrstvenými střechami, lucernami, třešní a rybníkem s kapry."
+    },
+    "party-dress-01": {
+      "title": "Šaty na párty",
+      "description": "Barevné šaty na párty s nabíranou sukní, mašlí a puntíky na figuríně."
+    },
+    "boots-collection-01": {
+      "title": "Kolekce bot",
+      "description": "Kolekce různých bot — kovbojské, holínky, sněhule, kotníkové a balerínky."
+    },
+    "knight-armor-01": {
+      "title": "Rytířská zbroj",
+      "description": "Detailní středověká rytířská zbroj s přilbou, pancířem, mečem a erbovním štítem."
+    },
+    "viking-costume-01": {
+      "title": "Vikingský kostým",
+      "description": "Detailní vikingský kostým s rohatou přilbou, kroužkovou košilí, štítem a sekerou."
+    },
+    "postman-01": {
+      "title": "Poštovní doručovatel",
+      "description": "Přátelský poštovní doručovatel doručuje dopis s taškou a červeným kolem."
+    },
+    "gardener-01": {
+      "title": "Zahradník",
+      "description": "Veselý zahradník v klobouku a zástěře pečuje o zahradu s konví a kolečkem."
+    },
+    "architect-01": {
+      "title": "Architekt",
+      "description": "Architekt u rýsovacího stolu s plány, tužkou a modelem budovy vedle."
+    },
+    "astronomer-01": {
+      "title": "Astronom",
+      "description": "Astronom u velkého dalekohledu v observatoři v noci s hvězdnými mapami."
     }
   }
 }

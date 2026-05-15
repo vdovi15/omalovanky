@@ -925,6 +925,214 @@
     "sailor-01": {
       "title": "Marynarz",
       "description": "Przyjazny marynarz w mundurze na pokładzie statku patrzy przez teleskop na morze z mewami."
+    },
+    "squirrel-01": {
+      "title": "Wiewiórka",
+      "description": "Uroczy wiewiórka z puszystym ogonem siedzi na gałęzi i trzyma żołądź."
+    },
+    "duck-01": {
+      "title": "Kaczka z kaczątkami",
+      "description": "Mama kaczka idzie z trzema uroczymi kaczątkami w stronę stawu."
+    },
+    "bear-01": {
+      "title": "Niedźwiedź przy rzece",
+      "description": "Szczegółowy brązowy niedźwiedź łowi łososia w rzece z górami w tle."
+    },
+    "tiger-01": {
+      "title": "Tygrys w dżungli",
+      "description": "Szczegółowy tygrys w paski idzie przez wysoką tropikalną trawę dżungli."
+    },
+    "ice-cream-truck-01": {
+      "title": "Samochód z lodami",
+      "description": "Wesoły samochód z lodami z wielkim rogalem na dachu i dziećmi w kolejce."
+    },
+    "tow-truck-01": {
+      "title": "Samochód holowniczy",
+      "description": "Przyjazny samochód holowniczy z ramieniem żurawia holuje zepsute auto."
+    },
+    "airplane-01": {
+      "title": "Samolot",
+      "description": "Szczegółowy samolot pasażerski leci przez chmury z silnikami i smugą kondensacyjną."
+    },
+    "cruise-ship-01": {
+      "title": "Statek wycieczkowy",
+      "description": "Duży statek wycieczkowy z wieloma pokładami i szalupami na spokojnym oceanie."
+    },
+    "princess-birthday-01": {
+      "title": "Księżniczka urodzinowa",
+      "description": "Księżniczka świętuje urodziny przy dużym torcie ze świeczkami i balonami."
+    },
+    "baby-fairy-01": {
+      "title": "Mała wróżka",
+      "description": "Mała wróżka siedzi w kwiecie ze skrzydłami i gwiazdką."
+    },
+    "mermaid-kingdom-01": {
+      "title": "Królestwo syren",
+      "description": "Podwodne królestwo syren z koralowym pałacem i kolorowymi rybami."
+    },
+    "witch-potion-01": {
+      "title": "Czarownica z eliksirem",
+      "description": "Przyjazna czarownica miesza bulgoczący kocioł z magicznym dymem."
+    },
+    "dandelion-01": {
+      "title": "Mniszek lekarski",
+      "description": "Mniszek w dwóch fazach — żółty kwiat i biały puch — z nasionami w wietrze."
+    },
+    "carnation-01": {
+      "title": "Goździki",
+      "description": "Mały bukiet goździków z fryzowanymi płatkami, długimi łodygami i wstążką."
+    },
+    "botanical-garden-01": {
+      "title": "Ogród botaniczny",
+      "description": "Szczegółowy ogród botaniczny z egzotycznymi roślinami, orchideami i stawem."
+    },
+    "flower-crown-01": {
+      "title": "Wieniec z kwiatów",
+      "description": "Szczegółowy wieniec z stokrotek, róż i lawendy przeplatanych wstążkami."
+    },
+    "shooting-star-01": {
+      "title": "Spadająca gwiazda",
+      "description": "Spadająca gwiazda na nocnym niebie z dzieckiem na wzgórzu spełniającym życzenie."
+    },
+    "jupiter-01": {
+      "title": "Jowisz",
+      "description": "Planeta Jowisz z wirowymi pasami chmur, Wielką Czerwoną Plamą i księżycami."
+    },
+    "black-hole-01": {
+      "title": "Czarna dziura",
+      "description": "Dramatyczna czarna dziura ze świecącą tarczą akrecyjną i zniekształconymi gwiazdami."
+    },
+    "space-colony-01": {
+      "title": "Kolonia kosmiczna",
+      "description": "Szczegółowa kolonia kosmiczna na powierzchni księżyca z kopułami i astronautami."
+    },
+    "baby-dino-01": {
+      "title": "Dinozaurze maleństwo",
+      "description": "Uroczy mały dinozaur, który właśnie się wylągł, siedzi przy rozbitej skorupce."
+    },
+    "plesiosaurus-01": {
+      "title": "Plezjozaur",
+      "description": "Przyjazny Plezjozaur z bardzo długą szyją pływa w prehistorycznym oceanie."
+    },
+    "dino-fight-01": {
+      "title": "Starcie dinozaurów",
+      "description": "Dramatyczne starcie T-Rexa i Triceratopsa na prehistorycznej polanie."
+    },
+    "prehistoric-scene-01": {
+      "title": "Prehistoryczny krajobraz",
+      "description": "Szczegółowa prehistoryczna panorama z Brachiozaurem, Triceratopsami i wulkanem."
+    },
+    "clownfish-01": {
+      "title": "Rybka klown",
+      "description": "Uroczy klaun wyziera z ukwiału morskiego z bańkami i koralami wokół."
+    },
+    "starfish-01": {
+      "title": "Rozgwiazda",
+      "description": "Przyjazna rozgwiazda na piaszczystym dnie morskim z muszlami i małymi krabami."
+    },
+    "submarine-01": {
+      "title": "Łódź podwodna",
+      "description": "Szczegółowa żółta łódź podwodna z iluminatorami i rybami obok."
+    },
+    "ocean-storm-01": {
+      "title": "Burza na morzu",
+      "description": "Dramatyczna burza z falami, snopem latarni morskiej, błyskawicami i małą łódką."
+    },
+    "magic-lamp-01": {
+      "title": "Magiczna lampa",
+      "description": "Magiczna lampa z przyjaznym dżinem wyłaniającym się z dymu ze skrami."
+    },
+    "flying-carpet-01": {
+      "title": "Latający dywan",
+      "description": "Magiczny dywan leci przez gwiaździstą arabską noc z dwojgiem dzieci."
+    },
+    "giant-01": {
+      "title": "Olbrzym w bajce",
+      "description": "Przyjazny olbrzym z głową ponad chmurami uśmiecha się do małej wioski poniżej."
+    },
+    "enchanted-castle-01": {
+      "title": "Zaczarowany zamek",
+      "description": "Dramatyczny zaczarowany zamek pokryty magicznymi pnączami i świecącymi światłami."
+    },
+    "sandwich-01": {
+      "title": "Kanapka",
+      "description": "Wysoka warstwowa kanapka z sałatą, pomidorem, serem i chipsami."
+    },
+    "popcorn-01": {
+      "title": "Popcorn",
+      "description": "Duże pasiaste wiaderko kinowe przelewające się puszystym popcornem."
+    },
+    "feast-table-01": {
+      "title": "Stół biesiadny",
+      "description": "Wielki stół biesiadny z wieloma potrawami — pieczenią, ciastami, owocami i świecami."
+    },
+    "candy-store-01": {
+      "title": "Sklep ze słodyczami",
+      "description": "Szczegółowy sklep ze słodyczami z słojami pełnymi cukierków i dzieckiem."
+    },
+    "running-01": {
+      "title": "Bieg",
+      "description": "Dziecko biega w wyścigu na torze do wstęgi mety z kibicującymi widzami."
+    },
+    "long-jump-01": {
+      "title": "Skok w dal",
+      "description": "Dziecko skacze z odskoczni w piasek z widzami na trybunach."
+    },
+    "climbing-01": {
+      "title": "Wspinaczka",
+      "description": "Szczegółowy wspinacz wspina się po skale z kaskiem, uprząrzą i liną."
+    },
+    "surfing-01": {
+      "title": "Surfowanie",
+      "description": "Surfer jedzie na dużej fali na desce z wyciągniętymi ramionami."
+    },
+    "barn-01": {
+      "title": "Stodoła",
+      "description": "Klasyczna czerwona stodoła z kogutkiem na wiatrowskazie i zwierzętami."
+    },
+    "cottage-01": {
+      "title": "Bajkowy domek",
+      "description": "Przytulny domek ze strzechą, dymiącym kominem, skrzynkami kwiatowymi i studnią."
+    },
+    "skyscraper-01": {
+      "title": "Wieżowiec",
+      "description": "Bardzo wysoki szklany wieżowiec z wieloma piętrami i ludźmi na dole."
+    },
+    "pagoda-01": {
+      "title": "Pagoda",
+      "description": "Szczegółowa azjatycka pagoda z zagiętymi dachami, latarniami i stawem z karpiami."
+    },
+    "party-dress-01": {
+      "title": "Sukienka na imprezę",
+      "description": "Kolorowa sukienka na imprezę z balonową spódnicą, kokardą i groszkami."
+    },
+    "boots-collection-01": {
+      "title": "Kolekcja butów",
+      "description": "Kolekcja różnych butów — kowbojskie, gumowe, śniegowe, kostkowei baleriny."
+    },
+    "knight-armor-01": {
+      "title": "Zbroja rycerska",
+      "description": "Szczegółowa średniowieczna zbroja z hełmem, napierśnikiem, mieczem i tarczą."
+    },
+    "viking-costume-01": {
+      "title": "Kostium wikinga",
+      "description": "Szczegółowy kostium wikinga z rogatym hełmem, kolczugą, tarczą i toporem."
+    },
+    "postman-01": {
+      "title": "Listonosz",
+      "description": "Przyjazny listonosz doręcza list z torbą pocztową i czerwonym rowerem."
+    },
+    "gardener-01": {
+      "title": "Ogrodnik",
+      "description": "Wesoły ogrodnik w słomkowym kapeluszu pielęgnuje kwiaty z konewką."
+    },
+    "architect-01": {
+      "title": "Architekt",
+      "description": "Architekt przy desce kreślarskiej z planami, ołówkiem i modelem budynku."
+    },
+    "astronomer-01": {
+      "title": "Astronom",
+      "description": "Astronom przy dużym teleskopie w obserwatorium w nocy z mapami gwiazd."
     }
   }
 }
