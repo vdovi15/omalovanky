@@ -1021,6 +1021,214 @@
     "astronomer-01": {
       "title": "Astronom",
       "description": "Astronom u velkého dalekohledu v observatoři v noci s hvězdnými mapami."
+    },
+    "hamster-01": {
+      "title": "Křeček",
+      "description": "Roztomilý křeček s nafouklými tváříčkami sedí u misky s jídlem."
+    },
+    "chick-01": {
+      "title": "Kuřátko",
+      "description": "Nadýchané kuřátko právě vylíhnuté stojí u rozpraskané skořápky."
+    },
+    "wolf-01": {
+      "title": "Vlk vyjící na měsíc",
+      "description": "Detailní vlk vyje na úplněk na skále s siluetami borovic v pozadí."
+    },
+    "kangaroo-01": {
+      "title": "Klokan s mládětem",
+      "description": "Detailní klokan s malým mládětem v váčku v australské krajině."
+    },
+    "go-kart-01": {
+      "title": "Motokára",
+      "description": "Dítě v přilbě a závodní kombinéze řídí motokáru na závodní dráze."
+    },
+    "jeep-01": {
+      "title": "Jeep",
+      "description": "Terénní jeep s velkými koly jede přes kamenitý terén s džunglí v pozadí."
+    },
+    "hot-air-balloon-01": {
+      "title": "Horkovzdušný balon",
+      "description": "Barevný horkovzdušný balon letí vysoko nad polemi, řekami a lesy."
+    },
+    "racing-truck-01": {
+      "title": "Závodní truck",
+      "description": "Detailní závodní truck s reklamami, spoilerem a závodními koly."
+    },
+    "princess-reading-01": {
+      "title": "Princezna s knihou",
+      "description": "Princezna v krásném šatu čte pohádkovou knihu v pohodlném křesle s kočičkou."
+    },
+    "little-witch-01": {
+      "title": "Malá čarodějka",
+      "description": "Malá roztomilá čarodějka s kloboučkem, koštětem a černou kočičkou."
+    },
+    "fairy-tale-wedding-01": {
+      "title": "Pohádková svatba",
+      "description": "Pohádková svatba s princeznou a princem pod kvetoucím obloukem."
+    },
+    "mermaid-treasure-01": {
+      "title": "Mořská panna s pokladem",
+      "description": "Mořská panna objevuje žhnoucí truhlu pokladu na mořském dně."
+    },
+    "iris-01": {
+      "title": "Kosatce",
+      "description": "Krásné kosatce s typickými zvlněnými okvětními lístky a plochými listy."
+    },
+    "daffodil-01": {
+      "title": "Narcisy",
+      "description": "Veselé narcisy s trumpetovitými středy kvetou v jarní zahradě s motýlem."
+    },
+    "rose-garden-01": {
+      "title": "Růžová zahrada",
+      "description": "Detailní růžová zahrada s kvetoucími keři, kamennou cestou a fontánou."
+    },
+    "flower-market-01": {
+      "title": "Květinový trh",
+      "description": "Detailní venkovní květinový trh s barevnými kyblíky různých květin."
+    },
+    "planet-earth-01": {
+      "title": "Planeta Země",
+      "description": "Planeta Země z vesmíru s kontinenty, mraky nad oceány a Měsícem."
+    },
+    "meteor-shower-01": {
+      "title": "Meteorický déšť",
+      "description": "Krásný meteorický déšť osvětlující noční oblohu nad temnou krajinou."
+    },
+    "wormhole-01": {
+      "title": "Červí díra",
+      "description": "Dramatická červí díra s vířivými energetickými prstenci a vesmírnou lodí."
+    },
+    "space-city-01": {
+      "title": "Vesmírné město",
+      "description": "Futuristické město na vesmírné platformě s věžemi, mosty a kosmickými loděmi."
+    },
+    "dino-family-01": {
+      "title": "Dinosauří rodina",
+      "description": "Dinosauří rodina — máma, táta a mládě — kráčí pravěkou krajinou."
+    },
+    "baby-rex-01": {
+      "title": "Malý T-Rex",
+      "description": "Roztomilý tučný malý T-Rex s maličkými ručičkami a přátelským úsměvem."
+    },
+    "mammoth-01": {
+      "title": "Mamut",
+      "description": "Detailní mamut s dlouhými zahnutými kly v zasněžené krajině doby ledové."
+    },
+    "ice-age-scene-01": {
+      "title": "Doba ledová",
+      "description": "Detailní scéna doby ledové s mamutem, šavlozubým tygrem a pravěkými lidmi."
+    },
+    "seal-01": {
+      "title": "Tuleň",
+      "description": "Roztomilý tuleň odpočívá na kře s velkýma očima v arktickém moři."
+    },
+    "lobster-01": {
+      "title": "Humr",
+      "description": "Přátelský humr na mořském dně s velkými klepety a dlouhými chapadly."
+    },
+    "underwater-city-01": {
+      "title": "Podmořské město",
+      "description": "Detailní podmořské město s kupolovitými budovami, rybami a ponorkami."
+    },
+    "ocean-explorer-01": {
+      "title": "Podmořský průzkumník",
+      "description": "Potápěč prozkoumává korálový útes s rybami, mořskou želvou a rejnokem."
+    },
+    "little-red-01": {
+      "title": "Červená karkulka",
+      "description": "Červená karkulka v červeném plášti s košíkem kráčí lesní stezkou."
+    },
+    "puss-in-boots-01": {
+      "title": "Kocour v botách",
+      "description": "Kocour v botách s péřovým kloboukem, koženými botami a mečem."
+    },
+    "cinderella-01": {
+      "title": "Popelka",
+      "description": "Popelka v třpytivém plášti nastupuje do kouzelného dýňového kočáru."
+    },
+    "seven-dwarfs-01": {
+      "title": "Sněhurka a trpaslíci",
+      "description": "Sněhurka se sedmi trpaslíky před jejich chaloupkou v lese."
+    },
+    "lollipop-01": {
+      "title": "Lízátka",
+      "description": "Veselá sbírka barevných lízátek s různými vzory — v dóze i v ruce."
+    },
+    "pancakes-01": {
+      "title": "Palačinky",
+      "description": "Vysoká vrstva nadýchaných palačinek s máslem, javorovým sirupem a ovocem."
+    },
+    "cooking-scene-01": {
+      "title": "Vaření v kuchyni",
+      "description": "Detailní útulná kuchyně s bublajícími hrnci, zeleninou a kuchařem."
+    },
+    "chocolate-factory-01": {
+      "title": "Čokoládová továrna",
+      "description": "Fantastická čokoládová továrna s čokoládovými řekami a pásy bonbonů."
+    },
+    "horse-riding-01": {
+      "title": "Jízda na koni",
+      "description": "Dítě v přilbě v sedle koně kluše na kolbišti se skákacími překážkami."
+    },
+    "dancing-01": {
+      "title": "Tanec",
+      "description": "Dítě v baletním kostýmu tančí elegantně na jevišti pod reflektorem."
+    },
+    "fencing-01": {
+      "title": "Šerm",
+      "description": "Dva šermíři v ochranné výstroji s křížícími se kordy na šermířské dráze."
+    },
+    "skateboarding-01": {
+      "title": "Skateboarding",
+      "description": "Skater v přilbě provádí trik ve vzduchu na skateparku s rampami."
+    },
+    "church-01": {
+      "title": "Kostel",
+      "description": "Útulný vesnický kostel se zvonicí, vitráží, dřevěnými dveřmi a hřbitovem."
+    },
+    "watermill-01": {
+      "title": "Vodní mlýn",
+      "description": "Malebný starý vodní mlýn s velkým kolem, potokem a vrbami."
+    },
+    "cathedral-01": {
+      "title": "Katedrála",
+      "description": "Velkolepá gotická katedrála s věžemi, opěrnými oblouky a ornamentálními okny."
+    },
+    "opera-house-01": {
+      "title": "Operní dům",
+      "description": "Dramatický moderní operní dům s charakteristickými střechami u přístavu."
+    },
+    "hat-collection-01": {
+      "title": "Kolekce klobouků",
+      "description": "Veselá kolekce klobouků na stojanech — cylindr, kovbojský, baret a koruna."
+    },
+    "scarf-set-01": {
+      "title": "Zimní souprava",
+      "description": "Útulná zimní souprava s pleteným šálou, čepicí s bambulí a palčáky."
+    },
+    "pirate-costume-01": {
+      "title": "Pirátský kostým",
+      "description": "Detailní pirátský kostým s třírohým kloboukem, červeným kabátem a papouškem."
+    },
+    "royal-robe-01": {
+      "title": "Královský plášť",
+      "description": "Velkolepý královský plášť s hermelínovým lemem, korunou a žezlem."
+    },
+    "baker-01": {
+      "title": "Pekař",
+      "description": "Přátelský pekař v bílé zástěře drží čerstvý bochník obklopený pečivem."
+    },
+    "librarian-01": {
+      "title": "Knihovník",
+      "description": "Přátelský knihovník razítkuje knihu dítěti u pultu s policemi knih."
+    },
+    "photographer-01": {
+      "title": "Fotograf",
+      "description": "Fotograf s profesionálním fotoaparátem na stativu venku s objektivy."
+    },
+    "surgeon-01": {
+      "title": "Chirurg",
+      "description": "Chirurg v operačním sále s chirurgickými světly, nástroji a monitory."
     }
   }
 }

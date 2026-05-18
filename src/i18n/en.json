@@ -1133,6 +1133,214 @@
     "astronomer-01": {
       "title": "Astronomer",
       "description": "An astronomer at a telescope in an observatory dome with star charts at night."
+    },
+    "hamster-01": {
+      "title": "Hamster",
+      "description": "A cute hamster with chubby cheeks sitting next to its food bowl."
+    },
+    "chick-01": {
+      "title": "Baby Chick",
+      "description": "A fluffy baby chick just hatched, standing next to its cracked eggshell."
+    },
+    "wolf-01": {
+      "title": "Wolf Howling at the Moon",
+      "description": "A detailed wolf howling at a full moon on a rocky hilltop with pine trees."
+    },
+    "kangaroo-01": {
+      "title": "Kangaroo with Joey",
+      "description": "A detailed kangaroo with a tiny joey in its pouch in an Australian landscape."
+    },
+    "go-kart-01": {
+      "title": "Go-Kart",
+      "description": "A child in a helmet and racing suit driving a go-kart on a race track."
+    },
+    "jeep-01": {
+      "title": "Jeep",
+      "description": "A rugged off-road jeep with large tyres driving over rocky terrain."
+    },
+    "hot-air-balloon-01": {
+      "title": "Hot Air Balloon",
+      "description": "A colourful hot air balloon floating high above fields, rivers and forests."
+    },
+    "racing-truck-01": {
+      "title": "Racing Truck",
+      "description": "A detailed racing truck with sponsor decals, spoiler and racing wheels."
+    },
+    "princess-reading-01": {
+      "title": "Princess Reading",
+      "description": "A princess in a beautiful dress reading a fairy tale book in a cosy armchair."
+    },
+    "little-witch-01": {
+      "title": "Little Witch",
+      "description": "A small cute witch with a pointed hat, tiny broomstick and a black cat."
+    },
+    "fairy-tale-wedding-01": {
+      "title": "Fairy Tale Wedding",
+      "description": "A fairy tale wedding with a princess and prince under a floral arch."
+    },
+    "mermaid-treasure-01": {
+      "title": "Mermaid with Treasure",
+      "description": "A mermaid discovering a glowing treasure chest on the ocean floor."
+    },
+    "iris-01": {
+      "title": "Iris Flowers",
+      "description": "Beautiful iris flowers with ruffled petals and tall stems in a garden."
+    },
+    "daffodil-01": {
+      "title": "Daffodils",
+      "description": "Cheerful daffodils with trumpet-shaped centres in a spring garden."
+    },
+    "rose-garden-01": {
+      "title": "Rose Garden",
+      "description": "A detailed rose garden with arching bushes, a stone path and a fountain."
+    },
+    "flower-market-01": {
+      "title": "Flower Market",
+      "description": "A detailed outdoor flower market with colourful buckets of various flowers."
+    },
+    "planet-earth-01": {
+      "title": "Planet Earth",
+      "description": "Planet Earth seen from space with continents and swirling clouds."
+    },
+    "meteor-shower-01": {
+      "title": "Meteor Shower",
+      "description": "A beautiful meteor shower lighting up the night sky over a dark landscape."
+    },
+    "wormhole-01": {
+      "title": "Wormhole",
+      "description": "A dramatic space wormhole with swirling energy rings and a spaceship entering."
+    },
+    "space-city-01": {
+      "title": "Space City",
+      "description": "A futuristic city on a space platform with towers, bridges and spacecraft."
+    },
+    "dino-family-01": {
+      "title": "Dinosaur Family",
+      "description": "A dinosaur family — mum, dad and baby — walking through a prehistoric landscape."
+    },
+    "baby-rex-01": {
+      "title": "Baby T-Rex",
+      "description": "A cute chubby baby T-Rex with tiny arms and a big friendly smile."
+    },
+    "mammoth-01": {
+      "title": "Woolly Mammoth",
+      "description": "A detailed woolly mammoth with long curved tusks in a snowy Ice Age landscape."
+    },
+    "ice-age-scene-01": {
+      "title": "Ice Age Scene",
+      "description": "A detailed Ice Age scene with a mammoth, sabre-tooth tiger and cave people."
+    },
+    "seal-01": {
+      "title": "Seal",
+      "description": "A cute seal resting on an ice floe with big eyes in the arctic ocean."
+    },
+    "lobster-01": {
+      "title": "Lobster",
+      "description": "A friendly lobster on the sea floor with large claws and long antennae."
+    },
+    "underwater-city-01": {
+      "title": "Underwater City",
+      "description": "A detailed underwater city with dome buildings, fish and submarines."
+    },
+    "ocean-explorer-01": {
+      "title": "Ocean Explorer",
+      "description": "A scuba diver exploring a vibrant coral reef with fish and a sea turtle."
+    },
+    "little-red-01": {
+      "title": "Little Red Riding Hood",
+      "description": "Little Red Riding Hood in her red cloak with a basket on a forest path."
+    },
+    "puss-in-boots-01": {
+      "title": "Puss in Boots",
+      "description": "Puss in Boots with a plumed hat, boots and sword in a confident pose."
+    },
+    "cinderella-01": {
+      "title": "Cinderella",
+      "description": "Cinderella in a sparkling gown stepping into a magical pumpkin carriage."
+    },
+    "seven-dwarfs-01": {
+      "title": "Snow White and the Seven Dwarfs",
+      "description": "Snow White with all seven dwarfs in front of their cosy cottage."
+    },
+    "lollipop-01": {
+      "title": "Lollipops",
+      "description": "A cheerful collection of colourful round lollipops with swirl patterns."
+    },
+    "pancakes-01": {
+      "title": "Pancakes",
+      "description": "A tall stack of fluffy pancakes with butter, syrup and fresh berries."
+    },
+    "cooking-scene-01": {
+      "title": "Cooking Scene",
+      "description": "A detailed cosy kitchen with bubbling pots, vegetables and a happy cook."
+    },
+    "chocolate-factory-01": {
+      "title": "Chocolate Factory",
+      "description": "A fantastical chocolate factory with chocolate rivers and conveyor belts of sweets."
+    },
+    "horse-riding-01": {
+      "title": "Horse Riding",
+      "description": "A child in a riding helmet on horseback trotting in an arena with show jumps."
+    },
+    "dancing-01": {
+      "title": "Dancing",
+      "description": "A child in a ballet tutu dancing on a stage with a spotlight shining down."
+    },
+    "fencing-01": {
+      "title": "Fencing",
+      "description": "Two fencers in full protective gear with swords crossed on a fencing piste."
+    },
+    "skateboarding-01": {
+      "title": "Skateboarding",
+      "description": "A skateboarder performing a kickflip at a skate park with ramps and rails."
+    },
+    "church-01": {
+      "title": "Church",
+      "description": "A charming village church with a bell tower, stained glass windows and a path."
+    },
+    "watermill-01": {
+      "title": "Watermill",
+      "description": "A picturesque old watermill with a turning wheel by a babbling stream."
+    },
+    "cathedral-01": {
+      "title": "Cathedral",
+      "description": "A grand Gothic cathedral with pointed spires, flying buttresses and rose windows."
+    },
+    "opera-house-01": {
+      "title": "Opera House",
+      "description": "A dramatic modern opera house with shell-shaped roofs on a harbour waterfront."
+    },
+    "hat-collection-01": {
+      "title": "Hat Collection",
+      "description": "A fun display of various hats — top hat, cowboy, beret, party hat and crown."
+    },
+    "scarf-set-01": {
+      "title": "Winter Set",
+      "description": "A cosy winter set with a knitted scarf, pompom hat, mittens and woolly socks."
+    },
+    "pirate-costume-01": {
+      "title": "Pirate Costume",
+      "description": "A detailed pirate costume with tricorn hat, red coat, hook hand and a parrot."
+    },
+    "royal-robe-01": {
+      "title": "Royal Robe",
+      "description": "An elaborate royal robe with ermine trim, a crown, sceptre and ceremonial chain."
+    },
+    "baker-01": {
+      "title": "Baker",
+      "description": "A friendly baker in an apron holding a fresh loaf surrounded by breads and pastries."
+    },
+    "librarian-01": {
+      "title": "Librarian",
+      "description": "A friendly librarian stamping a book for a child with tall bookshelves behind."
+    },
+    "photographer-01": {
+      "title": "Photographer",
+      "description": "A photographer with a camera on a tripod outdoors with lenses and a laptop."
+    },
+    "surgeon-01": {
+      "title": "Surgeon",
+      "description": "A surgeon in scrubs in a bright operating theatre with surgical lights above."
     }
   }
 }

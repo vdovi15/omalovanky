@@ -1133,6 +1133,214 @@
     "astronomer-01": {
       "title": "Astronom",
       "description": "Ein Astronom am Teleskop in einem Observatorium bei Nacht mit Sternenkarten."
+    },
+    "hamster-01": {
+      "title": "Hamster",
+      "description": "Ein niedlicher Hamster mit vollen Backentaschen sitzt neben seinem Futternapf."
+    },
+    "chick-01": {
+      "title": "Küken",
+      "description": "Ein flauschiges Küken, das gerade geschlüpft ist, neben seiner Eierschale."
+    },
+    "wolf-01": {
+      "title": "Wolf heult den Mond an",
+      "description": "Ein detaillierter Wolf heult auf einem Felsen den Vollmond an, mit Kiefern."
+    },
+    "kangaroo-01": {
+      "title": "Känguru mit Joey",
+      "description": "Ein detailliertes Känguru mit einem kleinen Joey im Beutel in australischer Landschaft."
+    },
+    "go-kart-01": {
+      "title": "Go-Kart",
+      "description": "Ein Kind mit Helm und Rennanzug fährt Go-Kart auf einer Rennbahn."
+    },
+    "jeep-01": {
+      "title": "Jeep",
+      "description": "Ein Geländejeep mit großen Reifen fährt über felsiges Terrain mit Dschungel."
+    },
+    "hot-air-balloon-01": {
+      "title": "Heißluftballon",
+      "description": "Ein bunter Heißluftballon schwebt hoch über Feldern, Flüssen und Wäldern."
+    },
+    "racing-truck-01": {
+      "title": "Renntruck",
+      "description": "Ein detaillierter Renntruck mit Aufklebern, Spoiler und Rennrädern."
+    },
+    "princess-reading-01": {
+      "title": "Prinzessin beim Lesen",
+      "description": "Eine Prinzessin im schönen Kleid liest ein Märchenbuch in einem gemütlichen Sessel."
+    },
+    "little-witch-01": {
+      "title": "Kleine Hexe",
+      "description": "Eine kleine süße Hexe mit Spitzhut, kleinem Besen und einer schwarzen Katze."
+    },
+    "fairy-tale-wedding-01": {
+      "title": "Märchenhochzeit",
+      "description": "Eine Märchenhochzeit mit Prinzessin und Prinz unter einem Blumenbogen."
+    },
+    "mermaid-treasure-01": {
+      "title": "Meerjungfrau mit Schatz",
+      "description": "Eine Meerjungfrau entdeckt eine leuchtende Schatztruhe auf dem Meeresgrund."
+    },
+    "iris-01": {
+      "title": "Schwertlilien",
+      "description": "Wunderschöne Schwertlilien mit gezackten Blütenblättern in einem Garten."
+    },
+    "daffodil-01": {
+      "title": "Narzissen",
+      "description": "Fröhliche Narzissen mit trompetenförmigen Mitten in einem Frühlingsgarten."
+    },
+    "rose-garden-01": {
+      "title": "Rosengarten",
+      "description": "Ein detaillierter Rosengarten mit blühenden Büschen, Steinweg und Brunnen."
+    },
+    "flower-market-01": {
+      "title": "Blumenmarkt",
+      "description": "Ein detaillierter Blumenmarkt mit farbenfrohen Eimern verschiedener Blumen."
+    },
+    "planet-earth-01": {
+      "title": "Planet Erde",
+      "description": "Planet Erde aus dem Weltraum mit Kontinenten und wirbelnden Wolken."
+    },
+    "meteor-shower-01": {
+      "title": "Meteorschauer",
+      "description": "Ein wunderschöner Meteorschauer, der den Nachthimmel über einer Landschaft erhellt."
+    },
+    "wormhole-01": {
+      "title": "Wurmloch",
+      "description": "Ein dramatisches Weltraumwurmloch mit Energieringen und einem eintretenden Raumschiff."
+    },
+    "space-city-01": {
+      "title": "Weltraumstadt",
+      "description": "Eine futuristische Stadt auf einer Weltraumplattform mit Türmen und Raumschiffen."
+    },
+    "dino-family-01": {
+      "title": "Dinosaurierfamilie",
+      "description": "Eine Dinosaurierfamilie — Mama, Papa und Baby — in einer Urzeit-Landschaft."
+    },
+    "baby-rex-01": {
+      "title": "Baby T-Rex",
+      "description": "Ein niedlicher pummeliger Baby-T-Rex mit winzigen Ärmchen und freundlichem Lächeln."
+    },
+    "mammoth-01": {
+      "title": "Wolliges Mammut",
+      "description": "Ein detailliertes Wolliges Mammut mit langen Stoßzähnen in eisiger Landschaft."
+    },
+    "ice-age-scene-01": {
+      "title": "Eiszeit-Szene",
+      "description": "Eine detaillierte Eiszeit-Szene mit Mammut, Säbelzahntiger und Höhlenmenschen."
+    },
+    "seal-01": {
+      "title": "Robbe",
+      "description": "Eine niedliche Robbe ruht auf einer Eisscholle mit großen Augen im Arktischen."
+    },
+    "lobster-01": {
+      "title": "Hummer",
+      "description": "Ein freundlicher Hummer auf dem Meeresgrund mit großen Scheren und Antennen."
+    },
+    "underwater-city-01": {
+      "title": "Unterwasserstadt",
+      "description": "Eine detaillierte Unterwasserstadt mit Kuppelgebäuden, Fischen und U-Booten."
+    },
+    "ocean-explorer-01": {
+      "title": "Ozeanforscher",
+      "description": "Ein Taucher erforscht ein buntes Korallenriff mit Fischen und Schildkröte."
+    },
+    "little-red-01": {
+      "title": "Rotkäppchen",
+      "description": "Rotkäppchen im roten Umhang mit einem Korb auf einem Waldweg."
+    },
+    "puss-in-boots-01": {
+      "title": "Der gestiefelte Kater",
+      "description": "Der gestiefelte Kater mit Federhut, Stiefeln und Schwert in selbstbewusster Pose."
+    },
+    "cinderella-01": {
+      "title": "Cinderella",
+      "description": "Cinderella im glitzernden Kleid steigt in eine magische Kürbiskutsche."
+    },
+    "seven-dwarfs-01": {
+      "title": "Schneewittchen und die sieben Zwerge",
+      "description": "Schneewittchen mit allen sieben Zwergen vor ihrem gemütlichen Häuschen."
+    },
+    "lollipop-01": {
+      "title": "Lutscher",
+      "description": "Eine fröhliche Sammlung bunter Lutscher mit verschiedenen Wirbel-Mustern."
+    },
+    "pancakes-01": {
+      "title": "Pfannkuchen",
+      "description": "Ein hoher Stapel fluffiger Pfannkuchen mit Butter, Sirup und frischen Beeren."
+    },
+    "cooking-scene-01": {
+      "title": "Kochszene",
+      "description": "Eine detaillierte gemütliche Küche mit blubbernden Töpfen und einem Koch."
+    },
+    "chocolate-factory-01": {
+      "title": "Schokoladenfabrik",
+      "description": "Eine fantasievolle Schokoladenfabrik mit Schokoladenflüssen und Süßigkeitsbändern."
+    },
+    "horse-riding-01": {
+      "title": "Reiten",
+      "description": "Ein Kind mit Reithelm auf dem Pferd trabt in einer Reithalle mit Hindernissen."
+    },
+    "dancing-01": {
+      "title": "Tanzen",
+      "description": "Ein Kind im Balletttutu tanzt auf einer Bühne mit Scheinwerfer."
+    },
+    "fencing-01": {
+      "title": "Fechten",
+      "description": "Zwei Fechter in Schutzausrüstung mit gekreuzten Schwertern auf einer Fechtbahn."
+    },
+    "skateboarding-01": {
+      "title": "Skateboarden",
+      "description": "Ein Skater mit Helm führt einen Trick im Skatepark mit Rampen auf."
+    },
+    "church-01": {
+      "title": "Kirche",
+      "description": "Eine charmante Dorfkirche mit Glockenturm, Buntglasfenstern und Blumenpfad."
+    },
+    "watermill-01": {
+      "title": "Wassermühle",
+      "description": "Eine malerische Wassermühle mit drehendem Rad an einem plätschernden Bach."
+    },
+    "cathedral-01": {
+      "title": "Kathedrale",
+      "description": "Eine große gotische Kathedrale mit Turmspitzen, Strebepfeilern und Rosenfenster."
+    },
+    "opera-house-01": {
+      "title": "Opernhaus",
+      "description": "Ein dramatisches modernes Opernhaus mit muschelförmigen Dächern am Hafen."
+    },
+    "hat-collection-01": {
+      "title": "Hutkollektion",
+      "description": "Eine Auswahl verschiedener Hüte — Zylinder, Cowboy, Baskenmütze und Krone."
+    },
+    "scarf-set-01": {
+      "title": "Winterset",
+      "description": "Ein gemütliches Winterset mit Strickschal, Bommelmütze und Fäustlingen."
+    },
+    "pirate-costume-01": {
+      "title": "Piratenkostüm",
+      "description": "Ein detailliertes Piratenkostüm mit Dreispitz, rotem Mantel, Haken und Papagei."
+    },
+    "royal-robe-01": {
+      "title": "Königsmantel",
+      "description": "Ein prächtiger Königsmantel mit Hermelin, Krone, Zepter und Zeremoniekette."
+    },
+    "baker-01": {
+      "title": "Bäcker",
+      "description": "Ein freundlicher Bäcker in Schürze hält einen frischen Laib umgeben von Gebäck."
+    },
+    "librarian-01": {
+      "title": "Bibliothekar",
+      "description": "Ein freundlicher Bibliothekar stempelt ein Buch für ein Kind mit Bücherregalen."
+    },
+    "photographer-01": {
+      "title": "Fotograf",
+      "description": "Ein Fotograf mit Kamera auf Stativ draußen mit Objektiven und Laptop."
+    },
+    "surgeon-01": {
+      "title": "Chirurg",
+      "description": "Ein Chirurg in einem hellen Operationssaal mit chirurgischen Lichtern."
     }
   }
 }
