@@ -143,6 +143,18 @@
     "jobs": {
       "title": "Berufe",
       "description": "Feuerwehrleute, Ärzte, Piloten und mehr Berufe für neugierige Kinder."
+    },
+    "mythical": {
+      "title": "Fabelwesen",
+      "description": "Einhörner, Drachen, Feen und magische Wesen für kleine Träumer."
+    },
+    "holidays": {
+      "title": "Feiertage & Feste",
+      "description": "Weihnachten, Ostern, Halloween und Geburtstagsfeiern zum Ausmalen."
+    },
+    "insects": {
+      "title": "Insekten & Käfer",
+      "description": "Marienkäfer, Schmetterlinge, Bienen und Käfer für kleine Naturforscher."
     }
   },
   "pages": {
@@ -1341,6 +1353,186 @@
     "surgeon-01": {
       "title": "Chirurg",
       "description": "Ein Chirurg in einem hellen Operationssaal mit chirurgischen Lichtern."
+    },
+    "baby-unicorn-01": {
+      "title": "Baby-Einhorn",
+      "description": "Ein süßes Baby-Einhorn steht auf einer Wiese zwischen Blumen und Sternen."
+    },
+    "baby-dragon-01": {
+      "title": "Baby-Drache",
+      "description": "Ein kleiner freundlicher Drache sitzt und pustet herzförmige Rauchwölkchen."
+    },
+    "forest-fairy-01": {
+      "title": "Waldfee",
+      "description": "Eine Waldfee mit Schmetterlingsflügeln sitzt auf einem großen Pilz mit einem Zauberstab."
+    },
+    "pegasus-01": {
+      "title": "Pegasus",
+      "description": "Das geflügelte Pferd Pegasus fliegt zwischen Wolken und Sternen."
+    },
+    "griffin-01": {
+      "title": "Greif",
+      "description": "Ein majestätischer Greif mit dem Körper eines Löwen und dem Kopf eines Adlers sitzt auf einem Felsen in den Bergen."
+    },
+    "christmas-tree-01": {
+      "title": "Weihnachtsbaum",
+      "description": "Ein geschmückter Weihnachtsbaum mit Geschenken darunter und einem Stern an der Spitze."
+    },
+    "easter-eggs-01": {
+      "title": "Ostereier",
+      "description": "Ein Korb voller bunt verzierter Ostereier mit einem kleinen Hasen daneben."
+    },
+    "halloween-pumpkin-01": {
+      "title": "Halloween-Kürbis",
+      "description": "Ein fröhlich geschnitzter Kürbis mit einer Fledermaus und einem niedlichen Gespenst."
+    },
+    "birthday-cake-01": {
+      "title": "Geburtstagstorte",
+      "description": "Eine Geburtstagstorte mit Kerzen, Luftballons und einem Geschenk."
+    },
+    "santa-sleigh-01": {
+      "title": "Weihnachtsschlitten",
+      "description": "Der Weihnachtsmann fliegt mit einem Schlitten voller Geschenke, gezogen von einem Rentier, durch den Nachthimmel."
+    },
+    "ladybug-01": {
+      "title": "Marienkäfer",
+      "description": "Ein fröhlicher Marienkäfer auf einem Blatt mit einer kleinen Ameise in der Nähe."
+    },
+    "bee-hive-01": {
+      "title": "Biene und Bienenstock",
+      "description": "Eine freundliche Biene fliegt zu einem Bienenstock im Baum über blühenden Blumen."
+    },
+    "dragonfly-pond-01": {
+      "title": "Libelle am Teich",
+      "description": "Eine Libelle fliegt über einen Teich mit einem Seerosenblatt und einem kleinen Frosch."
+    },
+    "snail-01": {
+      "title": "Schnecke",
+      "description": "Eine Schnecke mit großem Spiralhaus kriecht über ein Blatt mit einer Raupe."
+    },
+    "ant-hill-01": {
+      "title": "Ameisenhaufen",
+      "description": "Eine Gruppe Ameisen trägt Blätter und Zweige zu einem großen Ameisenhaufen."
+    },
+    "phoenix-01": {
+      "title": "Phönix",
+      "description": "Ein majestätischer Phönixvogel mit feurigen Schwanzfedern sitzt auf einem Felsen."
+    },
+    "centaur-01": {
+      "title": "Zentaur",
+      "description": "Ein freundlicher Zentaur mit einem Bogen steht auf einer Waldlichtung."
+    },
+    "yeti-01": {
+      "title": "Yeti",
+      "description": "Ein freundlicher Yeti steht in den verschneiten Bergen zwischen Tannen."
+    },
+    "troll-bridge-01": {
+      "title": "Troll unter der Brücke",
+      "description": "Ein freundlicher Troll sitzt unter einer Steinbrücke über einem Bach."
+    },
+    "minotaur-01": {
+      "title": "Minotaurus",
+      "description": "Der Minotaurus mit einer Laterne steht in einem Steinlabyrinth."
+    },
+    "kraken-01": {
+      "title": "Kraken",
+      "description": "Der freundliche Meeresriese Kraken erhebt sich aus den Wellen neben einem Schiff."
+    },
+    "sphinx-01": {
+      "title": "Sphinx",
+      "description": "Eine majestätische Sphinx mit einem Löwenkörper sitzt vor den Pyramiden."
+    },
+    "gnome-garden-01": {
+      "title": "Gartenzwerg",
+      "description": "Ein fröhlicher Gartenzwerg steht zwischen Pilzen und Blumen."
+    },
+    "nymph-01": {
+      "title": "Wassernymphe",
+      "description": "Eine Wassernymphe mit langem Haar sitzt auf einem Felsen neben einem Wasserfall."
+    },
+    "baby-phoenix-01": {
+      "title": "Baby-Phönix",
+      "description": "Ein süßer Baby-Phönix schlüpft aus seinem Ei zwischen kleinen Funken."
+    },
+    "snowman-01": {
+      "title": "Schneemann",
+      "description": "Ein fröhlicher Schneemann mit Karottennase steht im Schnee."
+    },
+    "valentine-hearts-01": {
+      "title": "Valentinsherzen",
+      "description": "Eine Gruppe verzierter Herzen mit einem kleinen Cupido."
+    },
+    "fireworks-01": {
+      "title": "Silvesterfeuerwerk",
+      "description": "Ein Nachthimmel voller Silvesterfeuerwerk über einer Stadt."
+    },
+    "mikulas-01": {
+      "title": "Nikolaus, Engel und Teufel",
+      "description": "Der Nikolaus steht zwischen einem Engel und einem Teufel mit einem Geschenkkorb."
+    },
+    "carnival-mask-01": {
+      "title": "Karnevalsmaske",
+      "description": "Eine verzierte Karnevalsmaske mit Federn und Konfetti."
+    },
+    "christmas-stocking-01": {
+      "title": "Weihnachtsstrümpfe",
+      "description": "Drei Weihnachtsstrümpfe hängen an einem geschmückten Kaminsims."
+    },
+    "gingerbread-cookies-01": {
+      "title": "Weihnachtsplätzchen",
+      "description": "Ein Teller voller verzierter Lebkuchenplätzchen in festlichen Formen."
+    },
+    "easter-lamb-01": {
+      "title": "Osterlamm",
+      "description": "Ein süßes Lamm steht auf einer Wiese mit Ostereiern in der Nähe."
+    },
+    "trick-or-treat-01": {
+      "title": "Halloween-Kinder",
+      "description": "Zwei Kinder in Halloween-Kostümen sammeln Süßigkeiten."
+    },
+    "mothers-day-flowers-01": {
+      "title": "Blumenstrauß für Mama",
+      "description": "Ein großer Blumenstrauß mit einer Schleife und einer herzförmigen Karte."
+    },
+    "caterpillar-01": {
+      "title": "Raupe",
+      "description": "Eine süße Raupe krabbelt auf einem Blatt neben einem Schmetterling."
+    },
+    "grasshopper-01": {
+      "title": "Heuschrecke",
+      "description": "Eine fröhliche Heuschrecke sitzt auf einem Grashalm zwischen Gänseblümchen."
+    },
+    "firefly-01": {
+      "title": "Glühwürmchen",
+      "description": "Ein Glühwürmchen mit leuchtendem Schwanz fliegt nachts unter den Sternen."
+    },
+    "praying-mantis-01": {
+      "title": "Gottesanbeterin",
+      "description": "Eine Gottesanbeterin sitzt auf einem Zweig zwischen Blättern."
+    },
+    "stag-beetle-01": {
+      "title": "Hirschkäfer",
+      "description": "Ein Hirschkäfer mit großen Mandibeln krabbelt über einen umgestürzten Baumstamm."
+    },
+    "moth-01": {
+      "title": "Nachtfalter",
+      "description": "Ein Nachtfalter mit großen Flügeln sitzt bei einer leuchtenden Laterne."
+    },
+    "butterfly-garden-01": {
+      "title": "Schmetterlinge im Garten",
+      "description": "Mehrere Schmetterlinge fliegen um blühende Blumen im Garten."
+    },
+    "spider-web-01": {
+      "title": "Spinne im Netz",
+      "description": "Eine Spinne sitzt in der Mitte eines großen Netzes zwischen zwei Ästen."
+    },
+    "ant-picnic-01": {
+      "title": "Ameisen beim Picknick",
+      "description": "Eine Gruppe Ameisen trägt Essen über eine Picknickdecke."
+    },
+    "cicada-01": {
+      "title": "Zikade",
+      "description": "Eine Zikade mit großen Flügeln sitzt auf einem Baumstamm."
     }
   }
 }

@@ -143,6 +143,18 @@
     "jobs": {
       "title": "Jobs",
       "description": "Firefighters, doctors, pilots, and more professions for curious kids."
+    },
+    "mythical": {
+      "title": "Mythical Creatures",
+      "description": "Unicorns, dragons, fairies, and magical creatures for little dreamers."
+    },
+    "holidays": {
+      "title": "Holidays & Celebrations",
+      "description": "Christmas, Easter, Halloween, and birthday celebrations to color."
+    },
+    "insects": {
+      "title": "Insects & Bugs",
+      "description": "Ladybugs, butterflies, bees, and bugs for little nature explorers."
     }
   },
   "pages": {
@@ -1341,6 +1353,186 @@
     "surgeon-01": {
       "title": "Surgeon",
       "description": "A surgeon in scrubs in a bright operating theatre with surgical lights above."
+    },
+    "baby-unicorn-01": {
+      "title": "Baby Unicorn",
+      "description": "A cute baby unicorn stands in a meadow surrounded by flowers and stars."
+    },
+    "baby-dragon-01": {
+      "title": "Baby Dragon",
+      "description": "A small friendly dragon sits blowing tiny heart-shaped puffs of smoke."
+    },
+    "forest-fairy-01": {
+      "title": "Forest Fairy",
+      "description": "A forest fairy with butterfly wings sits on a large mushroom with a magic wand."
+    },
+    "pegasus-01": {
+      "title": "Pegasus",
+      "description": "The winged horse Pegasus flies among fluffy clouds and stars."
+    },
+    "griffin-01": {
+      "title": "Griffin",
+      "description": "A majestic griffin with the body of a lion and the head of an eagle sits on a rock in the mountains."
+    },
+    "christmas-tree-01": {
+      "title": "Christmas Tree",
+      "description": "A decorated Christmas tree with gifts underneath and a star on top."
+    },
+    "easter-eggs-01": {
+      "title": "Easter Eggs",
+      "description": "A basket full of decorated Easter eggs with a little bunny beside it."
+    },
+    "halloween-pumpkin-01": {
+      "title": "Halloween Pumpkin",
+      "description": "A cheerful carved pumpkin with a bat and a cute ghost nearby."
+    },
+    "birthday-cake-01": {
+      "title": "Birthday Cake",
+      "description": "A birthday cake with candles, balloons, and a gift box."
+    },
+    "santa-sleigh-01": {
+      "title": "Santa's Sleigh",
+      "description": "Santa Claus flies through the night sky on a sleigh full of gifts pulled by a reindeer."
+    },
+    "ladybug-01": {
+      "title": "Ladybug",
+      "description": "A cheerful ladybug on a leaf with a little ant nearby."
+    },
+    "bee-hive-01": {
+      "title": "Bee and Hive",
+      "description": "A friendly bee flies toward a hive in a tree above blooming flowers."
+    },
+    "dragonfly-pond-01": {
+      "title": "Dragonfly at the Pond",
+      "description": "A dragonfly flies above a pond with a lily pad and a little frog."
+    },
+    "snail-01": {
+      "title": "Snail",
+      "description": "A snail with a large spiral shell crawls along a leaf with a caterpillar."
+    },
+    "ant-hill-01": {
+      "title": "Anthill",
+      "description": "A group of ants carries leaves and twigs to a large anthill."
+    },
+    "phoenix-01": {
+      "title": "Phoenix",
+      "description": "A majestic phoenix bird with fiery tail feathers sits on a rock."
+    },
+    "centaur-01": {
+      "title": "Centaur",
+      "description": "A friendly centaur with a bow stands in a forest clearing."
+    },
+    "yeti-01": {
+      "title": "Yeti",
+      "description": "A friendly yeti stands in the snowy mountains among pine trees."
+    },
+    "troll-bridge-01": {
+      "title": "Troll Under the Bridge",
+      "description": "A friendly troll sits under a stone bridge above a stream."
+    },
+    "minotaur-01": {
+      "title": "Minotaur",
+      "description": "The Minotaur with a lantern stands in a stone maze."
+    },
+    "kraken-01": {
+      "title": "Kraken",
+      "description": "A friendly sea giant Kraken rises from the waves beside a ship."
+    },
+    "sphinx-01": {
+      "title": "Sphinx",
+      "description": "A majestic sphinx with a lion's body sits in front of the pyramids."
+    },
+    "gnome-garden-01": {
+      "title": "Garden Gnome",
+      "description": "A cheerful garden gnome stands among mushrooms and flowers."
+    },
+    "nymph-01": {
+      "title": "Water Nymph",
+      "description": "A water nymph with long hair sits on a rock beside a waterfall."
+    },
+    "baby-phoenix-01": {
+      "title": "Baby Phoenix",
+      "description": "A cute baby phoenix hatches from its egg among little sparks."
+    },
+    "snowman-01": {
+      "title": "Snowman",
+      "description": "A cheerful snowman with a carrot nose stands in the snow."
+    },
+    "valentine-hearts-01": {
+      "title": "Valentine's Hearts",
+      "description": "A group of decorated hearts with a little cupid flying among them."
+    },
+    "fireworks-01": {
+      "title": "New Year's Fireworks",
+      "description": "A night sky full of New Year's fireworks above a city."
+    },
+    "mikulas-01": {
+      "title": "St Nicholas, Angel and Devil",
+      "description": "St Nicholas stands between an angel and a devil with a basket of gifts."
+    },
+    "carnival-mask-01": {
+      "title": "Carnival Mask",
+      "description": "A decorative carnival mask with feathers and confetti around it."
+    },
+    "christmas-stocking-01": {
+      "title": "Christmas Stockings",
+      "description": "Three Christmas stockings hang from a decorated fireplace."
+    },
+    "gingerbread-cookies-01": {
+      "title": "Christmas Gingerbread Cookies",
+      "description": "A plate full of decorated gingerbread cookies in festive shapes."
+    },
+    "easter-lamb-01": {
+      "title": "Easter Lamb",
+      "description": "A cute lamb stands in a meadow with Easter eggs nearby."
+    },
+    "trick-or-treat-01": {
+      "title": "Halloween Kids",
+      "description": "Two children in Halloween costumes collect treats with trick-or-treat bags."
+    },
+    "mothers-day-flowers-01": {
+      "title": "Bouquet for Mom",
+      "description": "A large bouquet of flowers with a ribbon and a heart-shaped card."
+    },
+    "caterpillar-01": {
+      "title": "Caterpillar",
+      "description": "A cute caterpillar crawls along a leaf next to a butterfly."
+    },
+    "grasshopper-01": {
+      "title": "Grasshopper",
+      "description": "A cheerful grasshopper sits on a blade of grass among daisies."
+    },
+    "firefly-01": {
+      "title": "Firefly",
+      "description": "A firefly with a glowing tail flies at night under the stars."
+    },
+    "praying-mantis-01": {
+      "title": "Praying Mantis",
+      "description": "A praying mantis sits on a branch among the leaves."
+    },
+    "stag-beetle-01": {
+      "title": "Stag Beetle",
+      "description": "A stag beetle with big mandibles walks along a fallen log."
+    },
+    "moth-01": {
+      "title": "Moth",
+      "description": "A moth with large patterned wings rests by a glowing lantern at night."
+    },
+    "butterfly-garden-01": {
+      "title": "Butterflies in the Garden",
+      "description": "Several butterflies fly around blooming flowers in a garden."
+    },
+    "spider-web-01": {
+      "title": "Spider on a Web",
+      "description": "A spider sits in the middle of a large web between two branches."
+    },
+    "ant-picnic-01": {
+      "title": "Ants at a Picnic",
+      "description": "A group of ants carries food across a picnic blanket."
+    },
+    "cicada-01": {
+      "title": "Cicada",
+      "description": "A cicada with large wings sits on a tree trunk."
     }
   }
 }

@@ -76,5 +76,23 @@
     "title": "Povolání",
     "description": "Hasiči, doktoři, piloti a další povolání pro zvídavé děti.",
     "coverImage": "/category-covers/jobs.png"
+  },
+  {
+    "slug": "mythical",
+    "title": "Mytické bytosti",
+    "description": "Jednorožci, draci, víly a kouzelná stvoření pro malé snílky.",
+    "coverImage": "/category-covers/mythical.png"
+  },
+  {
+    "slug": "holidays",
+    "title": "Svátky a oslavy",
+    "description": "Vánoce, Velikonoce, Halloween a narozeninové oslavy k vybarvování.",
+    "coverImage": "/category-covers/holidays.png"
+  },
+  {
+    "slug": "insects",
+    "title": "Hmyz",
+    "description": "Berušky, motýli, včely a brouci pro malé objevitele přírody.",
+    "coverImage": "/category-covers/insects.png"
   }
 ]

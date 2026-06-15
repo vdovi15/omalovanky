@@ -1,7 +1,16 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npm run *)"
+      "Bash(npm run *)",
+      "Bash(node -e \"const j=require\\('./src/i18n/cs.json'\\); console.log\\(Object.keys\\(j\\)\\)\")",
+      "Bash(node scripts/generate-category-cover.mjs mythical holidays insects --format png --out generated/category-covers)",
+      "Bash(node scripts/generate-category-cover.mjs mythical holidays insects --format png --compression 100 --out generated/category-covers)",
+      "Bash(node -e ' *)",
+      "Bash(node -e \"const p=require\\('./package.json'\\); console.log\\(Object.keys\\(p.dependencies||{}\\)\\); console.log\\(Object.keys\\(p.devDependencies||{}\\)\\)\")",
+      "Bash(node scripts/_tmp-gen-bw-covers.mjs)",
+      "Bash(rm scripts/_tmp-gen-bw-covers.mjs)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:3000/ --max-time 5)",
+      "Bash(curl -s -L http://localhost:3000/cs --max-time 10)"
     ]
   }
 }

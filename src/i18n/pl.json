@@ -143,6 +143,18 @@
     "jobs": {
       "title": "Zawody",
       "description": "Strażacy, lekarze, piloci i więcej zawodów dla ciekawskich dzieci."
+    },
+    "mythical": {
+      "title": "Istoty mityczne",
+      "description": "Jednorożce, smoki, wróżki i magiczne stworzenia dla małych marzycieli."
+    },
+    "holidays": {
+      "title": "Święta i uroczystości",
+      "description": "Boże Narodzenie, Wielkanoc, Halloween i urodziny do kolorowania."
+    },
+    "insects": {
+      "title": "Insekty i robaki",
+      "description": "Biedronki, motyle, pszczoły i robaki dla małych odkrywców przyrody."
     }
   },
   "pages": {
@@ -1341,6 +1353,186 @@
     "surgeon-01": {
       "title": "Chirurg",
       "description": "Chirurg w jasnej sali operacyjnej z chirurgicznymi lampami i narzędziami."
+    },
+    "baby-unicorn-01": {
+      "title": "Mały jednorożec",
+      "description": "Uroczy mały jednorożec stoi na łące pełnej kwiatów i gwiazdek."
+    },
+    "baby-dragon-01": {
+      "title": "Mały smok",
+      "description": "Mały przyjazny smok siedzi i wypuszcza dymki w kształcie serc."
+    },
+    "forest-fairy-01": {
+      "title": "Leśna wróżka",
+      "description": "Leśna wróżka ze skrzydłami motyla siedzi na dużym grzybie z magiczną różdżką."
+    },
+    "pegasus-01": {
+      "title": "Pegaz",
+      "description": "Skrzydlaty koń Pegaz lata między obłokami i gwiazdami."
+    },
+    "griffin-01": {
+      "title": "Gryf",
+      "description": "Majestatyczny gryf z ciałem lwa i głową orła siedzi na skale w górach."
+    },
+    "christmas-tree-01": {
+      "title": "Choinka",
+      "description": "Ozdobiona choinka z prezentami pod spodem i gwiazdą na szczycie."
+    },
+    "easter-eggs-01": {
+      "title": "Wielkanocne jajka",
+      "description": "Koszyk pełen ozdobionych jajek wielkanocnych z małym zającem obok."
+    },
+    "halloween-pumpkin-01": {
+      "title": "Dynia na Halloween",
+      "description": "Wesoła wyrzeźbiona dynia z nietoperzem i sympatycznym duchem."
+    },
+    "birthday-cake-01": {
+      "title": "Tort urodzinowy",
+      "description": "Tort urodzinowy ze świeczkami, balonami i prezentem."
+    },
+    "santa-sleigh-01": {
+      "title": "Sanie Mikołaja",
+      "description": "Mikołaj lecący przez nocne niebo na saniach pełnych prezentów, ciągniętych przez renifera."
+    },
+    "ladybug-01": {
+      "title": "Biedronka",
+      "description": "Wesoła biedronka na liściu z małą mrówką w pobliżu."
+    },
+    "bee-hive-01": {
+      "title": "Pszczółka i ul",
+      "description": "Przyjazna pszczółka leci do ula na drzewie nad kwitnącymi kwiatami."
+    },
+    "dragonfly-pond-01": {
+      "title": "Ważka nad stawem",
+      "description": "Ważka lata nad stawem z liściem lilii wodnej i małą żabką."
+    },
+    "snail-01": {
+      "title": "Ślimak",
+      "description": "Ślimak z dużą spiralną muszlą pełznie po liściu z gąsienicą."
+    },
+    "ant-hill-01": {
+      "title": "Mrowisko",
+      "description": "Grupa mrówek niesie liście i gałązki na duże mrowisko."
+    },
+    "phoenix-01": {
+      "title": "Feniks",
+      "description": "Majestatyczny ptak Feniks z ognistymi piórami ogona siedzi na skale."
+    },
+    "centaur-01": {
+      "title": "Centaur",
+      "description": "Przyjazny centaur z łukiem stoi na leśnej polanie."
+    },
+    "yeti-01": {
+      "title": "Yeti",
+      "description": "Przyjazny yeti stoi w zaśnieżonych górach wśród jodeł."
+    },
+    "troll-bridge-01": {
+      "title": "Trol pod mostem",
+      "description": "Przyjazny trol siedzi pod kamiennym mostem nad potokiem."
+    },
+    "minotaur-01": {
+      "title": "Minotaur",
+      "description": "Minotaur z lampą stoi w kamiennym labiryncie."
+    },
+    "kraken-01": {
+      "title": "Kraken",
+      "description": "Przyjazny morski gigant Kraken wynurza się z fal przy żaglówce."
+    },
+    "sphinx-01": {
+      "title": "Sfinks",
+      "description": "Majestatyczny sfinks z ciałem lwa siedzi przed piramidami."
+    },
+    "gnome-garden-01": {
+      "title": "Krasnal ogrodowy",
+      "description": "Wesoły krasnal ogrodowy stoi wśród grzybów i kwiatów."
+    },
+    "nymph-01": {
+      "title": "Nimfa wodna",
+      "description": "Nimfa wodna z długimi włosami siedzi na skale przy wodospadzie."
+    },
+    "baby-phoenix-01": {
+      "title": "Mały feniks",
+      "description": "Uroczy mały feniks wykluwa się z jajka wśród iskier."
+    },
+    "snowman-01": {
+      "title": "Bałwan",
+      "description": "Wesoły bałwan z nosem z marchewki stoi na śniegu."
+    },
+    "valentine-hearts-01": {
+      "title": "Walentynkowe serduszka",
+      "description": "Grupa ozdobionych serduszek i mały Kupidynek z łukiem."
+    },
+    "fireworks-01": {
+      "title": "Sylwestrowe fajerwerki",
+      "description": "Nocne niebo pełne sylwestrowych fajerwerków nad miastem."
+    },
+    "mikulas-01": {
+      "title": "Mikołaj, anioł i diabeł",
+      "description": "Święty Mikołaj stoi między aniołem i diabłem z koszem prezentów."
+    },
+    "carnival-mask-01": {
+      "title": "Maska karnawałowa",
+      "description": "Ozdobna maska karnawałowa z piórami i konfetti wokół."
+    },
+    "christmas-stocking-01": {
+      "title": "Świąteczne skarpety",
+      "description": "Trzy świąteczne skarpety wiszą na ozdobionym kominku."
+    },
+    "gingerbread-cookies-01": {
+      "title": "Świąteczne pierniczki",
+      "description": "Talerz pełen ozdobionych świątecznych pierniczków w różnych kształtach."
+    },
+    "easter-lamb-01": {
+      "title": "Wielkanocna owieczka",
+      "description": "Słodka owieczka stoi na łące z jajkami wielkanocnymi w pobliżu."
+    },
+    "trick-or-treat-01": {
+      "title": "Dzieci na Halloween",
+      "description": "Dwoje dzieci w kostiumach na Halloween zbiera cukierki."
+    },
+    "mothers-day-flowers-01": {
+      "title": "Bukiet dla mamy",
+      "description": "Duży bukiet kwiatów z kokardą i kartką w kształcie serca dla mamy."
+    },
+    "caterpillar-01": {
+      "title": "Gąsienica",
+      "description": "Urocza gąsienica pełznie po liściu obok motyla."
+    },
+    "grasshopper-01": {
+      "title": "Konik polny",
+      "description": "Wesoły konik polny siedzi na źdźble trawy wśród stokrotek."
+    },
+    "firefly-01": {
+      "title": "Świetlik",
+      "description": "Świetlik ze świecącym ogonkiem lata nocą nad trawą pod gwiazdami."
+    },
+    "praying-mantis-01": {
+      "title": "Modliszka",
+      "description": "Modliszka siedzi na gałązce wśród listków."
+    },
+    "stag-beetle-01": {
+      "title": "Jelonek rogacz",
+      "description": "Jelonek rogacz z dużymi żuwaczkami pełznie po powalonym pniu."
+    },
+    "moth-01": {
+      "title": "Ćma",
+      "description": "Ćma z dużymi skrzydłami siedzi przy świecącej lampie."
+    },
+    "butterfly-garden-01": {
+      "title": "Motyle w ogrodzie",
+      "description": "Grupa motyli lata nad kwitnącymi kwiatami w ogrodzie."
+    },
+    "spider-web-01": {
+      "title": "Pająk na sieci",
+      "description": "Pająk siedzi na dużej sieci między dwiema gałęziami."
+    },
+    "ant-picnic-01": {
+      "title": "Mrówki na pikniku",
+      "description": "Grupa mrówek niesie jedzenie przez piknikowy koc."
+    },
+    "cicada-01": {
+      "title": "Cykada",
+      "description": "Cykada z dużymi skrzydłami siedzi na pniu drzewa."
     }
   }
 }

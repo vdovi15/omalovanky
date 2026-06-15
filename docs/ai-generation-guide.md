@@ -4,139 +4,49 @@ This file is for content production only. It does not affect the hosted website 
 
 ## Two asset types
 
-This project needs two different visual systems:
+Category covers and coloring pages use the **same visual style**: black and white line art, clean outlines, white interiors, printable. Only the subject differs.
 
-1. `category covers`
-   - colorful
-   - polished
-   - emotional
-   - premium-looking
-   - used on the homepage and category cards
+1. `category covers` (`public/category-covers/`)
+   - black and white line art — same style as coloring pages, NOT colorful
+   - generated at `1024x1536`, then resized down to `520x780` (the size `CategoryCard` displays them at)
+   - a "hero" scene: 2-3 friendly characters/objects representing the category
 
-2. `coloring pages`
-   - black and white
-   - clean line art
-   - printable
+2. `coloring pages` (`public/coloring-pages/<category>/`)
+   - black and white, clean line art, printable
    - simple enough for kids to color
+   - portrait A4 (`1024x1536`)
 
-Do not try to make one prompt do both jobs.
+Both use the prompt formula and suffix described under "Coloring pages" below.
 
 ## Category covers
 
-For covers, the script uses `gpt-image-1.5` (colorful, storybook style, landscape).
+Generate with the same model/settings as coloring pages (see "Recommended API settings" below) — `gpt-image-1` is recommended since a cover scene has more elements than a typical single-subject coloring page.
 
-### Master prompt system
+### Resize step
 
-Use this shared base so all 4 categories feel like one brand:
-
-```txt
-Create a premium children's website category cover illustration for a coloring-page site.
-
-Art direction:
-- joyful, positive, warm, child-friendly
-- polished animated storybook look
-- soft cinematic lighting
-- clean readable shapes
-- simple uncluttered background
-- one clear main subject
-- easy to understand at small thumbnail size
-- high-end, premium, modern, visually rich
-- expressive friendly face or welcoming mood
-- tasteful vibrant colors, not neon overload
-
-Composition:
-- landscape composition for a website category card
-- strong central subject
-- a few supporting background elements only
-- lots of clarity and visual hierarchy
-
-Constraints:
-- no text
-- no logo
-- no watermark
-- no horror
-- no darkness
-- no sad mood
-- no deformed anatomy
-- no clutter
-- no cropped main subject
-- no uncanny photorealism
-```
-
-### Category subjects
-
-#### Cars
-
-```txt
-Subject: a happy red race car with big friendly eyes driving on a sunny playful road, with a few small racing flags and soft clouds in the background. The mood should feel energetic, exciting, and cheerful.
-```
-
-#### Animals
-
-```txt
-Subject: a cute smiling baby lion sitting in a sunny meadow, with a few flowers and soft green trees in the distance. The lion should feel gentle, friendly, and joyful.
-```
-
-#### Princesses
-
-```txt
-Subject: a cheerful young princess in a beautiful pink dress and crown standing in front of a magical fairytale castle. The scene should feel bright, elegant, welcoming, and enchanting.
-```
-
-#### Flowers
-
-```txt
-Subject: a bright cheerful flower garden with large happy flowers in bloom, soft green leaves, warm golden sunlight, and a calm blue sky. The scene should feel fresh, positive, and welcoming.
-```
-
-### Recommended image settings
-
-- `model`: `gpt-image-1.5`
-- `size`: `1536x1024`
-- `quality`: `high`
-- `output_format`: `webp` or `jpeg`
-- `output_compression`: `90`
-
-### Cover generation script
-
-This repo includes a small helper script:
+`CategoryCard` displays covers at `520x780`. After generating at `1024x1536`, resize down before saving to `public/category-covers/<slug>.png` (no image library in deps, so use .NET via PowerShell):
 
 ```powershell
-npm.cmd run generate:cover -- animals
+Add-Type -AssemblyName System.Drawing
+$img = [System.Drawing.Image]::FromFile("generated/category-covers/<slug>.png")
+$resized = New-Object System.Drawing.Bitmap(520, 780)
+$g = [System.Drawing.Graphics]::FromImage($resized)
+$g.InterpolationMode = [System.Drawing.Drawing2D.InterpolationMode]::HighQualityBicubic
+$g.DrawImage($img, 0, 0, 520, 780)
+$g.Dispose(); $img.Dispose()
+$resized.Save("public/category-covers/<slug>.png", [System.Drawing.Imaging.ImageFormat]::Png)
+$resized.Dispose()
 ```
-
-Generate all 4 categories:
-
-```powershell
-npm.cmd run generate:cover -- --all
-```
-
-Write directly into the live site assets only after review:
-
-```powershell
-npm.cmd run generate:cover -- flowers --out public/category-covers
-```
-
-Extra options:
-
-```powershell
-npm.cmd run generate:cover -- animals --format jpeg --quality high --size 1536x1024
-```
-
-Requirements:
-- set `OPENAI_API_KEY` first
-- outputs go to `generated/category-covers/` by default
-- manually review before replacing files in `public/category-covers/`
 
 ### Cover selection rubric
 
 Score each generated cover like this:
 
-- `3 points`: instantly readable at small size
+- `3 points`: instantly readable at small size (520x780)
 - `3 points`: clearly positive and child-friendly
 - `2 points`: clearly fits the category
-- `1 point`: simple enough background
-- `1 point`: feels premium, not generic
+- `1 point`: simple, uncluttered composition (2-3 elements max)
+- `1 point`: matches the B&W line-art style of the other covers — no color, no gray fills
 
 Anything under `8/10` is not homepage quality.
 
@@ -145,14 +55,10 @@ Anything under `8/10` is not homepage quality.
 If a result is too busy, append:
 
 ```txt
-Make the composition simpler, with fewer background details and a stronger central subject.
+Make the composition simpler, with fewer elements and a stronger central subject.
 ```
 
-If it feels generic, append:
-
-```txt
-Increase charm, warmth, and personality while keeping the composition simple and premium.
-```
+If interiors are filled with black or gray, apply the same fix as the "too much black" pitfall below.
 
 ## Coloring pages
 

@@ -57,7 +57,6 @@ src/
 
 scripts/
   generate-images.mjs         # coloring page generator (gpt-image-1, A4 portrait)
-  generate-category-cover.mjs # category cover generator (gpt-image-1.5, landscape)
 
 docs/
   ai-generation-guide.md      # prompt system, API settings, troubleshooting
@@ -112,11 +111,11 @@ docs/
 ## Two types of images
 
 ### 1. Category covers (`public/category-covers/`)
-- Colorful, storybook illustration style
-- Landscape: `1536x1024`
-- Model: `gpt-image-1.5`, quality `high`
-- Workflow: generate to `generated/category-covers/` → review → copy to `public/category-covers/`
-- Script: `npm run generate:cover -- <category>`
+- **Black and white line art** — same coloring-book style as coloring pages, NOT colorful
+- A "hero" scene: 2-3 friendly characters/objects representing the category
+- Generated at `1024x1536` (same model/settings as coloring pages — `gpt-image-1` recommended), then resized down to `520x780` (the size `CategoryCard` displays them at)
+- Workflow: generate to `generated/category-covers/` → review → resize to `520x780` → save to `public/category-covers/<slug>.png`
+- No dedicated script — see `docs/ai-generation-guide.md` for the resize snippet
 
 ### 2. Coloring pages (`public/coloring-pages/<category>/`)
 - **Black and white line art only** — no color, no shading, no gray

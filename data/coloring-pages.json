@@ -4553,5 +4553,680 @@
       "operace",
       "povolání"
     ]
+  },
+  {
+    "slug": "baby-unicorn-01",
+    "title": "Mláďátko jednorožce",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/baby-unicorn-01.png",
+    "prompt": "A cute baby unicorn with a short curly mane, fluffy tail, and a small spiral horn, standing in a meadow surrounded by flowers and sparkly stars.",
+    "description": "Roztomilé mláďátko jednorožce stojí na louce mezi květinami a hvězdičkami.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "jednorožec",
+      "mýtické bytosti",
+      "kouzlo"
+    ]
+  },
+  {
+    "slug": "baby-dragon-01",
+    "title": "Mláďátko draka",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/baby-dragon-01.png",
+    "prompt": "A small friendly baby dragon with stubby wings, a curled tail and big round eyes, sitting and blowing tiny heart-shaped puffs of smoke, with a few rocks and flowers around.",
+    "description": "Malý přátelský dráček sedí a fouká srdíčkové obláčky kouře.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "drak",
+      "mýtické bytosti",
+      "mazlíček"
+    ]
+  },
+  {
+    "slug": "forest-fairy-01",
+    "title": "Lesní víla",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/forest-fairy-01.png",
+    "prompt": "A small forest fairy with delicate butterfly wings and a flowy dress, sitting on top of a large mushroom and holding a tiny magic wand with a star, surrounded by flowers, leaves, and tiny mushrooms.",
+    "description": "Lesní víla s motýlími křídly sedí na velkém hříbku s kouzelnou hůlkou.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "víla",
+      "les",
+      "kouzlo"
+    ]
+  },
+  {
+    "slug": "pegasus-01",
+    "title": "Pegas",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/pegasus-01.png",
+    "prompt": "A graceful winged horse with large feathered wings spread wide, flying through fluffy clouds with stars scattered around and a flowing mane and tail.",
+    "description": "Okřídlený kůň Pegas letí mezi obláčky a hvězdami.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "pegas",
+      "kůň",
+      "mýtické bytosti"
+    ]
+  },
+  {
+    "slug": "griffin-01",
+    "title": "Gryf",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/griffin-01.png",
+    "prompt": "A majestic griffin with the body of a lion and the head, wings and talons of an eagle, sitting proudly on a large rock with mountains and clouds in the background.",
+    "description": "Majestátní gryf s tělem lva a hlavou orla sedí na skále v horách.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "gryf",
+      "mýtické bytosti",
+      "hory"
+    ]
+  },
+  {
+    "slug": "christmas-tree-01",
+    "title": "Vánoční stromek",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/christmas-tree-01.png",
+    "prompt": "A decorated Christmas tree covered with round ornaments, a garland, and a large star on top, with several wrapped gift boxes with bows piled underneath.",
+    "description": "Ozdobený vánoční stromek s dárky a hvězdou na vrcholu.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vánoce",
+      "stromek",
+      "dárky"
+    ]
+  },
+  {
+    "slug": "easter-eggs-01",
+    "title": "Velikonoční vajíčka",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/easter-eggs-01.png",
+    "prompt": "A wicker basket full of decorated Easter eggs with patterns, stripes and dots, with a small bunny sitting beside the basket and a few spring flowers around.",
+    "description": "Košík plný zdobených velikonočních vajíček a malý zajíček vedle něj.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "velikonoce",
+      "vajíčka",
+      "zajíček"
+    ]
+  },
+  {
+    "slug": "halloween-pumpkin-01",
+    "title": "Halloweenská dýně",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/halloween-pumpkin-01.png",
+    "prompt": "A friendly jack-o-lantern pumpkin with a cheerful carved face, a small bat flying above it, and a cute round ghost floating beside it, with a few autumn leaves scattered on the ground.",
+    "description": "Veselá vyřezávaná dýně s netopýrem a roztomilým duchem.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "halloween",
+      "dýně",
+      "duch"
+    ]
+  },
+  {
+    "slug": "birthday-cake-01",
+    "title": "Narozeninový dort",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/birthday-cake-01.png",
+    "prompt": "A multi-layered birthday cake decorated with frosting swirls and lit candles, with balloons floating above and a wrapped gift box with a bow beside it.",
+    "description": "Narozeninový dort se svíčkami, balónky a dárkem.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "narozeniny",
+      "dort",
+      "oslava"
+    ]
+  },
+  {
+    "slug": "santa-sleigh-01",
+    "title": "Santa na saních",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/santa-sleigh-01.png",
+    "prompt": "Santa Claus riding a sleigh full of gift sacks, pulled by a reindeer with large antlers, flying through the night sky with stars and a crescent moon.",
+    "description": "Santa Claus letí na saních s dárky taženými sobem po noční obloze.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "santa",
+      "saně",
+      "vánoce"
+    ]
+  },
+  {
+    "slug": "ladybug-01",
+    "title": "Beruška",
+    "category": "insects",
+    "image": "/coloring-pages/insects/ladybug-01.png",
+    "prompt": "A cheerful ladybug with rounded spotted wings walking on a large leaf, with a small ant nearby and a few blades of grass.",
+    "description": "Veselá beruška na listu s malým mravenečkem poblíž.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "beruška",
+      "hmyz",
+      "zahrada"
+    ]
+  },
+  {
+    "slug": "bee-hive-01",
+    "title": "Včelka a úl",
+    "category": "insects",
+    "image": "/coloring-pages/insects/bee-hive-01.png",
+    "prompt": "A friendly bee with fuzzy stripes and round wings flying near a round beehive hanging from a tree branch, with a few flowers blooming below.",
+    "description": "Včelka letí k úlu na stromě nad rozkvetlými květinami.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "včela",
+      "úl",
+      "hmyz"
+    ]
+  },
+  {
+    "slug": "dragonfly-pond-01",
+    "title": "Vážka u rybníka",
+    "category": "insects",
+    "image": "/coloring-pages/insects/dragonfly-pond-01.png",
+    "prompt": "A dragonfly with long slender wings and a thin body hovering above a pond, with lily pads, reeds, and a small frog sitting on one of the lily pads.",
+    "description": "Vážka létá nad rybníkem s leknínem a žabkou.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vážka",
+      "rybník",
+      "hmyz"
+    ]
+  },
+  {
+    "slug": "snail-01",
+    "title": "Šnek",
+    "category": "insects",
+    "image": "/coloring-pages/insects/snail-01.png",
+    "prompt": "A cute snail with a large spiral shell crawling slowly along a leaf, with a small caterpillar and a tiny mushroom nearby.",
+    "description": "Šnek se velkou spirálovitou ulitou leze po listu s housenkou.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "šnek",
+      "hmyz",
+      "zahrada"
+    ]
+  },
+  {
+    "slug": "ant-hill-01",
+    "title": "Mraveniště",
+    "category": "insects",
+    "image": "/coloring-pages/insects/ant-hill-01.png",
+    "prompt": "A group of busy ants carrying leaves and twigs up a large anthill made of sticks and twigs, with grass and small flowers around the base.",
+    "description": "Skupina mravenců nese listy a větvičky na velké mraveniště.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "mravenci",
+      "mraveniště",
+      "hmyz"
+    ]
+  },
+  {
+    "slug": "phoenix-01",
+    "title": "Fénix",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/phoenix-01.png",
+    "prompt": "A majestic phoenix bird with long flowing tail feathers and wing feathers shaped like flames, perched on a rocky outcrop with a few stylized flame and spark shapes around it.",
+    "description": "Majestátní pták Fénix s ohnivými ocasními pery sedí na skále.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "fénix",
+      "mýtické bytosti",
+      "ptáci"
+    ]
+  },
+  {
+    "slug": "centaur-01",
+    "title": "Kentaur",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/centaur-01.png",
+    "prompt": "A friendly centaur with the upper body of a person and the lower body of a horse, holding a bow, standing in a forest clearing with trees and a few rocks.",
+    "description": "Přátelský kentaur s lukem stojí na lesní mýtině.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "kentaur",
+      "mýtické bytosti",
+      "les"
+    ]
+  },
+  {
+    "slug": "yeti-01",
+    "title": "Yeti",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/yeti-01.png",
+    "prompt": "A friendly furry yeti with big round eyes and a wide smile, standing in a snowy mountain landscape with pine trees and snowflakes falling around.",
+    "description": "Přátelský yeti stojí v zasněžených horách mezi smrky.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "yeti",
+      "mýtické bytosti",
+      "hory"
+    ]
+  },
+  {
+    "slug": "troll-bridge-01",
+    "title": "Troll pod mostem",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/troll-bridge-01.png",
+    "prompt": "A friendly chubby troll with a big round nose and tufted hair sitting under a stone bridge, with a stream flowing underneath and a few flowers and rocks around.",
+    "description": "Přátelský troll sedí pod kamenným mostem nad potokem.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "troll",
+      "mýtické bytosti",
+      "most"
+    ]
+  },
+  {
+    "slug": "minotaur-01",
+    "title": "Minotaurus",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/minotaur-01.png",
+    "prompt": "A friendly minotaur with a bull's head and a humanoid body, standing in a stone maze with tall hedge walls, holding a small lantern.",
+    "description": "Minotaurus s lucernou stojí v kamenném labyrintu.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "minotaurus",
+      "mýtické bytosti",
+      "labyrint"
+    ]
+  },
+  {
+    "slug": "kraken-01",
+    "title": "Kraken",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/kraken-01.png",
+    "prompt": "A friendly giant sea creature kraken with a round head, big eyes, and many curling tentacles rising from ocean waves, with a small sailing ship and a few stars in the sky.",
+    "description": "Přátelský mořský obr Kraken vystupuje z vlnek u plachetnice.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "kraken",
+      "mýtické bytosti",
+      "moře"
+    ]
+  },
+  {
+    "slug": "sphinx-01",
+    "title": "Sfinga",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/sphinx-01.png",
+    "prompt": "A majestic sphinx with the body of a lion and the head of a person wearing a pharaoh headdress, sitting in front of pyramids with the sun in the sky.",
+    "description": "Majestátní sfinga s tělem lva sedí před pyramidami.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "sfinga",
+      "mýtické bytosti",
+      "pyramidy"
+    ]
+  },
+  {
+    "slug": "gnome-garden-01",
+    "title": "Zahradní trpaslík",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/gnome-garden-01.png",
+    "prompt": "A cheerful garden gnome with a tall pointed hat and a long beard, standing among mushrooms, flowers and a small watering can in a garden.",
+    "description": "Veselý zahradní trpaslík stojí mezi hříbky a květinami.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "trpaslík",
+      "mýtické bytosti",
+      "zahrada"
+    ]
+  },
+  {
+    "slug": "nymph-01",
+    "title": "Vodní nymfa",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/nymph-01.png",
+    "prompt": "A gentle water nymph with long flowing hair sitting on a rock beside a small waterfall, surrounded by water lilies, reeds and dragonflies.",
+    "description": "Vodní nymfa s dlouhými vlasy sedí na skále u vodopádu.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "nymfa",
+      "mýtické bytosti",
+      "vodopád"
+    ]
+  },
+  {
+    "slug": "baby-phoenix-01",
+    "title": "Mláďátko fénixe",
+    "category": "mythical",
+    "image": "/coloring-pages/mythical/baby-phoenix-01.png",
+    "prompt": "A cute baby phoenix chick with fluffy feathers shaped like small flames, hatching from a round egg with cracks, surrounded by a few sparks and stars.",
+    "description": "Roztomilé mláďátko fénixe se klube z vajíčka mezi jiskrami.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "fénix",
+      "mýtické bytosti",
+      "vajíčko"
+    ]
+  },
+  {
+    "slug": "snowman-01",
+    "title": "Sněhulák",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/snowman-01.png",
+    "prompt": "A cheerful snowman with a carrot nose, button eyes, a scarf and a bucket hat, standing in a snowy yard with a few snowflakes falling and a small pine tree beside him.",
+    "description": "Veselý sněhulák s mrkvovým nosem a kloboukem stojí na sněhu.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "sněhulák",
+      "zima",
+      "svátky"
+    ]
+  },
+  {
+    "slug": "valentine-hearts-01",
+    "title": "Valentýnská srdíčka",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/valentine-hearts-01.png",
+    "prompt": "A collection of decorative hearts of different sizes with patterns and ribbons, with a small cupid figure holding a bow and arrow flying among the hearts.",
+    "description": "Skupina ozdobených srdíček a malý amorek s lukem.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "valentýn",
+      "srdíčka",
+      "láska"
+    ]
+  },
+  {
+    "slug": "fireworks-01",
+    "title": "Novoroční ohňostroj",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/fireworks-01.png",
+    "prompt": "A festive night scene with several bursts of fireworks in different star and circle shapes in the sky above a city skyline silhouette. Do not include any text, numbers, letters, or banners anywhere in the image.",
+    "description": "Noční obloha plná novoročních ohňostrojů nad městem.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "nový rok",
+      "ohňostroj",
+      "oslava"
+    ]
+  },
+  {
+    "slug": "mikulas-01",
+    "title": "Mikuláš, anděl a čert",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/mikulas-01.png",
+    "prompt": "Saint Nicholas in a long robe and bishop's mitre holding a staff, standing between a gentle angel with wings and a playful horned devil with a tail, with a basket of gifts.",
+    "description": "Mikuláš stojí mezi andělem a čertem s košíkem dárků.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "mikuláš",
+      "anděl",
+      "čert"
+    ]
+  },
+  {
+    "slug": "carnival-mask-01",
+    "title": "Karnevalová maska",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/carnival-mask-01.png",
+    "prompt": "A decorative carnival mask with swirling patterns, feathers on top, and a long handle, surrounded by confetti shapes and streamers.",
+    "description": "Ozdobná karnevalová maska s pery a konfetami kolem.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "karneval",
+      "maska",
+      "oslava"
+    ]
+  },
+  {
+    "slug": "christmas-stocking-01",
+    "title": "Vánoční punčochy",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/christmas-stocking-01.png",
+    "prompt": "Three Christmas stockings with patterned cuffs hanging from a fireplace mantel decorated with a garland, with a few candles and small ornaments on the mantel.",
+    "description": "Tři vánoční punčochy visí na ozdobeném krbu.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "vánoce",
+      "punčochy",
+      "krb"
+    ]
+  },
+  {
+    "slug": "gingerbread-cookies-01",
+    "title": "Vánoční perníčky",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/gingerbread-cookies-01.png",
+    "prompt": "A plate full of decorated gingerbread cookies in shapes of stars, hearts, gingerbread men and trees, with icing patterns, on a table with a cup and a small Christmas branch.",
+    "description": "Talíř plný ozdobených vánočních perníčků různých tvarů.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vánoce",
+      "perníčky",
+      "cukroví"
+    ]
+  },
+  {
+    "slug": "easter-lamb-01",
+    "title": "Velikonoční jehňátko",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/easter-lamb-01.png",
+    "prompt": "A cute fluffy lamb with a small bow around its neck standing in a meadow with spring flowers, a butterfly, and a few Easter eggs nearby.",
+    "description": "Roztomilé jehňátko stojí na louce s velikonočními vajíčky.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "velikonoce",
+      "jehňátko",
+      "jaro"
+    ]
+  },
+  {
+    "slug": "trick-or-treat-01",
+    "title": "Děti na Halloween",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/trick-or-treat-01.png",
+    "prompt": "Two children in cute Halloween costumes, one dressed as a ghost and one as a small pumpkin, holding trick-or-treat bags shaped like a pumpkin and a bat, standing on a porch with a jack-o-lantern.",
+    "description": "Dvě děti v halloweenských kostýmech sbírají sladkosti.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "halloween",
+      "děti",
+      "kostým"
+    ]
+  },
+  {
+    "slug": "mothers-day-flowers-01",
+    "title": "Kytice pro maminku",
+    "category": "holidays",
+    "image": "/coloring-pages/holidays/mothers-day-flowers-01.png",
+    "prompt": "A large bouquet of flowers tied with a ribbon, with a heart-shaped greeting card leaning against a vase, and a few small hearts floating around.",
+    "description": "Velká kytice květin s mašlí a přáníčkem pro maminku.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "den matek",
+      "kytice",
+      "přání"
+    ]
+  },
+  {
+    "slug": "caterpillar-01",
+    "title": "Housenka",
+    "category": "insects",
+    "image": "/coloring-pages/insects/caterpillar-01.png",
+    "prompt": "A cute segmented caterpillar with a smiling face crawling along a large leaf, with a small flower and a butterfly flying nearby.",
+    "description": "Roztomilá housenka leze po listu vedle motýla.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "housenka",
+      "hmyz",
+      "zahrada"
+    ]
+  },
+  {
+    "slug": "grasshopper-01",
+    "title": "Kobylka",
+    "category": "insects",
+    "image": "/coloring-pages/insects/grasshopper-01.png",
+    "prompt": "A cheerful grasshopper with long legs and antennae sitting on a blade of grass, with a few daisies and a ladybug nearby.",
+    "description": "Veselá kobylka sedí na stéble trávy mezi sedmikráskami.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "kobylka",
+      "hmyz",
+      "louka"
+    ]
+  },
+  {
+    "slug": "firefly-01",
+    "title": "Světluška",
+    "category": "insects",
+    "image": "/coloring-pages/insects/firefly-01.png",
+    "prompt": "A cute firefly with a glowing tail shaped like a star, flying at night above tall grass, with a crescent moon and several stars in the sky.",
+    "description": "Světluška létá v noci nad trávou pod hvězdami.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "světluška",
+      "hmyz",
+      "noc"
+    ]
+  },
+  {
+    "slug": "praying-mantis-01",
+    "title": "Kudlanka nábožná",
+    "category": "insects",
+    "image": "/coloring-pages/insects/praying-mantis-01.png",
+    "prompt": "A friendly praying mantis with long folded front legs and large eyes, sitting on a branch among leaves, with a small fly nearby.",
+    "description": "Kudlanka nábožná sedí na větvičce mezi listy.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "kudlanka",
+      "hmyz",
+      "příroda"
+    ]
+  },
+  {
+    "slug": "stag-beetle-01",
+    "title": "Roháč",
+    "category": "insects",
+    "image": "/coloring-pages/insects/stag-beetle-01.png",
+    "prompt": "A large stag beetle with big curved antler-like mandibles walking on a fallen log, with mushrooms and leaves around.",
+    "description": "Roháč s velkými kusadly leze po spadlém kmeni.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "roháč",
+      "hmyz",
+      "brouk"
+    ]
+  },
+  {
+    "slug": "moth-01",
+    "title": "Noční motýl",
+    "category": "insects",
+    "image": "/coloring-pages/insects/moth-01.png",
+    "prompt": "A moth with large patterned wings resting near a glowing lantern, with a crescent moon and stars in the night sky behind.",
+    "description": "Noční motýl s velkými křídly sedí u svítící lucerny.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "motýl",
+      "hmyz",
+      "noc"
+    ]
+  },
+  {
+    "slug": "butterfly-garden-01",
+    "title": "Motýli v zahradě",
+    "category": "insects",
+    "image": "/coloring-pages/insects/butterfly-garden-01.png",
+    "prompt": "Several butterflies with different wing patterns flying around a row of blooming flowers in a garden, with a small fence in the background.",
+    "description": "Skupina motýlů létá nad rozkvetlými květinami v zahradě.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "motýl",
+      "hmyz",
+      "zahrada"
+    ]
+  },
+  {
+    "slug": "spider-web-01",
+    "title": "Pavouk na pavučině",
+    "category": "insects",
+    "image": "/coloring-pages/insects/spider-web-01.png",
+    "prompt": "A friendly round spider sitting in the centre of a large round web strung between two branches, with a few dewdrops and leaves around.",
+    "description": "Pavouk sedí na velké pavučině mezi dvěma větvemi.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "pavouk",
+      "pavučina",
+      "příroda"
+    ]
+  },
+  {
+    "slug": "ant-picnic-01",
+    "title": "Mravenci na pikniku",
+    "category": "insects",
+    "image": "/coloring-pages/insects/ant-picnic-01.png",
+    "prompt": "A group of busy ants carrying a watermelon slice, a piece of bread and an apple across a checkered picnic blanket with a few flowers around.",
+    "description": "Skupina mravenců nese jídlo přes piknikovou deku.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "mravenci",
+      "hmyz",
+      "piknik"
+    ]
+  },
+  {
+    "slug": "cicada-01",
+    "title": "Cikáda",
+    "category": "insects",
+    "image": "/coloring-pages/insects/cicada-01.png",
+    "prompt": "A cicada with large transparent wings sitting on a tree trunk, with leaves and a sun shape in the background.",
+    "description": "Cikáda s velkými křídly sedí na kmeni stromu.",
+    "featured": false,
+    "ageGroup": "6-8",
+    "tags": [
+      "cikáda",
+      "hmyz",
+      "strom"
+    ]
   }
 ]

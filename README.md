@@ -86,15 +86,9 @@ Required environment variable in Vercel project settings:
 NEXT_PUBLIC_SITE_URL=https://moje-omalovanky.cz
 ```
 
-## AI cover generation
+## AI image generation
 
-Generate a premium category cover candidate with OpenAI `gpt-image-1.5`:
-
-```powershell
-npm.cmd run generate:cover -- animals
-```
-
-By default, generated files are written to `generated/category-covers/` so you can review them before replacing anything in `public/category-covers/`.
+Category covers and coloring pages are both black-and-white line art, generated with `scripts/generate-images.mjs` (see `docs/ai-generation-guide.md` for prompts, settings, and the cover resize step). Generated files are written to `generated/` so you can review them before placing anything in `public/`.
 
 ## Documentation
 

@@ -666,14 +666,23 @@ main {
 .theme-buildings { background: white; }
 .theme-clothes   { background: white; }
 .theme-jobs      { background: white; }
+.theme-mythical  { background: white; }
+.theme-holidays  { background: white; }
+.theme-insects   { background: white; }
 
 .theme-buildings .category-card-body, .theme-buildings .coloring-card-body, .theme-buildings .coloring-card-actions { background: rgba(212, 149, 106, 0.08); }
 .theme-clothes .category-card-body,   .theme-clothes .coloring-card-body,   .theme-clothes .coloring-card-actions   { background: rgba(196, 154, 200, 0.08); }
 .theme-jobs .category-card-body,      .theme-jobs .coloring-card-body,      .theme-jobs .coloring-card-actions      { background: rgba(91, 168, 212, 0.08); }
+.theme-mythical .category-card-body,  .theme-mythical .coloring-card-body,  .theme-mythical .coloring-card-actions  { background: rgba(173, 110, 230, 0.10); }
+.theme-holidays .category-card-body,  .theme-holidays .coloring-card-body,  .theme-holidays .coloring-card-actions  { background: rgba(214, 90, 105, 0.08); }
+.theme-insects .category-card-body,   .theme-insects .coloring-card-body,   .theme-insects .coloring-card-actions   { background: rgba(168, 199, 64, 0.10); }
 
 .accent-buildings { background: rgba(212, 149, 106, 0.22); }
 .accent-clothes   { background: rgba(196, 154, 200, 0.22); }
 .accent-jobs      { background: rgba(91, 168, 212, 0.22); }
+.accent-mythical  { background: rgba(173, 110, 230, 0.22); }
+.accent-holidays  { background: rgba(214, 90, 105, 0.22); }
+.accent-insects   { background: rgba(168, 199, 64, 0.25); }
 
 .coloring-image-wrap {
   position: relative;

@@ -1,4 +1,4 @@
-export type CategorySlug = "cars" | "animals" | "princesses" | "flowers" | "space" | "dinosaurs" | "ocean" | "fairytales" | "food" | "sports" | "buildings" | "clothes" | "jobs";
+export type CategorySlug = "cars" | "animals" | "princesses" | "flowers" | "space" | "dinosaurs" | "ocean" | "fairytales" | "food" | "sports" | "buildings" | "clothes" | "jobs" | "mythical" | "holidays" | "insects";
 
 export type Category = {
   slug: CategorySlug;

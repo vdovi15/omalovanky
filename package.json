@@ -4,8 +4,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "generate:cover": "node scripts/generate-category-cover.mjs"
+    "start": "next start"
   },
   "dependencies": {
     "@next/third-parties": "^16.2.6",

@@ -143,6 +143,18 @@
     "jobs": {
       "title": "Povolání",
       "description": "Hasiči, doktoři, piloti a další povolání pro zvídavé děti."
+    },
+    "mythical": {
+      "title": "Mytické bytosti",
+      "description": "Jednorožci, draci, víly a kouzelná stvoření pro malé snílky."
+    },
+    "holidays": {
+      "title": "Svátky a oslavy",
+      "description": "Vánoce, Velikonoce, Halloween a narozeninové oslavy k vybarvování."
+    },
+    "insects": {
+      "title": "Hmyz",
+      "description": "Berušky, motýli, včely a brouci pro malé objevitele přírody."
     }
   },
   "pages": {
@@ -1229,6 +1241,186 @@
     "surgeon-01": {
       "title": "Chirurg",
       "description": "Chirurg v operačním sále s chirurgickými světly, nástroji a monitory."
+    },
+    "baby-unicorn-01": {
+      "title": "Mláďátko jednorožce",
+      "description": "Roztomilé mláďátko jednorožce stojí na louce mezi květinami a hvězdičkami."
+    },
+    "baby-dragon-01": {
+      "title": "Mláďátko draka",
+      "description": "Malý přátelský dráček sedí a fouká srdíčkové obláčky kouře."
+    },
+    "forest-fairy-01": {
+      "title": "Lesní víla",
+      "description": "Lesní víla s motýlími křídly sedí na velkém hříbku s kouzelnou hůlkou."
+    },
+    "pegasus-01": {
+      "title": "Pegas",
+      "description": "Okřídlený kůň Pegas letí mezi obláčky a hvězdami."
+    },
+    "griffin-01": {
+      "title": "Gryf",
+      "description": "Majestátní gryf s tělem lva a hlavou orla sedí na skále v horách."
+    },
+    "christmas-tree-01": {
+      "title": "Vánoční stromek",
+      "description": "Ozdobený vánoční stromek s dárky a hvězdou na vrcholu."
+    },
+    "easter-eggs-01": {
+      "title": "Velikonoční vajíčka",
+      "description": "Košík plný zdobených velikonočních vajíček a malý zajíček vedle něj."
+    },
+    "halloween-pumpkin-01": {
+      "title": "Halloweenská dýně",
+      "description": "Veselá vyřezávaná dýně s netopýrem a roztomilým duchem."
+    },
+    "birthday-cake-01": {
+      "title": "Narozeninový dort",
+      "description": "Narozeninový dort se svíčkami, balónky a dárkem."
+    },
+    "santa-sleigh-01": {
+      "title": "Santa na saních",
+      "description": "Santa Claus letí na saních s dárky taženými sobem po noční obloze."
+    },
+    "ladybug-01": {
+      "title": "Beruška",
+      "description": "Veselá beruška na listu s malým mravenečkem poblíž."
+    },
+    "bee-hive-01": {
+      "title": "Včelka a úl",
+      "description": "Včelka letí k úlu na stromě nad rozkvetlými květinami."
+    },
+    "dragonfly-pond-01": {
+      "title": "Vážka u rybníka",
+      "description": "Vážka létá nad rybníkem s leknínem a žabkou."
+    },
+    "snail-01": {
+      "title": "Šnek",
+      "description": "Šnek se velkou spirálovitou ulitou leze po listu s housenkou."
+    },
+    "ant-hill-01": {
+      "title": "Mraveniště",
+      "description": "Skupina mravenců nese listy a větvičky na velké mraveniště."
+    },
+    "phoenix-01": {
+      "title": "Fénix",
+      "description": "Majestátní pták Fénix s ohnivými ocasními pery sedí na skále."
+    },
+    "centaur-01": {
+      "title": "Kentaur",
+      "description": "Přátelský kentaur s lukem stojí na lesní mýtině."
+    },
+    "yeti-01": {
+      "title": "Yeti",
+      "description": "Přátelský yeti stojí v zasněžených horách mezi smrky."
+    },
+    "troll-bridge-01": {
+      "title": "Troll pod mostem",
+      "description": "Přátelský troll sedí pod kamenným mostem nad potokem."
+    },
+    "minotaur-01": {
+      "title": "Minotaurus",
+      "description": "Minotaurus s lucernou stojí v kamenném labyrintu."
+    },
+    "kraken-01": {
+      "title": "Kraken",
+      "description": "Přátelský mořský obr Kraken vystupuje z vlnek u plachetnice."
+    },
+    "sphinx-01": {
+      "title": "Sfinga",
+      "description": "Majestátní sfinga s tělem lva sedí před pyramidami."
+    },
+    "gnome-garden-01": {
+      "title": "Zahradní trpaslík",
+      "description": "Veselý zahradní trpaslík stojí mezi hříbky a květinami."
+    },
+    "nymph-01": {
+      "title": "Vodní nymfa",
+      "description": "Vodní nymfa s dlouhými vlasy sedí na skále u vodopádu."
+    },
+    "baby-phoenix-01": {
+      "title": "Mláďátko fénixe",
+      "description": "Roztomilé mláďátko fénixe se klube z vajíčka mezi jiskrami."
+    },
+    "snowman-01": {
+      "title": "Sněhulák",
+      "description": "Veselý sněhulák s mrkvovým nosem a kloboukem stojí na sněhu."
+    },
+    "valentine-hearts-01": {
+      "title": "Valentýnská srdíčka",
+      "description": "Skupina ozdobených srdíček a malý amorek s lukem."
+    },
+    "fireworks-01": {
+      "title": "Novoroční ohňostroj",
+      "description": "Noční obloha plná novoročních ohňostrojů nad městem."
+    },
+    "mikulas-01": {
+      "title": "Mikuláš, anděl a čert",
+      "description": "Mikuláš stojí mezi andělem a čertem s košíkem dárků."
+    },
+    "carnival-mask-01": {
+      "title": "Karnevalová maska",
+      "description": "Ozdobná karnevalová maska s pery a konfetami kolem."
+    },
+    "christmas-stocking-01": {
+      "title": "Vánoční punčochy",
+      "description": "Tři vánoční punčochy visí na ozdobeném krbu."
+    },
+    "gingerbread-cookies-01": {
+      "title": "Vánoční perníčky",
+      "description": "Talíř plný ozdobených vánočních perníčků různých tvarů."
+    },
+    "easter-lamb-01": {
+      "title": "Velikonoční jehňátko",
+      "description": "Roztomilé jehňátko stojí na louce s velikonočními vajíčky."
+    },
+    "trick-or-treat-01": {
+      "title": "Děti na Halloween",
+      "description": "Dvě děti v halloweenských kostýmech sbírají sladkosti."
+    },
+    "mothers-day-flowers-01": {
+      "title": "Kytice pro maminku",
+      "description": "Velká kytice květin s mašlí a přáníčkem pro maminku."
+    },
+    "caterpillar-01": {
+      "title": "Housenka",
+      "description": "Roztomilá housenka leze po listu vedle motýla."
+    },
+    "grasshopper-01": {
+      "title": "Kobylka",
+      "description": "Veselá kobylka sedí na stéble trávy mezi sedmikráskami."
+    },
+    "firefly-01": {
+      "title": "Světluška",
+      "description": "Světluška létá v noci nad trávou pod hvězdami."
+    },
+    "praying-mantis-01": {
+      "title": "Kudlanka nábožná",
+      "description": "Kudlanka nábožná sedí na větvičce mezi listy."
+    },
+    "stag-beetle-01": {
+      "title": "Roháč",
+      "description": "Roháč s velkými kusadly leze po spadlém kmeni."
+    },
+    "moth-01": {
+      "title": "Noční motýl",
+      "description": "Noční motýl s velkými křídly sedí u svítící lucerny."
+    },
+    "butterfly-garden-01": {
+      "title": "Motýli v zahradě",
+      "description": "Skupina motýlů létá nad rozkvetlými květinami v zahradě."
+    },
+    "spider-web-01": {
+      "title": "Pavouk na pavučině",
+      "description": "Pavouk sedí na velké pavučině mezi dvěma větvemi."
+    },
+    "ant-picnic-01": {
+      "title": "Mravenci na pikniku",
+      "description": "Skupina mravenců nese jídlo přes piknikovou deku."
+    },
+    "cicada-01": {
+      "title": "Cikáda",
+      "description": "Cikáda s velkými křídly sedí na kmeni stromu."
     }
   }
 }
