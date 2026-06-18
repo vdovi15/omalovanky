@@ -155,6 +155,10 @@
     "insects": {
       "title": "Hmyz",
       "description": "Berušky, motýli, včely a brouci pro malé objevitele přírody."
+    },
+    "flags": {
+      "title": "Vlajky světa",
+      "description": "Vlajky zemí celého světa k vybarvení pro malé cestovatele."
     }
   },
   "pages": {
@@ -1421,6 +1425,10 @@
     "cicada-01": {
       "title": "Cikáda",
       "description": "Cikáda s velkými křídly sedí na kmeni stromu."
+    },
+    "slovak-flag-01": {
+      "title": "Slovenská vlajka",
+      "description": "Slovenská vlajka s bílou, modrou a červenou barvou a státním znakem."
     }
   }
 }

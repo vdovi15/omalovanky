@@ -155,6 +155,10 @@
     "insects": {
       "title": "Insekten & Käfer",
       "description": "Marienkäfer, Schmetterlinge, Bienen und Käfer für kleine Naturforscher."
+    },
+    "flags": {
+      "title": "Weltflaggen",
+      "description": "Flaggen aus aller Welt zum Ausmalen für kleine Entdecker."
     }
   },
   "pages": {
@@ -1533,6 +1537,10 @@
     "cicada-01": {
       "title": "Zikade",
       "description": "Eine Zikade mit großen Flügeln sitzt auf einem Baumstamm."
+    },
+    "slovak-flag-01": {
+      "title": "Slowakische Flagge",
+      "description": "Die slowakische Flagge mit weißen, blauen und roten Streifen und Wappen."
     }
   }
 }

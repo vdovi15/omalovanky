@@ -5228,5 +5228,20 @@
       "hmyz",
       "strom"
     ]
+  },
+  {
+    "slug": "slovak-flag-01",
+    "title": "Slovenská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/slovak-flag-01.png",
+    "prompt": "A kids coloring book page of the Slovak flag: a horizontal rectangular flag with three equal horizontal stripes — white on top, blue in the middle, red on the bottom — and the Slovak coat of arms on the left-center: a simple outlined shield with a double-barred cross standing on three hills. Black outline drawing only on a pure white background. Every stripe and shape interior is completely white and empty, ready to be colored in by a child. No filled areas, no solid black shapes, no gray, no shading. Simple bold outlines only. Suitable for age 5-8.",
+    "description": "Slovenská vlajka s bílou, modrou a červenou barvou a státním znakem.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "slovensko",
+      "evropa"
+    ]
   }
 ]

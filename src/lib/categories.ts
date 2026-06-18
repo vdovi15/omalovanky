@@ -86,5 +86,10 @@ export const categoryThemes: Record<CategorySlug, CategoryTheme> = {
     badge: "Bzzz",
     cardClassName: "theme-insects",
     accentClassName: "accent-insects"
+  },
+  flags: {
+    badge: "Svět",
+    cardClassName: "theme-flags",
+    accentClassName: "accent-flags"
   }
 };

@@ -94,5 +94,11 @@
     "title": "Hmyz",
     "description": "Berušky, motýli, včely a brouci pro malé objevitele přírody.",
     "coverImage": "/category-covers/insects.png"
+  },
+  {
+    "slug": "flags",
+    "title": "Vlajky světa",
+    "description": "Vlajky zemí celého světa k vybarvení pro malé cestovatele.",
+    "coverImage": "/category-covers/flags.png"
   }
 ]

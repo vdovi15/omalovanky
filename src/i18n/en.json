@@ -155,6 +155,10 @@
     "insects": {
       "title": "Insects & Bugs",
       "description": "Ladybugs, butterflies, bees, and bugs for little nature explorers."
+    },
+    "flags": {
+      "title": "World Flags",
+      "description": "Flags from countries around the world to color for little explorers."
     }
   },
   "pages": {
@@ -1533,6 +1537,10 @@
     "cicada-01": {
       "title": "Cicada",
       "description": "A cicada with large wings sits on a tree trunk."
+    },
+    "slovak-flag-01": {
+      "title": "Slovak Flag",
+      "description": "The Slovak flag with white, blue, and red stripes and the coat of arms."
     }
   }
 }

@@ -155,6 +155,10 @@
     "insects": {
       "title": "Insekty i robaki",
       "description": "Biedronki, motyle, pszczoły i robaki dla małych odkrywców przyrody."
+    },
+    "flags": {
+      "title": "Flagi świata",
+      "description": "Flagi krajów z całego świata do kolorowania dla małych podróżników."
     }
   },
   "pages": {
@@ -1533,6 +1537,10 @@
     "cicada-01": {
       "title": "Cykada",
       "description": "Cykada z dużymi skrzydłami siedzi na pniu drzewa."
+    },
+    "slovak-flag-01": {
+      "title": "Flaga Słowacji",
+      "description": "Flaga Słowacji z białym, niebieskim i czerwonym pasem oraz herbem."
     }
   }
 }
