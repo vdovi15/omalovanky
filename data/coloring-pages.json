@@ -5243,5 +5243,680 @@
       "slovensko",
       "evropa"
     ]
+  },
+  {
+    "slug": "albania-flag-01",
+    "title": "Albánská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/albania-flag-01.png",
+    "prompt": "The Albanian flag: a rectangular flag with a large black double-headed eagle with spread wings centered on the flag. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Albánská vlajka s červeným polem a černou dvouhlavou orlicí.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "albánie",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "andorra-flag-01",
+    "title": "Vlajka Andorry",
+    "category": "flags",
+    "image": "/coloring-pages/flags/andorra-flag-01.png",
+    "prompt": "The Andorran flag: a rectangular flag divided into three equal vertical stripes from left to right, with a small detailed coat of arms shield centered on the middle stripe. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Vlajka Andorry s třemi svislými pruhy a státním znakem uprostřed.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "andorra",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "austria-flag-01",
+    "title": "Rakouská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/austria-flag-01.png",
+    "prompt": "The Austrian flag: a rectangular flag with three equal horizontal stripes — red on top, white in the middle, red on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Rakouská vlajka s vodorovnými pruhy červená-bílá-červená.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "rakousko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "belarus-flag-01",
+    "title": "Vlajka Běloruska",
+    "category": "flags",
+    "image": "/coloring-pages/flags/belarus-flag-01.png",
+    "prompt": "The Belarusian flag: a rectangular flag with a wide red horizontal stripe on top and a narrower green horizontal stripe on the bottom, with a vertical strip of decorative geometric ornament pattern running along the left edge. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Vlajka Běloruska s červeno-zeleným polem a ornamentálním pruhem vlevo.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "bělorusko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "belgium-flag-01",
+    "title": "Belgická vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/belgium-flag-01.png",
+    "prompt": "The Belgian flag: a rectangular flag divided into three equal vertical stripes — black on the left, yellow in the middle, red on the right. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Belgická vlajka s třemi svislými pruhy černá-žlutá-červená.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "belgie",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "bosnia-flag-01",
+    "title": "Vlajka Bosny a Hercegoviny",
+    "category": "flags",
+    "image": "/coloring-pages/flags/bosnia-flag-01.png",
+    "prompt": "The Bosnian flag: a rectangular flag with a large yellow right-angle triangle pointing from the top-left to the bottom-right corner, with a diagonal row of small five-pointed stars along the upper-right edge of the triangle. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Vlajka Bosny a Hercegoviny s modrým polem, žlutým trojúhelníkem a hvězdami.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "bosna",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "bulgaria-flag-01",
+    "title": "Bulharská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/bulgaria-flag-01.png",
+    "prompt": "The Bulgarian flag: a rectangular flag with three equal horizontal stripes — white on top, green in the middle, red on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Bulharská vlajka s vodorovnými pruhy bílá-zelená-červená.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "bulharsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "croatia-flag-01",
+    "title": "Chorvatská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/croatia-flag-01.png",
+    "prompt": "The Croatian flag: a rectangular flag with three equal horizontal stripes — red on top, white in the middle, blue on the bottom — with a shield coat of arms featuring a red and white checkerboard pattern centered at the top. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Chorvatská vlajka s pruhy červená-bílá-modrá a šachovnicovým znakem.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "chorvatsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "cyprus-flag-01",
+    "title": "Kyperská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/cyprus-flag-01.png",
+    "prompt": "The Cypriot flag: a rectangular white flag with an outline map silhouette of the island of Cyprus in the center, and two crossed olive branch stems with leaves below the island map. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Kyperská vlajka s obrysem ostrova Kypr a olivovými ratolestmi.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "kypr",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "czech-flag-01",
+    "title": "Česká vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/czech-flag-01.png",
+    "prompt": "The Czech flag: a rectangular flag with a white horizontal stripe on top and a red horizontal stripe on the bottom, with a triangle pointing to the right from the left side. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Česká vlajka s bílým a červeným pruhem a modrým trojúhelníkem vlevo.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "česká republika",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "denmark-flag-01",
+    "title": "Dánská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/denmark-flag-01.png",
+    "prompt": "The Danish flag (Dannebrog): a rectangular flag with a bold cross, where the vertical bar of the cross is positioned slightly left of center, dividing the flag into four rectangles. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Dánská vlajka s červeným polem a bílým křížem.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "dánsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "estonia-flag-01",
+    "title": "Estonská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/estonia-flag-01.png",
+    "prompt": "The Estonian flag: a rectangular flag with three equal horizontal stripes — blue on top, black in the middle, white on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Estonská vlajka s vodorovnými pruhy modrá-černá-bílá.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "estonsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "finland-flag-01",
+    "title": "Finská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/finland-flag-01.png",
+    "prompt": "The Finnish flag: a rectangular flag with a bold cross, where the vertical bar of the cross is positioned slightly left of center, dividing the flag into four rectangles. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Finská vlajka s bílým polem a modrým křížem.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "finsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "france-flag-01",
+    "title": "Francouzská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/france-flag-01.png",
+    "prompt": "The French tricolor flag: a rectangular flag divided into three equal vertical stripes — blue on the left, white in the middle, red on the right. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Francouzská vlajka s třemi svislými pruhy modrá-bílá-červená.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "francie",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "germany-flag-01",
+    "title": "Německá vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/germany-flag-01.png",
+    "prompt": "The German flag: a rectangular flag with three equal horizontal stripes — black on top, red in the middle, gold/yellow on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Německá vlajka s vodorovnými pruhy černá-červená-zlatá.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "německo",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "greece-flag-01",
+    "title": "Řecká vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/greece-flag-01.png",
+    "prompt": "The Greek flag: a rectangular flag with nine alternating horizontal stripes (five blue and four white), and a blue square in the upper-left corner containing a white cross. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Řecká vlajka s devíti modrými a bílými pruhy a křížem v rohu.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "řecko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "hungary-flag-01",
+    "title": "Maďarská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/hungary-flag-01.png",
+    "prompt": "The Hungarian flag: a rectangular flag with three equal horizontal stripes — red on top, white in the middle, green on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Maďarská vlajka s vodorovnými pruhy červená-bílá-zelená.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "maďarsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "iceland-flag-01",
+    "title": "Islandská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/iceland-flag-01.png",
+    "prompt": "The Icelandic flag: a rectangular flag with two overlapping crosses — an outer white cross and an inner red cross — where the vertical bar is positioned slightly left of center. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Islandská vlajka s modrým polem a červeným křížem s bílým lemem.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "island",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "ireland-flag-01",
+    "title": "Irská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/ireland-flag-01.png",
+    "prompt": "The Irish tricolor flag: a rectangular flag divided into three equal vertical stripes — green on the left, white in the middle, orange on the right. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Irská vlajka s třemi svislými pruhy zelená-bílá-oranžová.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "irsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "italy-flag-01",
+    "title": "Italská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/italy-flag-01.png",
+    "prompt": "The Italian tricolor flag: a rectangular flag divided into three equal vertical stripes — green on the left, white in the middle, red on the right. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Italská vlajka s třemi svislými pruhy zelená-bílá-červená.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "itálie",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "kosovo-flag-01",
+    "title": "Vlajka Kosova",
+    "category": "flags",
+    "image": "/coloring-pages/flags/kosovo-flag-01.png",
+    "prompt": "The Kosovo flag: a rectangular blue flag with a yellow outline map silhouette of Kosovo in the center, and six small five-pointed stars in a gentle arc above the map. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Vlajka Kosova s modrým polem, obrysem země a šesti hvězdami.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "kosovo",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "latvia-flag-01",
+    "title": "Lotyšská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/latvia-flag-01.png",
+    "prompt": "The Latvian flag: a rectangular flag with a wide dark carmine-red horizontal stripe on top, a narrow white horizontal stripe in the middle, and a wide dark carmine-red horizontal stripe on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Lotyšská vlajka s tmavě červenými a bílým vodorovným pruhem.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "lotyšsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "liechtenstein-flag-01",
+    "title": "Vlajka Lichtenštejnska",
+    "category": "flags",
+    "image": "/coloring-pages/flags/liechtenstein-flag-01.png",
+    "prompt": "The Liechtenstein flag: a rectangular flag with a blue horizontal stripe on top and a red horizontal stripe on the bottom, with a small simple crown shape in the upper-left corner. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Vlajka Lichtenštejnska s modrým a červeným pruhem a korunkou vlevo nahoře.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "lichtenštejnsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "lithuania-flag-01",
+    "title": "Litevská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/lithuania-flag-01.png",
+    "prompt": "The Lithuanian flag: a rectangular flag with three equal horizontal stripes — yellow on top, green in the middle, red on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Litevská vlajka s vodorovnými pruhy žlutá-zelená-červená.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "litva",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "luxembourg-flag-01",
+    "title": "Lucemburská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/luxembourg-flag-01.png",
+    "prompt": "The Luxembourg flag: a rectangular flag with three equal horizontal stripes — red on top, white in the middle, light blue on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Lucemburská vlajka s vodorovnými pruhy červená-bílá-světle modrá.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "lucembursko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "malta-flag-01",
+    "title": "Maltská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/malta-flag-01.png",
+    "prompt": "The Maltese flag: a rectangular flag divided into two equal vertical halves — white on the left and red on the right — with a small ornate George Cross emblem in the upper-left white section. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Maltská vlajka s bílou a červenou polovinou a Jiřským křížem vlevo nahoře.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "malta",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "moldova-flag-01",
+    "title": "Moldavská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/moldova-flag-01.png",
+    "prompt": "The Moldovan flag: a rectangular flag divided into three equal vertical stripes — blue on the left, yellow in the middle, red on the right — with a coat of arms featuring an eagle holding a shield centered on the middle yellow stripe. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Moldavská vlajka s pruhy modrá-žlutá-červená a státním znakem uprostřed.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "moldavsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "monaco-flag-01",
+    "title": "Vlajka Monaka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/monaco-flag-01.png",
+    "prompt": "The Monegasque flag: a rectangular flag divided into two equal horizontal halves — red on top and white on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Vlajka Monaka se dvěma vodorovnými pruhy červená-bílá.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "monako",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "montenegro-flag-01",
+    "title": "Vlajka Černé Hory",
+    "category": "flags",
+    "image": "/coloring-pages/flags/montenegro-flag-01.png",
+    "prompt": "The Montenegrin flag: a rectangular flag with a red field surrounded by a narrow golden-yellow decorative border on all four sides, with a golden double-headed eagle coat of arms centered in the middle. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Vlajka Černé Hory s červeným polem, zlatým lemem a orlem uprostřed.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "černá hora",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "netherlands-flag-01",
+    "title": "Nizozemská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/netherlands-flag-01.png",
+    "prompt": "The Dutch flag: a rectangular flag with three equal horizontal stripes — red on top, white in the middle, blue on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Nizozemská vlajka s vodorovnými pruhy červená-bílá-modrá.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "nizozemsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "north-macedonia-flag-01",
+    "title": "Vlajka Severní Makedonie",
+    "category": "flags",
+    "image": "/coloring-pages/flags/north-macedonia-flag-01.png",
+    "prompt": "The North Macedonian flag: a rectangular red flag with a golden-yellow sun in the center and eight bold straight rays extending from the center out to all four edges and four corners of the flag. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Vlajka Severní Makedonie s červeným polem a zlatým sluncem s paprsky.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "severní makedonie",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "norway-flag-01",
+    "title": "Norská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/norway-flag-01.png",
+    "prompt": "The Norwegian flag: a rectangular red flag with a blue cross outlined in white, where the vertical bar is positioned slightly left of center, dividing the flag into four rectangles. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Norská vlajka s červeným polem a modrým křížem s bílým lemem.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "norsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "poland-flag-01",
+    "title": "Polská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/poland-flag-01.png",
+    "prompt": "The Polish flag: a rectangular flag divided into two equal horizontal halves — white on top and red on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Polská vlajka se dvěma vodorovnými pruhy bílá-červená.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "polsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "portugal-flag-01",
+    "title": "Portugalská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/portugal-flag-01.png",
+    "prompt": "The Portuguese flag: a rectangular flag with a vertical green section on the left (about two-fifths of the width) and a red section on the right, with a circular coat of arms shield centered on the vertical dividing line. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Portugalská vlajka se zeleným a červeným polem a státním znakem uprostřed.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "portugalsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "romania-flag-01",
+    "title": "Rumunská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/romania-flag-01.png",
+    "prompt": "The Romanian tricolor flag: a rectangular flag divided into three equal vertical stripes — dark blue on the left, yellow in the middle, red on the right. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Rumunská vlajka s třemi svislými pruhy modrá-žlutá-červená.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "rumunsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "russia-flag-01",
+    "title": "Ruská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/russia-flag-01.png",
+    "prompt": "The Russian tricolor flag: a rectangular flag with three equal horizontal stripes — white on top, blue in the middle, red on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Ruská vlajka s vodorovnými pruhy bílá-modrá-červená.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "rusko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "san-marino-flag-01",
+    "title": "Vlajka San Marina",
+    "category": "flags",
+    "image": "/coloring-pages/flags/san-marino-flag-01.png",
+    "prompt": "The San Marino flag: a rectangular flag divided into two equal horizontal halves — white on top and light blue on the bottom — with a coat of arms shield featuring three towers on hilltops centered on the flag. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Vlajka San Marina s bílým a světle modrým pruhem a státním znakem.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "san marino",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "serbia-flag-01",
+    "title": "Srbská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/serbia-flag-01.png",
+    "prompt": "The Serbian flag: a rectangular flag with three equal horizontal stripes — red on top, blue in the middle, white on the bottom — with a coat of arms featuring a double-headed eagle and a cross-and-shield design on the left side. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Srbská vlajka s pruhy červená-modrá-bílá a státním znakem vlevo.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "srbsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "slovenia-flag-01",
+    "title": "Slovinská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/slovenia-flag-01.png",
+    "prompt": "The Slovenian flag: a rectangular flag with three equal horizontal stripes — white on top, blue in the middle, red on the bottom — with a shield coat of arms featuring a mountain peak and three stars in the upper-left area. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Slovinská vlajka s pruhy bílá-modrá-červená a státním znakem vlevo nahoře.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "slovinsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "spain-flag-01",
+    "title": "Španělská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/spain-flag-01.png",
+    "prompt": "The Spanish flag: a rectangular flag with a narrow red horizontal stripe on top, a wide yellow/gold horizontal stripe in the middle (twice as wide), and a narrow red horizontal stripe on the bottom, with a coat of arms centered slightly to the left in the yellow stripe. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Španělská vlajka s pruhy červená-žlutá-červená a státním znakem uprostřed.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "španělsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "sweden-flag-01",
+    "title": "Švédská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/sweden-flag-01.png",
+    "prompt": "The Swedish flag: a rectangular blue flag with a bold golden-yellow cross, where the vertical bar is positioned slightly left of center, dividing the flag into four rectangles. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Švédská vlajka s modrým polem a zlatým křížem.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "švédsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "switzerland-flag-01",
+    "title": "Švýcarská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/switzerland-flag-01.png",
+    "prompt": "The Swiss flag: a square red flag with a bold equal-armed white cross centered in the middle (cross arms are equal width and length, slightly shorter than the flag edges). Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Švýcarská vlajka s červeným polem a bílým křížem uprostřed.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "švýcarsko",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "ukraine-flag-01",
+    "title": "Ukrajinská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/ukraine-flag-01.png",
+    "prompt": "The Ukrainian flag: a rectangular flag divided into two equal horizontal halves — blue on top and yellow on the bottom. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Ukrajinská vlajka se dvěma vodorovnými pruhy modrá-žlutá.",
+    "featured": false,
+    "ageGroup": "4-7",
+    "tags": [
+      "vlajka",
+      "ukrajina",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "uk-flag-01",
+    "title": "Britská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/uk-flag-01.png",
+    "prompt": "The British Union Jack flag: a rectangular blue flag with a bold red vertical and horizontal cross with white trim, overlaid with bold red diagonal stripes from corner to corner also with white trim. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Britská vlajka Union Jack s překrývajícími se kříži na modrém poli.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "velká británie",
+      "evropa"
+    ]
+  },
+  {
+    "slug": "vatican-flag-01",
+    "title": "Vatikánská vlajka",
+    "category": "flags",
+    "image": "/coloring-pages/flags/vatican-flag-01.png",
+    "prompt": "The Vatican flag: a square flag divided into two equal vertical halves — yellow/gold on the left and white on the right — with a papal tiara crown above two crossed ornate keys centered in the white right half. Black outline drawing only on a pure white background, all interiors white and empty. No shading, no fills, simple bold outlines.",
+    "description": "Vatikánská vlajka se zlatou a bílou polovinou a papežskými klíči.",
+    "featured": false,
+    "ageGroup": "5-8",
+    "tags": [
+      "vlajka",
+      "vatikán",
+      "evropa"
+    ]
   }
 ]
