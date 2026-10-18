@@ -1587,5 +1587,20 @@
     "ukraine-flag-01": { "title": "Flaga Ukrainy", "description": "Flaga Ukrainy z dwiema poziomymi połowami niebiesko-żółtymi." },
     "uk-flag-01": { "title": "Flaga Wielkiej Brytanii", "description": "Flaga Wielkiej Brytanii Union Jack z nakładającymi się krzyżami na niebieskim polu." },
     "vatican-flag-01": { "title": "Flaga Watykanu", "description": "Flaga Watykanu ze złoto-białymi połowami i papieskimi kluczami." }
+  },
+  "feedback": {
+    "button": "Napisz do nas",
+    "title": "Twoja opinia jest dla nas ważna",
+    "intro": "Podobają ci się kolorowanki? Brakuje ci obrazka lub kategorii? Daj nam znać.",
+    "ratingLabel": "Jak podoba ci się nasza strona?",
+    "messageLabel": "Wiadomość",
+    "messagePlaceholder": "Co moglibyśmy poprawić lub dodać?",
+    "emailLabel": "E-mail (opcjonalnie, jeśli chcesz odpowiedź)",
+    "emailPlaceholder": "ty@email.pl",
+    "submit": "Wyślij",
+    "sending": "Wysyłanie…",
+    "thanks": "Dziękujemy! Otrzymaliśmy twoją wiadomość.",
+    "error": "Nie udało się wysłać wiadomości. Spróbuj ponownie.",
+    "close": "Zamknij"
   }
 }

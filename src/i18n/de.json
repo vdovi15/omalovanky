@@ -1587,5 +1587,20 @@
     "ukraine-flag-01": { "title": "Ukrainische Flagge", "description": "Die ukrainische Flagge mit blauem und gelbem horizontalen Streifen." },
     "uk-flag-01": { "title": "Britische Flagge", "description": "Die britische Union-Jack-Flagge mit überlappenden Kreuzen auf blauem Feld." },
     "vatican-flag-01": { "title": "Vatikanische Flagge", "description": "Die vatikanische Flagge mit gold-weißen Hälften und päpstlichen Schlüsseln." }
+  },
+  "feedback": {
+    "button": "Feedback",
+    "title": "Deine Meinung zählt",
+    "intro": "Gefallen dir die Malbilder? Fehlt dir ein Bild oder eine Kategorie? Sag uns Bescheid.",
+    "ratingLabel": "Wie gefällt dir unsere Seite?",
+    "messageLabel": "Nachricht",
+    "messagePlaceholder": "Was können wir verbessern oder hinzufügen?",
+    "emailLabel": "E-Mail (optional, falls du eine Antwort möchtest)",
+    "emailPlaceholder": "du@email.de",
+    "submit": "Senden",
+    "sending": "Wird gesendet…",
+    "thanks": "Danke! Wir haben deine Nachricht erhalten.",
+    "error": "Die Nachricht konnte nicht gesendet werden. Bitte versuche es erneut.",
+    "close": "Schließen"
   }
 }

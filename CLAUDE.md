@@ -160,6 +160,7 @@ Use `/generate-coloring` in any Claude Code session to add and generate a new co
 - **Domain:** `moje-omalovanky.cz` — registered at Wedos, DNS pointed to Vercel
 - **Analytics:** Vercel Analytics (`@vercel/analytics`) imported in `src/app/layout.tsx`
 - **Env var:** `NEXT_PUBLIC_SITE_URL=https://moje-omalovanky.cz` — set in Vercel project settings, read by `src/lib/config.ts` for metadata canonical URL and OG tags
+- **Feedback:** `FeedbackWidget` (floating button + `<dialog>` modal, in `[lang]/layout.tsx`) posts to Web3Forms; needs `NEXT_PUBLIC_WEB3FORMS_KEY` in Vercel env — widget renders nothing without it
 
 ## SEO
 

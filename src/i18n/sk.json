@@ -1587,5 +1587,20 @@
     "ukraine-flag-01": { "title": "Ukrajinská vlajka", "description": "Ukrajinská vlajka s dvoma vodorovnými pruhmi modrá-žltá." },
     "uk-flag-01": { "title": "Britská vlajka", "description": "Britská vlajka Union Jack s prekrývajúcimi sa krížmi na modrom poli." },
     "vatican-flag-01": { "title": "Vatikánska vlajka", "description": "Vatikánska vlajka so zlatou a bielou polovicou a pápežskými kľúčmi." }
+  },
+  "feedback": {
+    "button": "Napíšte nám",
+    "title": "Zaujíma nás váš názor",
+    "intro": "Páčia sa vám omaľovánky? Chýba vám nejaký obrázok alebo kategória? Dajte nám vedieť.",
+    "ratingLabel": "Ako sa vám páči naša stránka?",
+    "messageLabel": "Správa",
+    "messagePlaceholder": "Čo by sme mohli zlepšiť alebo pridať?",
+    "emailLabel": "E-mail (nepovinný, ak chcete odpoveď)",
+    "emailPlaceholder": "vas@email.sk",
+    "submit": "Odoslať",
+    "sending": "Odosielam…",
+    "thanks": "Ďakujeme! Vašu správu sme dostali.",
+    "error": "Správu sa nepodarilo odoslať. Skúste to prosím znova.",
+    "close": "Zavrieť"
   }
 }

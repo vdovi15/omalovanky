@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SelectionBar } from "@/components/SelectionBar";
 import { HtmlLangPatcher } from "@/components/HtmlLangPatcher";
+import { FeedbackWidget } from "@/components/FeedbackWidget";
 import { locales, isValidLocale, type Locale } from "@/lib/i18n";
 import { getDict } from "@/lib/dict";
 import { SITE_URL, LOCALE_DOMAINS, getLocaleOrigin } from "@/lib/config";
@@ -54,6 +55,7 @@ export default async function LangLayout({ children, params }: LangLayoutProps) 
         <main>{children}</main>
       </div>
       <SelectionBar dict={dict.selection} lang={lang as Locale} />
+      <FeedbackWidget dict={dict.feedback} lang={lang as Locale} />
     </>
   );
 }

@@ -1587,5 +1587,20 @@
     "ukraine-flag-01": { "title": "Ukrainian Flag", "description": "The Ukrainian flag with blue and yellow horizontal stripes." },
     "uk-flag-01": { "title": "British Flag", "description": "The British Union Jack flag with overlapping crosses on a blue field." },
     "vatican-flag-01": { "title": "Vatican Flag", "description": "The Vatican flag with gold and white halves and papal keys." }
+  },
+  "feedback": {
+    "button": "Feedback",
+    "title": "We'd love your feedback",
+    "intro": "Enjoying the coloring pages? Missing a picture or category? Let us know.",
+    "ratingLabel": "How do you like our site?",
+    "messageLabel": "Message",
+    "messagePlaceholder": "What could we improve or add?",
+    "emailLabel": "Email (optional, if you'd like a reply)",
+    "emailPlaceholder": "you@email.com",
+    "submit": "Send",
+    "sending": "Sending…",
+    "thanks": "Thank you! We got your message.",
+    "error": "Your message couldn't be sent. Please try again.",
+    "close": "Close"
   }
 }

@@ -28,4 +28,6 @@ export const track = {
     trackEvent("coloring_multi_print", { count }),
   multiDownload: (count: number) =>
     trackEvent("coloring_multi_download", { count }),
+  feedback: (rating: string) =>
+    trackEvent("feedback_submit", { rating }),
 };
