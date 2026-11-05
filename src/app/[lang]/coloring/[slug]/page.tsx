@@ -5,7 +5,7 @@ import { notFound } from "next/navigation";
 import { ArtworkActions } from "@/components/ArtworkActions";
 import { StatsRow } from "@/components/StatsRow";
 import { categoryThemes } from "@/lib/categories";
-import { getColoringPageBySlug, getColoringPages } from "@/lib/content";
+import { getColoringPageBySlug, getColoringPages, previewSrc } from "@/lib/content";
 import { isValidLocale, type Locale, getCategoryPath } from "@/lib/i18n";
 import { getDict } from "@/lib/dict";
 import { localizeCategories } from "@/lib/localize";
@@ -85,7 +85,7 @@ export default async function ColoringDetailPage({ params }: Props) {
       <section className="detail-layout">
         <div className="detail-art">
           <Image
-            src={page.image}
+            src={previewSrc(page.image)}
             alt={page.title}
             width={1024}
             height={1536}

@@ -4,7 +4,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "predev": "node scripts/generate-previews.mjs",
+    "prebuild": "node scripts/generate-previews.mjs"
   },
   "dependencies": {
     "@next/third-parties": "^16.2.6",
@@ -18,6 +20,7 @@
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "sharp": "^0.35.5",
     "typescript": "latest"
   }
 }

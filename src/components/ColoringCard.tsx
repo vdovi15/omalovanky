@@ -4,7 +4,7 @@ import { ArtworkActions } from "@/components/ArtworkActions";
 import { SelectionToggle } from "@/components/SelectionToggle";
 import { StatsRow } from "@/components/StatsRow";
 import { categoryThemes } from "@/lib/categories";
-import { getCategoryBySlug } from "@/lib/content";
+import { getCategoryBySlug, previewSrc } from "@/lib/content";
 import { getColoringPath, getCategoryPath, type Locale } from "@/lib/i18n";
 import type { ColoringPage } from "@/types/coloring";
 
@@ -30,7 +30,7 @@ export function ColoringCard({ page, lang }: ColoringCardProps) {
           <SelectionToggle slug={page.slug} imageUrl={page.image} title={page.title} />
           <Image
             className="coloring-image"
-            src={page.image}
+            src={previewSrc(page.image)}
             alt={page.title}
             width={1024}
             height={1536}

@@ -28,3 +28,7 @@ export function getColoringPagesByCategory(category: CategorySlug) {
 export function getColoringPageBySlug(slug: string) {
   return coloringPages.find((page) => page.slug === slug);
 }
+
+export function previewSrc(image: string) {
+  return image.endsWith(".png") ? `/previews${image.replace(/\.png$/, ".webp")}` : image;
+}

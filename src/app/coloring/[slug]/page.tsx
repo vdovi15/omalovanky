@@ -4,7 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArtworkActions } from "@/components/ArtworkActions";
 import { categoryThemes } from "@/lib/categories";
-import { getColoringPageBySlug, getColoringPages, getCategoryBySlug } from "@/lib/content";
+import { getColoringPageBySlug, getColoringPages, getCategoryBySlug, previewSrc } from "@/lib/content";
 import { SITE_URL } from "@/lib/config";
 
 type ColoringDetailPageProps = {
@@ -83,7 +83,7 @@ export default async function ColoringDetailPage({
       <section className="detail-layout">
         <div className="detail-art">
           <Image
-            src={page.image}
+            src={previewSrc(page.image)}
             alt={`Omalovánka ${page.title} zdarma k tisku`}
             width={1024}
             height={1536}

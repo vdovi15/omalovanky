@@ -179,7 +179,8 @@ Site metadata lives in `src/app/layout.tsx` and uses `src/lib/config.ts` for `SI
 - TypeScript strict — no `any`
 - All CSS in `globals.css`, BEM-ish flat naming (`.coloring-card`, `.coloring-card-body`)
 - `ArtworkActions` is the only client component (`"use client"`) — needs browser APIs for print
-- `next.config.ts` has `images.unoptimized: true` — Image component used for layout, not CDN
+- `next.config.ts` has `images.unoptimized: true` — Vercel Image Optimization free tier (5,000 transformations/month) ran out and broke images, so never turn it back on
+- Images on the site are WebP previews in `public/previews/` (built by `scripts/generate-previews.mjs`, runs automatically on `predev`/`prebuild`, commit them). Use `previewSrc(image)` from `lib/content.ts` for display; downloads and print use the original PNG
 - All icon buttons (print, download, view) use white background for consistent look
 - Page background is light blue; header is white to match the hero section
 - Favicon is the flower coloring page icon (`public/favicon.ico` / `public/icon.png`)

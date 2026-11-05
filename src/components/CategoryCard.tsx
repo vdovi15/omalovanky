@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { categoryThemes } from "@/lib/categories";
 import { getCategoryPath, pluralizeColoring, type Locale } from "@/lib/i18n";
+import { previewSrc } from "@/lib/content";
 import type { Category } from "@/types/coloring";
 
 type CategoryCardProps = {
@@ -18,7 +19,7 @@ export function CategoryCard({ category, count, priority = false, lang }: Catego
     <Link className={`category-card ${theme.cardClassName}`} href={getCategoryPath(lang, category.slug)}>
       <div className="category-card-image">
         <Image
-          src={category.coverImage}
+          src={previewSrc(category.coverImage)}
           alt={category.title}
           width={520}
           height={780}
