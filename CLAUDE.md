@@ -94,7 +94,7 @@ docs/
 }
 ```
 
-- `featured: true` → appears on the homepage featured grid
+- Homepage "popular" grid = top 15 by downloads → prints → views (live Redis counts, page revalidates hourly via ISR); `featured: true` is only the tie-breaker when counts are equal
 - Pages are sorted alphabetically by title (`getColoringPages()`)
 - Image path is relative to `public/` — always `.png`
 - Never set `featured: true` without reviewing the image first

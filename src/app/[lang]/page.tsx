@@ -9,6 +9,12 @@ import { isValidLocale, type Locale, getBrowseAllPath, pluralizeColoring } from 
 import { getDict } from "@/lib/dict";
 import { localizePages, localizeCategories } from "@/lib/localize";
 import { getLocaleOrigin } from "@/lib/config";
+import { getPopularPages } from "@/lib/stats-server";
+
+// Rebuild hourly so the popular section follows live download/print/view counts
+export const dynamic = "force-static";
+export const revalidate = 3600;
+const POPULAR_COUNT = 15;
 
 type Props = { params: Promise<{ lang: string }> };
 
@@ -32,7 +38,7 @@ export default async function HomePage({ params }: Props) {
 
   const categories = localizeCategories(getCategories(), dict);
   const allPages = localizePages(getColoringPages(), dict, locale);
-  const featuredPages = allPages.filter(p => p.featured);
+  const popularPages = await getPopularPages(allPages, POPULAR_COUNT);
 
   return (
     <div className="page-stack">
@@ -66,7 +72,7 @@ export default async function HomePage({ params }: Props) {
           <p className="eyebrow">{dict.home.featuredEyebrow}</p>
           <h2>{dict.home.featuredHeading}</h2>
         </div>
-        <ColoringGrid pages={featuredPages} lang={locale} />
+        <ColoringGrid pages={popularPages} lang={locale} />
       </section>
     </div>
   );
