@@ -538,7 +538,9 @@ main {
 }
 
 .coloring-card-body {
-  display: grid;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
   gap: 4px;
   padding: 8px 10px;
 }
@@ -1114,4 +1116,35 @@ main {
   .feedback-dialog {
     display: none !important;
   }
+}
+
+.stats-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin-top: auto;
+  padding-top: 6px;
+  color: var(--ink-soft);
+  font-size: 0.75rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.stats-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  cursor: default;
+}
+
+.stats-item svg {
+  flex-shrink: 0;
+  opacity: 0.75;
+}
+
+.stats-row-large {
+  justify-content: flex-start;
+  gap: 18px;
+  margin-top: 4px;
+  font-size: 0.88rem;
 }

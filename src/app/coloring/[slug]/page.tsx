@@ -108,7 +108,7 @@ export default async function ColoringDetailPage({
                 <path d="M19 12H5M12 5l-7 7 7 7"/>
               </svg>
             </Link>
-            <ArtworkActions imageUrl={page.image} title={page.title} />
+            <ArtworkActions slug={page.slug} imageUrl={page.image} title={page.title} />
           </div>
         </div>
       </section>

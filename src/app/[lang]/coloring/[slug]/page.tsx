@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ArtworkActions } from "@/components/ArtworkActions";
+import { StatsRow } from "@/components/StatsRow";
 import { categoryThemes } from "@/lib/categories";
 import { getColoringPageBySlug, getColoringPages } from "@/lib/content";
 import { isValidLocale, type Locale, getCategoryPath } from "@/lib/i18n";
@@ -101,6 +102,7 @@ export default async function ColoringDetailPage({ params }: Props) {
               <span key={tag} className="tag-pill">{tag}</span>
             ))}
           </div>
+          <StatsRow slug={page.slug} lang={locale} trackView large />
           <div className="detail-actions">
             <Link
               className="icon-button"
@@ -112,6 +114,7 @@ export default async function ColoringDetailPage({ params }: Props) {
               </svg>
             </Link>
             <ArtworkActions
+              slug={page.slug}
               imageUrl={page.image}
               title={page.title}
               dict={dict.artwork}

@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { ArtworkActions } from "@/components/ArtworkActions";
 import { SelectionToggle } from "@/components/SelectionToggle";
+import { StatsRow } from "@/components/StatsRow";
 import { categoryThemes } from "@/lib/categories";
 import { getCategoryBySlug } from "@/lib/content";
 import { getColoringPath, getCategoryPath, type Locale } from "@/lib/i18n";
@@ -43,11 +44,13 @@ export function ColoringCard({ page, lang }: ColoringCardProps) {
           </div>
           <h3>{page.title}</h3>
           <p>{page.description}</p>
+          <StatsRow slug={page.slug} lang={lang} />
         </div>
       </Link>
       <div className="coloring-card-actions">
         <ArtworkActions
           compact
+          slug={page.slug}
           detailHref={getColoringPath(lang, page.slug)}
           imageUrl={page.image}
           title={page.title}

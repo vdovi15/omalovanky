@@ -161,6 +161,8 @@ Use `/generate-coloring` in any Claude Code session to add and generate a new co
 - **Analytics:** Vercel Analytics (`@vercel/analytics`) imported in `src/app/layout.tsx`
 - **Env var:** `NEXT_PUBLIC_SITE_URL=https://moje-omalovanky.cz` — set in Vercel project settings, read by `src/lib/config.ts` for metadata canonical URL and OG tags
 - **Feedback:** `FeedbackWidget` (floating button + `<dialog>` modal, in `[lang]/layout.tsx`) posts to Web3Forms; needs `NEXT_PUBLIC_WEB3FORMS_KEY` in Vercel env — widget renders nothing without it
+- **Stats counters:** view/print/download counts in Upstash Redis (Vercel Storage, env prefix `COUNTER_TRACKER`); `/api/stats` route + `StatsRow` component
+- **Secrets:** set in Vercel env for production and copied into `.env.local` (git-ignored) for local dev. Required: `NEXT_PUBLIC_WEB3FORMS_KEY`, `COUNTER_TRACKER_KV_REST_API_URL`, `COUNTER_TRACKER_KV_REST_API_TOKEN`, `NEXT_PUBLIC_GA_MEASUREMENT_ID`, `NEXT_PUBLIC_SITE_URL`. Never commit secrets — there is no `.env.example`
 
 ## SEO
 
