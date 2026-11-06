@@ -46,7 +46,8 @@
     "backTitle": "Powrót do kategorii",
     "tagsAriaLabel": "Tagi kolorowanki",
     "freeLabel": "bezpłatnie do druku",
-    "downloadFreeLabel": "Pobierz i drukuj bez rejestracji."
+    "downloadFreeLabel": "Pobierz i drukuj bez rejestracji.",
+    "referenceShow": "Pokaż oryginalne kolory"
   },
   "artwork": {
     "viewTitle": "Zobacz",

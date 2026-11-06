@@ -46,7 +46,8 @@
     "backTitle": "Back to category",
     "tagsAriaLabel": "Coloring page tags",
     "freeLabel": "free to print",
-    "downloadFreeLabel": "Download and print, no registration needed."
+    "downloadFreeLabel": "Download and print, no registration needed.",
+    "referenceShow": "Show original colors"
   },
   "artwork": {
     "viewTitle": "View",

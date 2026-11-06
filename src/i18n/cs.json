@@ -46,7 +46,8 @@
     "backTitle": "Zpět na kategorii",
     "tagsAriaLabel": "Štítky omalovánky",
     "freeLabel": "zdarma k tisku",
-    "downloadFreeLabel": "Stáhni a tiskni bez registrace."
+    "downloadFreeLabel": "Stáhni a tiskni bez registrace.",
+    "referenceShow": "Ukázat originální barvy"
   },
   "artwork": {
     "viewTitle": "Zobrazit",

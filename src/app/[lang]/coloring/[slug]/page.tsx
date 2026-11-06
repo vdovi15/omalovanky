@@ -120,6 +120,12 @@ export default async function ColoringDetailPage({ params }: Props) {
               dict={dict.artwork}
             />
           </div>
+          {page.referenceImage && (
+            <details className="reference-panel">
+              <summary>{dict.coloring.referenceShow}</summary>
+              <img src={page.referenceImage} alt={page.title} loading="lazy" />
+            </details>
+          )}
         </div>
       </section>
     </div>

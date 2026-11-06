@@ -13,6 +13,7 @@ export type ColoringPage = {
   description: string;
   category: CategorySlug;
   image: string;
+  referenceImage?: string;
   prompt: string;
   featured: boolean;
   ageGroup: string;

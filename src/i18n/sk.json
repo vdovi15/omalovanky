@@ -46,7 +46,8 @@
     "backTitle": "Späť na kategóriu",
     "tagsAriaLabel": "Štítky omaľovanky",
     "freeLabel": "zadarmo na tlač",
-    "downloadFreeLabel": "Stiahnuť a tlačiť bez registrácie."
+    "downloadFreeLabel": "Stiahnuť a tlačiť bez registrácie.",
+    "referenceShow": "Ukázať originálne farby"
   },
   "artwork": {
     "viewTitle": "Zobraziť",
