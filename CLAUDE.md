@@ -94,7 +94,7 @@ docs/
 }
 ```
 
-- Homepage "popular" grid = top 15 by downloads → prints → views (live Redis counts, page revalidates hourly via ISR); `featured: true` is only the tie-breaker when counts are equal
+- Homepage "popular" grid = top 15 by prints → views → downloads (live Redis counts, page revalidates hourly via ISR); `featured: true` is only the tie-breaker when counts are equal
 - Pages are sorted alphabetically by title (`getColoringPages()`)
 - Image path is relative to `public/` — always `.png`
 - Optional `referenceImage` (e.g. `/references/flags/italy.svg`) shows a collapsible "original colors" panel on the detail page. All flags have one; SVGs come from the MIT-licensed `country-flag-icons` package (3x2 set)

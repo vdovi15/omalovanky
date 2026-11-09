@@ -34,9 +34,9 @@ export async function getPopularPages<T extends ColoringPage>(pages: T[], limit:
   }
 
   const score = (p: T) => [
-    stats.downloads[p.slug] ?? 0,
     stats.prints[p.slug] ?? 0,
     stats.views[p.slug] ?? 0,
+    stats.downloads[p.slug] ?? 0,
     p.featured ? 1 : 0,
   ];
 

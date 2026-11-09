@@ -11,7 +11,7 @@ import { localizePages, localizeCategories } from "@/lib/localize";
 import { getLocaleOrigin } from "@/lib/config";
 import { getPopularPages } from "@/lib/stats-server";
 
-// Rebuild hourly so the popular section follows live download/print/view counts
+// Rebuild hourly so the popular section follows live print/view/download counts
 export const dynamic = "force-static";
 export const revalidate = 3600;
 const POPULAR_COUNT = 15;
